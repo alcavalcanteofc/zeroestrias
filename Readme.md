@@ -1,125 +1,1978 @@
 
-<!DOCTYPE html><!-- Created with https://systeme.io --><html lang="pt-BR" data-reactroot=""><head><link rel="icon" type="image/jpeg" href="https://d1yei2z3i6k35z.cloudfront.net/8084894/666b49fed86ef_Logoestticadelicadaroxoebranco.jpg"><title data-react-helmet="true">Página Oficial! </title><meta data-react-helmet="true" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/><meta data-react-helmet="true" name="title" content="Página Oficial! "/><meta data-react-helmet="true" name="description" content="Um E-book com dicas práticas de especialistas, para te ajudar a eliminar as ESTRIAS."/><meta data-react-helmet="true" name="author" content="Alan Cavalcante"/><meta data-react-helmet="true" name="keywords" content="estria , tratamento estrias ,como remover estrias , eliminar estria , receita de estria"/><meta data-react-helmet="true" property="og:image" content="https://d1yei2z3i6k35z.cloudfront.net/8084894/6663ac94e3f97_Ebookcompletodetoxemocionalrosaeazul.jpg"/><meta data-react-helmet="true" property="og:image:alt" content="Página Oficial! "/><meta data-react-helmet="true" property="og:title" content="Página Oficial! "/><meta data-react-helmet="true" property="og:description" content="Um E-book com dicas práticas de especialistas, para te ajudar a eliminar as ESTRIAS."/><meta data-react-helmet="true" property="og:url" content="https://topcursosoficial.systeme.io/zeroestrias"/><style data-styled="kmimHd ixauao jqPgsk kFnwhL hfZLyj chFZBm dxBVXC jNMYNh llKvko hJlSIm eGnVGa cuZHDu cJrFeG cUGQcg jxkdap CMVX kzUqRe ksPMQi cwmDTe gsJEPu gUrCqM cBsQBi LfAzK iapBgT kLXRjE kfEChq jhDiDI dlghmL fIhfRM cVPmiU jqOngq NtIXI gIyOtq cwYXUY ifbDUV hoiRck WhCSR gRPSwB gHvTOe cderoV gDUcdX gGNKIY cSOshW eWjzbc cMwDXE lelyxy cdNWxF gKdpxn jImMFy hEaAR hXgkFm jqOycx fqYvJU kjTkvQ kcRulL HPvuF hBvLGy ZSIFt ceyvgD emGjhE EGLwA gYJwkZ kqTGZD gEBTNe ctLYKs fKDpFJ derSwZ lbjvgp eLXIQQ hdsKEB cGknkE gocWpL eSRfus dHXssy kvANPa jBomsV gvjgri bJiLCy hiVaQk hoVTGF iDwetz fsJHfl bnNkCE CvugY cFCtGT cfhimK kAvSvN dGDYKN ehKelu boyEze dGaMNp ldPZyG dhwOsS fHcgqN hTXkdt fBJxmj gYwire kVbjgA iNFiaY fdsCBs waxRe hbSJNb fcKgKL gYoNBZ eqoTOr fLKXnD hETMsR lbbDDt bsUBYZ jopuBJ ieqkiw hoOmly juNEZ jiPajp" data-styled-version="4.4.0">
-/* sc-component-id: sc-global-678262822 */
-html{box-sizing:border-box;-webkit-scroll-behavior:smooth;-moz-scroll-behavior:smooth;-ms-scroll-behavior:smooth;scroll-behavior:smooth;} body{margin:0;} a{-webkit-text-decoration:none;text-decoration:none;} p span > a[href^="tel:"]{color:inherit;} p{margin:0;} *,*:before,*:after{box-sizing:inherit;} *{-webkit-font-smoothing:antialiased;} h1,h2,h3,h4,h5,h6{margin:0;font-weight:normal;} section h1{margin:0;} button,input{margin:0;font-family:unset;} ul{margin:0;} .fixed{position:fixed;top:0px;left:0px;width:320px;height:50px;background:red;-webkit-backface-visibility:hidden;}
-/* sc-component-id: sc-bdVaJa */
-.hbSJNb{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;color:#fff;font-family:inherit;font-weight:inherit;font-style:inherit;background:rgba(1,116,199,1);border:none;text-align:center;padding:9px 25px;cursor:pointer;opacity:1;word-break:break-word;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;outline:none;-webkit-transition:0.3s;transition:0.3s;display:inline-block;-webkit-text-decoration:none;text-decoration:none;box-sizing:border-box;color:rgba(255,255,255,1);width:auto;padding:15px 90px 15px 90px;font-size:20px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;font-style:normal;background:rgba(65,117,5,1);font-family:Anton;font-weight:400;border-color:rgba(1,77,130,1);border-style:solid;border-width:3px;border-top-left-radius:3px;border-top-right-radius:3px;border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-top-width:0;border-left-width:0;border-right-width:0;} .hbSJNb:disabled{cursor:default;opacity:0.7;} .hbSJNb:hover{color:rgba(255,255,255,1);} @media only screen and (max-width:800px){.hbSJNb{width:100%;padding:5px 5px 5px 5px;font-size:20px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;box-shadow:none;}}.fcKgKL{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;color:#fff;font-family:inherit;font-weight:inherit;font-style:inherit;background:rgba(1,116,199,1);border:none;text-align:center;padding:9px 25px;cursor:pointer;opacity:1;word-break:break-word;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;outline:none;-webkit-transition:0.3s;transition:0.3s;display:inline-block;-webkit-text-decoration:none;text-decoration:none;box-sizing:border-box;color:rgba(255,255,255,1);width:auto;padding:14px 40px 14px 40px;font-size:16px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;font-style:normal;background:rgba(65,117,5,1);font-family:Anton;font-weight:400;line-height:24px;border-color:rgba(1,77,130,1);border-style:none;border-width:3px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-width:0;border-left-width:0;border-right-width:0;} .fcKgKL:disabled{cursor:default;opacity:0.7;} .fcKgKL:hover{color:rgba(255,255,255,1);} @media only screen and (max-width:800px){.fcKgKL{width:100%;padding:14px 14px 14px 14px;font-size:18px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;box-shadow:none;line-height:28px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;}}.gYoNBZ{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;color:#fff;font-family:inherit;font-weight:inherit;font-style:inherit;background:rgba(1,116,199,1);border:none;text-align:center;padding:9px 25px;cursor:pointer;opacity:1;word-break:break-word;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;outline:none;-webkit-transition:0.3s;transition:0.3s;display:inline-block;-webkit-text-decoration:none;text-decoration:none;box-sizing:border-box;color:rgba(255,255,255,1);width:auto;padding:14px 40px 14px 40px;font-size:16px;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;font-style:normal;background:rgba(65,117,5,1);font-family:Anton;font-weight:400;line-height:24px;border-color:rgba(1,77,130,1);border-style:none;border-width:3px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-width:0;border-left-width:0;border-right-width:0;} .gYoNBZ:disabled{cursor:default;opacity:0.7;} .gYoNBZ:hover{color:rgba(255,255,255,1);} @media only screen and (max-width:800px){.gYoNBZ{width:100%;padding:14px 14px 14px 14px;font-size:18px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;box-shadow:none;line-height:28px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;}}
-/* sc-component-id: sc-bwzfXH */
-.eqoTOr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}
-/* sc-component-id: sc-bxivhb */
-.fLKXnD{-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;color:rgba(255,255,255,0.8);font-size:14px;} @media only screen and (max-width:800px){.fLKXnD{font-size:14px;}}
-/* sc-component-id: sc-rBLzX */
-.eLXIQQ{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:51px;color:rgba(25,25,25,1);font-family:Anton;font-weight:400;font-style:normal;text-align:left;line-height:55px;} .eLXIQQ a{color:rgba(25,25,25,1);} .eLXIQQ a > span{color:rgba(25,25,25,1);} .eLXIQQ a:hover{box-shadow:inset 0 -1px 0;} .eLXIQQ a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.eLXIQQ{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:34px;text-align:center;line-height:40px;}}.hdsKEB{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:20px;color:rgba(25,25,25,1);font-family:inherit;text-align:left;line-height:24px;} .hdsKEB a{color:rgba(25,25,25,1);} .hdsKEB a > span{color:rgba(25,25,25,1);} .hdsKEB a:hover{box-shadow:inset 0 -1px 0;} .hdsKEB a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.hdsKEB{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:18px;text-align:center;line-height:26px;}}.cGknkE{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:20px;color:rgba(25,25,25,1);font-family:inherit;text-align:center;} .cGknkE a{color:rgba(25,25,25,1);} .cGknkE a > span{color:rgba(25,25,25,1);} .cGknkE a:hover{box-shadow:inset 0 -1px 0;} .cGknkE a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.cGknkE{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:20px;}}.gocWpL{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:16px;color:rgba(25,25,25,1);font-family:"Nunito Sans";text-align:center;line-height:24px;} .gocWpL a{color:rgba(25,25,25,1);} .gocWpL a > span{color:rgba(25,25,25,1);} .gocWpL a:hover{box-shadow:inset 0 -1px 0;} .gocWpL a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.gocWpL{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;}}.eSRfus{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:46px;color:rgba(25,25,25,1);font-family:"Nunito Sans";font-weight:700;font-style:normal;text-align:center;line-height:54px;} .eSRfus a{color:rgba(25,25,25,1);} .eSRfus a > span{color:rgba(25,25,25,1);} .eSRfus a:hover{box-shadow:inset 0 -1px 0;} .eSRfus a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.eSRfus{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:26px;line-height:32px;}}.dHXssy{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:18px;color:rgba(25,25,25,1);font-family:"Nunito Sans";text-align:center;line-height:26px;} .dHXssy a{color:rgba(25,25,25,1);} .dHXssy a > span{color:rgba(25,25,25,1);} .dHXssy a:hover{box-shadow:inset 0 -1px 0;} .dHXssy a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.dHXssy{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:18px;text-align:center;line-height:26px;}}.kvANPa{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:28px;color:rgba(25,25,25,1);font-family:Anton;font-weight:400;font-style:normal;text-align:left;line-height:34px;} .kvANPa a{color:rgba(25,25,25,1);} .kvANPa a > span{color:rgba(25,25,25,1);} .kvANPa a:hover{box-shadow:inset 0 -1px 0;} .kvANPa a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.kvANPa{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:34px;text-align:center;line-height:40px;}}.jBomsV{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:18px;color:rgba(25,25,25,1);font-family:"Nunito Sans";text-align:left;} .jBomsV a{color:rgba(25,25,25,1);} .jBomsV a > span{color:rgba(25,25,25,1);} .jBomsV a:hover{box-shadow:inset 0 -1px 0;} .jBomsV a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.jBomsV{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:18px;text-align:center;line-height:26px;}}.gvjgri{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:32px;color:rgba(25,25,25,1);font-family:Anton;font-weight:400;font-style:normal;text-align:left;} .gvjgri a{color:rgba(25,25,25,1);} .gvjgri a > span{color:rgba(25,25,25,1);} .gvjgri a:hover{box-shadow:inset 0 -1px 0;} .gvjgri a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.gvjgri{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:24px;text-align:center;}}.bJiLCy{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:16px;color:rgba(25,25,25,1);font-family:"Nunito Sans";text-align:left;line-height:24px;} .bJiLCy a{color:rgba(25,25,25,1);} .bJiLCy a > span{color:rgba(25,25,25,1);} .bJiLCy a:hover{box-shadow:inset 0 -1px 0;} .bJiLCy a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.bJiLCy{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;text-align:center;}}.hiVaQk{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:36px;color:rgba(25,25,25,1);font-family:Anton;font-weight:400;font-style:normal;text-align:center;} .hiVaQk a{color:rgba(25,25,25,1);} .hiVaQk a > span{color:rgba(25,25,25,1);} .hiVaQk a:hover{box-shadow:inset 0 -1px 0;} .hiVaQk a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.hiVaQk{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:26px;}}.hoVTGF{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;-webkit-flex-basis:inherit;-ms-flex-preferred-size:inherit;flex-basis:inherit;font-size:16px;color:rgba(25,25,25,1);font-family:"Nunito Sans";text-align:left;line-height:24px;} .hoVTGF a{color:rgba(25,25,25,1);} .hoVTGF a > span{color:rgba(25,25,25,1);} .hoVTGF a:hover{box-shadow:inset 0 -1px 0;} .hoVTGF a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.hoVTGF{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;}}
-/* sc-component-id: sc-laTMn */
-.jqPgsk{position:absolute;z-index:0;height:100%;width:100%;top:0;left:0;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;width:100%;z-index:-1;-webkit-filter:blur(0px);filter:blur(0px);background-image:none;} @media only screen and (max-width:800px){.jqPgsk{background-image:none;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;width:100%;}} @media only screen and (min-device-width:768px) and (max-device-width:1024px){}
-/* sc-component-id: sc-hGoxap */
-.ixauao{position:relative;width:100%;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;width:100%;} @media only screen and (max-width:800px){.ixauao{background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;width:100%;}}
-/* sc-component-id: sc-fONwsr */
-.fqYvJU{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:13;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.fqYvJU{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.kjTkvQ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:6;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.kjTkvQ{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.kcRulL{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:6;grid-column-end:13;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.kcRulL{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.HPvuF{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:5;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.HPvuF{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.hBvLGy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:5;grid-column-end:9;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.hBvLGy{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.ZSIFt{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:9;grid-column-end:13;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.ZSIFt{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.ceyvgD{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:3;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.ceyvgD{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.emGjhE{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:3;grid-column-end:11;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.emGjhE{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.EGLwA{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:11;grid-column-end:13;-webkit-align-self:flex-end;-ms-flex-item-align:end;align-self:flex-end;} @media only screen and (max-width:800px){.EGLwA{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.gYJwkZ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:7;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.gYJwkZ{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}.kqTGZD{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:7;grid-column-end:13;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.kqTGZD{-webkit-align-self:unset;-ms-flex-item-align:unset;align-self:unset;width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}}
-/* sc-component-id: sc-iqzUVk */
-.lbjvgp{font-size:38px;color:rgba(208,2,27,1);} @media only screen and (max-width:800px){.lbjvgp{font-size:20px;color:rgba(208,2,27,1);}}
-/* sc-component-id: sc-ipZHIp */
-.fKDpFJ{font-weight:bold;font-size:38px;color:rgba(208,2,27,1);} @media only screen and (max-width:800px){.fKDpFJ{font-size:20px;color:rgba(208,2,27,1);}}
-/* sc-component-id: sc-iGrrsa */
-.derSwZ{text-transform:uppercase;font-size:19px;color:rgba(255,255,255,1);} @media only screen and (max-width:800px){.derSwZ{font-size:16px;color:rgba(208,2,27,1);}}
-/* sc-component-id: sc-bmyXtO */
-.ctLYKs{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:0 5px;}
-/* sc-component-id: sc-dEoRIm */
-.gEBTNe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;font-family:"Open Sans";font-weight:700;font-style:normal;} @media only screen and (max-width:800px){}
-/* sc-component-id: sc-jrIrqw */
-.ldPZyG{display:block;max-width:100%;object-fit:contain;width:429px;} @media only screen and (max-width:800px){.ldPZyG{width:300px;}}.dhwOsS{display:block;max-width:100%;object-fit:contain;width:99px;} @media only screen and (max-width:800px){}.fHcgqN{display:block;max-width:100%;object-fit:contain;width:101px;} @media only screen and (max-width:800px){}.hTXkdt{display:block;max-width:100%;object-fit:contain;width:81px;} @media only screen and (max-width:800px){}.fBJxmj{display:block;max-width:100%;object-fit:contain;width:233px;} @media only screen and (max-width:800px){.fBJxmj{width:181px;}}.gYwire{display:block;max-width:100%;object-fit:contain;width:399px;} @media only screen and (max-width:800px){.gYwire{width:200px;}}.kVbjgA{display:block;max-width:100%;object-fit:contain;width:540px;} @media only screen and (max-width:800px){}.iNFiaY{display:block;max-width:100%;object-fit:contain;width:389px;} @media only screen and (max-width:800px){}.fdsCBs{display:block;max-width:100%;object-fit:contain;width:69px;} @media only screen and (max-width:800px){}.waxRe{display:block;max-width:100%;object-fit:contain;width:72px;} @media only screen and (max-width:800px){}
-/* sc-component-id: sc-hjRWVT */
-.iDwetz{-webkit-align-self:flex-end;-ms-flex-item-align:end;align-self:flex-end;} @media only screen and (max-width:800px){.iDwetz{-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;}}.fsJHfl{-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;} @media only screen and (max-width:800px){}.bnNkCE{-webkit-align-self:flex-end;-ms-flex-item-align:end;align-self:flex-end;} @media only screen and (max-width:800px){}.CvugY{-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.CvugY{-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;}}.cFCtGT{-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;} @media only screen and (max-width:800px){.cFCtGT{-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;}}
-/* sc-component-id: sc-iybRtq */
-.cfhimK{position:relative;display:block;height:0;overflow:visible;padding-bottom:156.25%;}.kAvSvN{position:relative;display:block;height:0;overflow:visible;padding-bottom:100.00%;}.dGDYKN{position:relative;display:block;height:0;overflow:visible;padding-bottom:60.61%;}.ehKelu{position:relative;display:block;height:0;overflow:visible;padding-bottom:75.19%;}.boyEze{position:relative;display:block;height:0;overflow:visible;padding-bottom:149.25%;}.dGaMNp{position:relative;display:block;height:0;overflow:visible;padding-bottom:95.24%;}
-/* sc-component-id: sc-hUfwpO */
-.eWjzbc{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;background-image:none;-webkit-column-gap:unset !important;column-gap:unset !important;} @media only screen and (max-width:800px){.eWjzbc{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;}} @media only screen and (max-width:800px){.eWjzbc{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;background-image:none;}}.cMwDXE{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;background-image:none;} @media only screen and (max-width:800px){.cMwDXE{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}} @media only screen and (max-width:800px){.cMwDXE{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;background-image:none;}}.lelyxy{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;background-image:none;} @media only screen and (max-width:800px){.lelyxy{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}} @media only screen and (max-width:800px){.lelyxy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;background-image:none;}}.cdNWxF{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;padding-right:30px;padding-left:30px;background-image:none;-webkit-column-gap:unset !important;column-gap:unset !important;} @media only screen and (max-width:800px){.cdNWxF{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}} @media only screen and (max-width:800px){.cdNWxF{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;background-image:none;}}.gKdpxn{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;background-image:none;} @media only screen and (max-width:800px){.gKdpxn{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;}} @media only screen and (max-width:800px){.gKdpxn{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;background-image:none;}}.jImMFy{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;background-color:rgba(253,244,230,1);padding-top:64px;padding-right:64px;padding-bottom:64px;padding-left:64px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;background-image:none;-webkit-column-gap:unset !important;column-gap:unset !important;} @media only screen and (max-width:800px){.jImMFy{padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px;}} @media only screen and (max-width:800px){.jImMFy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;background-image:none;}}.hEaAR{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;background-color:rgba(0,0,0,0);background-image:none;} @media only screen and (max-width:800px){.hEaAR{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}} @media only screen and (max-width:800px){.hEaAR{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column-reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse;grid-template-columns:auto;background-image:none;}}.hXgkFm{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;padding-top:10px;padding-right:10px;padding-left:10px;background-image:none;} @media only screen and (max-width:800px){.hXgkFm{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;}} @media only screen and (max-width:800px){.hXgkFm{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column-reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse;grid-template-columns:auto;background-image:none;}}.jqOycx{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:20px;column-gap:20px;padding-top:10px;padding-bottom:10px;background-image:none;-webkit-column-gap:unset !important;column-gap:unset !important;} @media only screen and (max-width:800px){.jqOycx{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;}} @media only screen and (max-width:800px){.jqOycx{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;background-image:none;}}
-/* sc-component-id: sc-eLdqWK */
-.NtIXI{max-width:1120px;width:100%;margin:auto;background-color:transparent;} @media only screen and (max-width:800px){.NtIXI{background-color:transparent;}}.gIyOtq{max-width:1120px;width:100%;margin:auto;background-color:rgba(0,0,0,0);} @media only screen and (max-width:800px){.gIyOtq{background-color:rgba(0,0,0,0);}}.cwYXUY{max-width:720px;width:100%;margin:auto;background-color:transparent;} @media only screen and (max-width:800px){.cwYXUY{background-color:transparent;}}
-/* sc-component-id: sc-iiUIRa */
-.kfEChq{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:40px 40px 0px 40px;background-size:initial;background-color:rgba(84,7,100,1);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.kfEChq{width:100%;padding:40px 16px 20px 16px;background-size:initial;background-color:rgba(84,7,100,1);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.jhDiDI{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:80px 40px 80px 40px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.jhDiDI{width:100%;padding:56px 16px 64px 16px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.dlghmL{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:40px 40px 80px 40px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.dlghmL{width:100%;padding:40px 16px 40px 16px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.fIhfRM{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:40px 40px 0px 40px;box-shadow:none;background-size:100%;background-color:rgba(144,19,254,1);background-repeat:no-repeat;background-position:50% 0%;background-attachment:initial;background-image:url("https://d1yei2z3i6k35z.cloudfront.net/systeme-common/6364e73e22d6b_Fondorange2copie.png");} @media only screen and (max-width:800px){.fIhfRM{width:100%;padding:56px 16px 0px 16px;box-shadow:none;background-size:initial;background-color:rgba(236,150,7,0.2);background-repeat:no-repeat;background-position:50% 0%;background-attachment:initial;background-image:none;}}.cVPmiU{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:40px 40px 40px 40px;box-shadow:0px 1px 5px 0px rgba(0,0,0,0.2);background-size:100%;background-repeat:no-repeat;background-position:50% 0%;background-attachment:initial;background-image:url("https://d1yei2z3i6k35z.cloudfront.net/systeme-common/6364e800649bc_Fondorange4.png");} @media only screen and (max-width:800px){.cVPmiU{width:100%;padding:40px 5px 40px 5px;box-shadow:0px 1px 5px 0px rgba(0,0,0,0.2);background-size:100%;background-repeat:no-repeat;background-position:50% 0%;background-attachment:initial;background-color:rgba(236,150,7,0.2);background-image:none;}}.jqOngq{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:40px 40px 100px 40px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.jqOngq{width:100%;padding:40px 5px 40px 5px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}
-/* sc-component-id: sc-jqIZGH */
-.juNEZ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-color:#1b95e0;color:#ffffff;padding:5px 8px 5px 6px;border-radius:3px;font-size:13px;font-family:'Helvetica Neue',Arial,sans-serif;-webkit-text-decoration:none;text-decoration:none;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;} .juNEZ > span{margin-left:4px;} .juNEZ:hover{background-color:#0c7abf;} @media only screen and (max-width:800px){.juNEZ{width:100%;-webkit-align-self:undefined;-ms-flex-item-align:undefined;align-self:undefined;}}
-/* sc-component-id: sc-jMMfwr */
-.hoOmly{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}
-/* sc-component-id: sc-nrwXf */
-.hETMsR{display:grid;grid-gap:15px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;} @media only screen and (max-width:800px){.hETMsR{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}}
-/* sc-component-id: sc-eitiEO */
-.jopuBJ{color:rgba(236,150,7,1);-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);display:inline-block;} @media only screen and (max-width:800px){.jopuBJ{display:inline-block;}} @media only screen and (max-width:800px){}
-/* sc-component-id: sc-bhlBdH */
-.ieqkiw{height:0;overflow:hidden;}
-/* sc-component-id: sc-AnqlK */
-.bsUBYZ{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:18px;color:rgba(24,24,24,1);font-family:TTNormsPro-Bold;cursor:pointer;} @media only screen and (max-width:800px){.bsUBYZ{font-size:18px;}}
-/* sc-component-id: sc-keFjpB */
-.lbbDDt{border-radius:5px;background-color:rgba(241,244,248,0);padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;box-shadow:0px 1px 5px 0px rgba(0,0,0,0.2);} @media only screen and (max-width:800px){.lbbDDt{padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;}}
-/* sc-component-id: sc-cNQqM */
-.kFnwhL{position:relative;id:section-1cfd6959;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.kFnwhL{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.hfZLyj{position:relative;margin-top:80px;margin-left:0;margin-right:-56px;margin-bottom:20px;} @media only screen and (max-width:800px){.hfZLyj{margin-top:0;margin-left:0;margin-right:0;margin-bottom:18px;}}.chFZBm{position:relative;margin-top:0;margin-left:0;margin-right:0;margin-bottom:40px;} @media only screen and (max-width:800px){.chFZBm{margin-top:0;margin-left:0;margin-right:0;margin-bottom:32px;}}.dxBVXC{position:relative;margin-top:25px;margin-left:0px;margin-bottom:0px;margin-right:0px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;} @media only screen and (max-width:800px){.dxBVXC{margin-top:5px;margin-left:0px;margin-bottom:5px;margin-right:0px;}}.jNMYNh{position:relative;id:section-04b99293;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.jNMYNh{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.llKvko{position:relative;margin-top:20px;margin-left:0;margin-right:0;margin-bottom:10px;} @media only screen and (max-width:800px){.llKvko{margin-top:10px;margin-left:0;margin-right:0;margin-bottom:10px;}}.hJlSIm{position:relative;margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.hJlSIm{margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;}}.eGnVGa{position:relative;id:section-aec90b1e;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.eGnVGa{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.cuZHDu{position:relative;margin-top:0;margin-left:0;margin-right:0;margin-bottom:26px;} @media only screen and (max-width:800px){.cuZHDu{margin-top:0;margin-left:0;margin-right:0;margin-bottom:26px;}}.cJrFeG{position:relative;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;} @media only screen and (max-width:800px){.cJrFeG{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.cUGQcg{position:relative;id:section-e912efbd;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.cUGQcg{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.jxkdap{position:relative;margin-top:60px;margin-left:0;margin-right:0;margin-bottom:10px;} @media only screen and (max-width:800px){.jxkdap{margin-top:0;margin-left:0;margin-right:0;margin-bottom:26px;}}.CMVX{position:relative;margin-top:20px;margin-left:0;margin-right:0;margin-bottom:10px;} @media only screen and (max-width:800px){.CMVX{margin-top:0;margin-left:0;margin-right:0;margin-bottom:26px;}}.kzUqRe{position:relative;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;} @media only screen and (max-width:800px){.kzUqRe{margin-top:0px;margin-left:0px;margin-bottom:40px;margin-right:0px;}}.ksPMQi{position:relative;id:section-13e1a2bb;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.ksPMQi{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.cwmDTe{position:relative;margin-top:60px;margin-left:0;margin-right:0;margin-bottom:10px;} @media only screen and (max-width:800px){.cwmDTe{margin-top:20px;margin-left:0;margin-right:0;margin-bottom:10px;}}.gsJEPu{position:relative;margin-top:20px;margin-left:0;margin-right:0;margin-bottom:20px;} @media only screen and (max-width:800px){.gsJEPu{margin-top:20px;margin-left:0;margin-right:0;margin-bottom:20px;}}.gUrCqM{position:relative;id:section-b9d919fc;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.gUrCqM{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.cBsQBi{position:relative;margin-top:20px;margin-left:0;margin-right:0;margin-bottom:30px;} @media only screen and (max-width:800px){.cBsQBi{margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;}}.LfAzK{position:relative;margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.LfAzK{margin-top:20px;margin-left:0;margin-right:0;margin-bottom:0;}}.iapBgT{position:relative;margin-top:0;margin-left:0;margin-right:30px;margin-bottom:0;} @media only screen and (max-width:800px){.iapBgT{margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;}}.kLXRjE{position:relative;text-align:left;} @media only screen and (max-width:800px){}
-/* sc-component-id: sc-eqPNPO */
-.ifbDUV{position:relative;text-align:initial;margin:0px 0px 0px 0px;} @media only screen and (max-width:800px){.ifbDUV{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.hoiRck{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:0px 0px 0px 40px;} @media only screen and (max-width:800px){.hoiRck{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.WhCSR{position:relative;text-align:initial;margin:0px 0px 0px 0px;} @media only screen and (max-width:800px){.WhCSR{margin-top:0px;margin-right:0px;margin-bottom:40px;margin-left:0px;}}.gRPSwB{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:0px 0px 0px 0px;} @media only screen and (max-width:800px){.gRPSwB{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.gHvTOe{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:0px 40px 0px 0px;} @media only screen and (max-width:800px){.gHvTOe{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.cderoV{position:relative;text-align:initial;margin:-20px 40px 0px 40px;} @media only screen and (max-width:800px){.cderoV{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.gDUcdX{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:-140px 0px 0px 20px;} @media only screen and (max-width:800px){.gDUcdX{margin-top:-40px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.gGNKIY{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:-40px 0px -45px 0px;} @media only screen and (min-width:801px){.gGNKIY{display:none;}} @media only screen and (max-width:800px){.gGNKIY{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.cSOshW{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:-40px 0px -45px 0px;} @media only screen and (max-width:800px){.cSOshW{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}
-/* sc-component-id: sc-jWxkHr */
-.jiPajp{font-display:swap;word-break:break-word;color:rgba(25,25,25,1);font-size:20px;padding:5px 5px 5px 5px;font-size:20px;margin-top:0px;text-align:left;line-height:34px;margin-left:30px;margin-right:0px;margin-bottom:0px;} .jiPajp a:hover{box-shadow:inset 0 -1px 0;} .jiPajp a > span:hover{box-shadow:inset 0 -1px 0;} .jiPajp ul{margin-left:25px;padding-left:0;} .jiPajp li{list-style:none !important;margin-left:0 !important;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:baseline;-webkit-box-align:baseline;-ms-flex-align:baseline;align-items:baseline;} .jiPajp li:last-of-type{margin-bottom:0;} .jiPajp li div{display:inline;} .jiPajp h1,.jiPajp h2,.jiPajp h3,.jiPajp h4,.jiPajp h5,.jiPajp h6{font-size:20px;} .jiPajp a{color:rgba(25,25,25,1);} .jiPajp a > span{color:rgba(25,25,25,1);} .jiPajp h1,.jiPajp h2,.jiPajp h3,.jiPajp h4,.jiPajp h5,.jiPajp h6{margin:0;} @media only screen and (max-width:800px){.jiPajp{font-size:16px;font-size:18px;margin-top:0px;text-align:left;line-height:28px;margin-left:10px;margin-right:0px;margin-bottom:0px;}.jiPajp h1,.jiPajp h2,.jiPajp h3,.jiPajp h4,.jiPajp h5,.jiPajp h6{font-size:16px;}.jiPajp h1,.jiPajp h2,.jiPajp h3,.jiPajp h4,.jiPajp h5,.jiPajp h6{font-size:18px;}.jiPajp li{margin-bottom:0px;}}
-/* sc-component-id: sc-jGFFOr */
-.kmimHd{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;height:100%;min-height:100vh;position:relative;font-family:"Nunito Sans";font-weight:400;font-style:normal;}</style><link data-react-helmet="true" rel="canonical" href="https://topcursosoficial.systeme.io/zeroestrias"/><style type="text/css">
-          @font-face {
-            font-family: "Nunito Sans";
-            font-style: normal;
-            font-weight: 700;
-            src: url(https://d3syewzhvzylbl.cloudfront.net/fonts/google-fonts/nunitosans/700.woff2) format('woff2');
-          }
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html
+  lang="en"
+  
+  data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
+  data-a11y-animated-images="system" data-a11y-link-underlines="true"
+  >
+
+
+
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
+
+  
+
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-efd2f2257c96.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-6b1e37da2254.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-aa16bfa90fb8.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-f4daad25d8cf.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-a4629b2e906b.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-afcc3a6a38dd.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-79bca7145393.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-fe4137b54b26.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-1911f0cf0db4.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-8500c2c7ce5f.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-9f7b2e63c497.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-fe6db6dfddd1.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-cf4e90581e80.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-992e95451f25.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/wiki-a3d891cbc61f.css" />
+
+  
+
+
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["ab_test_homepage_what_is_copilot_video","code_vulnerability_scanning","copilot_beta_features_opt_in","copilot_chat_conversation_intent_knowledge_search_skill","copilot_chat_static_thread_suggestions","copilot_completion_new_domain","copilot_conversational_ux_history_refs","copilot_followup_to_agent","copilot_implicit_context","copilot_smell_icebreaker_ux","custom_inp","experimentation_azure_variant_endpoint","failbot_handle_non_errors","geojson_azure_maps","ghas_copilot_agents_ga_web_updates","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","ghost_pilot_stream_handling","hovercard_accessibility","hovercard_longer_activate_timeout","marketing_pages_search_explore_provider","remove_child_patch","sample_network_conn_type","site_metered_billing_update","ignore_hidden_in_quote_reply"]}</script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-28735640b514.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-89a69c248502.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-56729c905fe2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_smoothscroll-polyfill_di-75db2e-686488490524.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-4a62f2832289.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-c9086a4fb62b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-7b95699705bc.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_anchored-position_js-node_modules_fzy_js_index-05960a-797b1227c4b8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_details-d-ed9a97-841122a1e9d4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_text-expander-element_dist_index_js-cd48220d74d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_delegated-events_dist_in-3efda3-701acb69193f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-2e8678-34feeec9c894.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_clipboard-copy-element_-782ca5-54763cd55b96.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-3959a9-75f3254c34d2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_onfocus_ts-ui_packages_trusted-types-policies_policy_ts-ui_packages-6fe316-9d50d6f10c3d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-221b0e7d77a3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-a007f881064c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-7901e7-dc88587c14ed.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_stack-68835d-a18220f1db8d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-ce7225a304c5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-f8a5485c982a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-858e043fcf76.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-893f9f-6cf3320416b8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_scroll-anchoring_dist_scroll-anchoring_esm_js-node_modules_github_hotkey-1a1d91-fa9f29a8514b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-0e07cc183eed.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_session-resume_dist_index_js-node_modules_primer_behaviors_dist_e-ac74c6-5e03381c44b5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_dimensions_js-node_modules_github_jtml_lib_index_js-53b423ede32a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_textarea-autosi-9e0349-ab4976fc78a6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_updatable-content_updatable-content_ts-a2009221d154.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_onfocus_ts-app_ass-421cec-f0e1d31bff9a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-112600808cf9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-467754-8b1a4442f9b3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-4accd4baf37d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-6deafe-fc95155e233a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-717439266b6b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-bf7e5a3732fd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-3ddac678adaf.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-96453a51f920.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-fddfb8-5cf727a080bf.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_scroll-anchoring_di-087b76-e6a5ec1d5a5c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_ref-selector_ts-00df584d9e79.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-d80317-2ff514314e18.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-e1b3a9dcd80e.js"></script>
+  
+    <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-7b7b5264f6c1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_primer_octicons-react_di-b40d97-06881c63f955.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-55a9038b54f0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-b0edbfb6a9e5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-4d5019830e3c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_clsx_dist_clsx_m_js-node_modules_primer_react_node_modules_primer_octico-c56103-e91295e60abd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-f646728c385c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionMenu_ActionMenu_js-node_modules_primer_react_-5b2420-048f91dcedb3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Text_Text_js-node_modules_primer_react_lib-esm_Text-7845da-adcc76ee8848.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FormControl_FormControl_js-1f51ab2bdcca.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FilteredActionList_FilteredActionList_js-5a52bf212e2b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Dialog_js-node_modules_primer_react_lib-esm_Feature-cdf735-892e8f58058f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-40bb20608465.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-subscriptions-menu-be1efa498152.js"></script>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.572fff1cb5c3caef1ac9.module.css" />
+
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_delegated-events_dist_in-d62d7d4-c2b8a43ad7b4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wiki-280a7ac2fbdc.js"></script>
+
+
+  <title>COMO REMOVER ESTRIAS · alcavalcanteofc/zeroestrias Wiki · GitHub</title>
+
+
+
+  <meta name="route-pattern" content="/:user_id/:repository/wiki/:id(.:format)" data-turbo-transient>
+  <meta name="route-controller" content="wiki" data-turbo-transient>
+  <meta name="route-action" content="show" data-turbo-transient>
+
+    
+  <meta name="current-catalog-service-hash" content="27690012a2eb28b75d0bacab0f2c11870266e8db9e019fa71fea812b82397bd6">
+
+
+  <meta name="request-id" content="CB34:28EEF5:1CD7A8:1EA34A:66CCFBD9" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a3a3fae45b3cca253f5269aace45541fdf7b1ed7ac69a82e80f8d00b8e55f7ca" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDQjM0OjI4RUVGNToxQ0Q3QTg6MUVBMzRBOjY2Q0NGQkQ5IiwidmlzaXRvcl9pZCI6Ijg0ODcyMzAwODQ0NTI1MTQ3NzciLCJyZWdpb25fZWRnZSI6ImJyYXppbHNvdXRoIiwicmVnaW9uX3JlbmRlciI6ImJyYXppbHNvdXRoIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="d5e637782ee66e2b5bc208c4c293f8a62d8a70cc73e5a48fbbd019a4fd8fa2a8" data-pjax-transient="true"/>
+
+
+    <meta name="hovercard-subject-tag" content="repository:847911105" data-turbo-transient>
+
+
+  <meta name="github-keyboard-shortcuts" content="repository,copilot" data-turbo-transient="true" />
+  
+
+  <meta name="selected-link" value="repo_wiki" data-turbo-transient>
+  <link rel="assets" href="https://github.githubassets.com/">
+
+    <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
+
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" />
+
+  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/wiki/show" data-turbo-transient="true" />
+
+  
+
+
+
+
+    <meta name="user-login" content="">
+
+  
+
+    <meta name="viewport" content="width=device-width">
+
+    
+
+      <meta name="description" content="Contribute to alcavalcanteofc/zeroestrias development by creating an account on GitHub.">
+
+      <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <meta property="fb:app_id" content="1401488693436528">
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS" />
+
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/78506a5cf65c23d7705cf5489531ce0090b2b54d61efcc8acd45bc6a8e23415a/alcavalcanteofc/zeroestrias" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="COMO REMOVER ESTRIAS" /><meta name="twitter:description" content="Contribute to alcavalcanteofc/zeroestrias development by creating an account on GitHub." />
+  <meta property="og:image" content="https://opengraph.githubassets.com/78506a5cf65c23d7705cf5489531ce0090b2b54d61efcc8acd45bc6a8e23415a/alcavalcanteofc/zeroestrias" /><meta property="og:image:alt" content="Contribute to alcavalcanteofc/zeroestrias development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="COMO REMOVER ESTRIAS" /><meta property="og:url" content="https://github.com/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS" /><meta property="og:description" content="Contribute to alcavalcanteofc/zeroestrias development by creating an account on GitHub." />
+  
+
+
+
+
+      <meta name="hostname" content="github.com">
+
+
+
+        <meta name="expected-hostname" content="github.com">
+
+
+  <meta http-equiv="x-pjax-version" content="8a8d0e7f3eba7a18bc51f528800afc691c5ce7ed32f895a77afbd3b374ace84d" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-csp-version" content="43bc2a0e2750a1219c17b5bf1ec22aae37041bbc018bc5e27bb7708f80e7ab88" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="a03bfbdf6588f5ca84ff5e0bbad7948685fabce52536ce8a5e0b62e5081fba8d" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="fe9d9f1195f8dbd868c83ec8bcfdec4c32a6230ca19fe76fe8c122d235eb9544" data-turbo-track="reload">
+
+  <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
+
+      <meta name="go-import" content="github.com/alcavalcanteofc/zeroestrias git https://github.com/alcavalcanteofc/zeroestrias.git">
+
+  <meta name="octolytics-dimension-user_id" content="179183804" /><meta name="octolytics-dimension-user_login" content="alcavalcanteofc" /><meta name="octolytics-dimension-repository_id" content="847911105" /><meta name="octolytics-dimension-repository_nwo" content="alcavalcanteofc/zeroestrias" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="847911105" /><meta name="octolytics-dimension-repository_network_root_nwo" content="alcavalcanteofc/zeroestrias" />
+
+
+
+    
+
+    <meta name="turbo-body-classes" content="logged-out env-production page-responsive">
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+<meta name="color-scheme" content="light dark" />
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+    <div data-turbo-body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+      
+
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" data-skip-target-assigned="false" class="px-2 py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
+
+      <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
+    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
+</span>      
+      
+      <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-7b7b5264f6c1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_primer_octicons-react_di-b40d97-06881c63f955.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-55a9038b54f0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-b0edbfb6a9e5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-4d5019830e3c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_clsx_dist_clsx_m_js-node_modules_primer_react_node_modules_primer_octico-c56103-e91295e60abd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-f646728c385c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Dialog_Dialog_js-node_modules_primer_react_lib-esm_-bd7638-683c833a31df.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-40bb20608465.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-15a4cf222dbb.js"></script>
+
+<react-partial
+  partial-name="keyboard-shortcuts-dialog"
+  data-ssr="false"
+>
+  
+  <script type="application/json" data-target="react-partial.embeddedData">{"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}</script>
+  <div data-target="react-partial.reactRoot"></div>
+</react-partial>
+
+
+
+
+      
+
+          
+
+              
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-9a621ecbf672.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-f096195f32d8.js"></script>
+<header class="HeaderMktg header-logged-out js-details-container js-header Details position-relative f4 py-3" role="banner" data-color-mode=light data-light-theme=light data-dark-theme=dark>
+  <h2 class="sr-only">Navigation Menu</h2>
+
+  <button type="button" class="HeaderMktg-backdrop d-lg-none border-0 position-fixed top-0 left-0 width-full height-full js-details-target" aria-label="Toggle navigation">
+    <span class="d-none">Toggle navigation</span>
+  </button>
+
+  <div class="d-flex flex-column flex-lg-row flex-items-center px-3 px-md-4 px-lg-5 height-full position-relative z-1">
+    <div class="d-flex flex-justify-between flex-items-center width-full width-lg-auto">
+      <div class="flex-1">
+        <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target js-nav-padding-recalculate js-header-menu-toggle Button--link Button--medium Button d-lg-none color-fg-inherit p-1">  <span class="Button-content">
+    <span class="Button-label"><div class="HeaderMenu-toggle-bar rounded my-1"></div>
+            <div class="HeaderMenu-toggle-bar rounded my-1"></div>
+            <div class="HeaderMenu-toggle-bar rounded my-1"></div></span>
+  </span>
+</button>
+      </div>
+
+      <a class="mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav"
+        href="/"
+        aria-label="Homepage"
+        data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Logomark;ref_loc:Header&quot;}">
+        <svg height="32" aria-hidden="true" viewBox="0 0 24 24" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github">
+    <path d="M12.5.75C6.146.75 1 5.896 1 12.25c0 5.089 3.292 9.387 7.863 10.91.575.101.79-.244.79-.546 0-.273-.014-1.178-.014-2.142-2.889.532-3.636-.704-3.866-1.35-.13-.331-.69-1.352-1.18-1.625-.402-.216-.977-.748-.014-.762.906-.014 1.553.834 1.769 1.179 1.035 1.74 2.688 1.25 3.349.948.1-.747.402-1.25.733-1.538-2.559-.287-5.232-1.279-5.232-5.678 0-1.25.445-2.285 1.178-3.09-.115-.288-.517-1.467.115-3.048 0 0 .963-.302 3.163 1.179.92-.259 1.897-.388 2.875-.388.977 0 1.955.13 2.875.388 2.2-1.495 3.162-1.179 3.162-1.179.633 1.581.23 2.76.115 3.048.733.805 1.179 1.825 1.179 3.09 0 4.413-2.688 5.39-5.247 5.678.417.36.776 1.05.776 2.128 0 1.538-.014 2.774-.014 3.162 0 .302.216.662.79.547C20.709 21.637 24 17.324 24 12.25 24 5.896 18.854.75 12.5.75Z"></path>
+</svg>
+      </a>
+
+      <div class="flex-1 flex-order-2 text-right">
+          <a
+            href="/login?return_to=https%3A%2F%2Fgithub.com%2Falcavalcanteofc%2Fzeroestrias%2Fwiki%2FCOMO-REMOVER-ESTRIAS"
+            class="HeaderMenu-link HeaderMenu-button d-inline-flex d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e177ee160331d55cb2594d8895f0274f2fee28b4ad6e3aef7c4fec2ceafa4cc"
+            data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
+          >
+            Sign in
+          </a>
+      </div>
+    </div>
+
+
+    <div class="HeaderMenu js-header-menu height-fit position-lg-relative d-lg-flex flex-column flex-auto top-0">
+      <div class="HeaderMenu-wrapper d-flex flex-column flex-self-start flex-lg-row flex-auto rounded rounded-lg-0">
+          <nav class="HeaderMenu-nav" aria-label="Global">
+            <ul class="d-lg-flex list-style-none">
+                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
+        Product
+        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+      </button>
+      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 d-lg-flex dropdown-menu-wide">
+          <div class="px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
+            <ul class="list-style-none f5" >
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;actions&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;actions_link_product_navbar&quot;}" href="https://github.com/features/actions">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-workflow color-fg-subtle mr-3">
+    <path d="M1 3a2 2 0 0 1 2-2h6.5a2 2 0 0 1 2 2v6.5a2 2 0 0 1-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 0 1 2-2H21a2 2 0 0 1 2 2V21a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2v-2.5H8.437A2.939 2.939 0 0 1 5.5 15.562V11.5H3a2 2 0 0 1-2-2Zm2-.5a.5.5 0 0 0-.5.5v6.5a.5.5 0 0 0 .5.5h6.5a.5.5 0 0 0 .5-.5V3a.5.5 0 0 0-.5-.5ZM14.5 14a.5.5 0 0 0-.5.5V21a.5.5 0 0 0 .5.5H21a.5.5 0 0 0 .5-.5v-6.5a.5.5 0 0 0-.5-.5Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Actions</div>
+        Automate any workflow
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;packages&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;packages_link_product_navbar&quot;}" href="https://github.com/features/packages">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-package color-fg-subtle mr-3">
+    <path d="M12.876.64V.639l8.25 4.763c.541.313.875.89.875 1.515v9.525a1.75 1.75 0 0 1-.875 1.516l-8.25 4.762a1.748 1.748 0 0 1-1.75 0l-8.25-4.763a1.75 1.75 0 0 1-.875-1.515V6.917c0-.625.334-1.202.875-1.515L11.126.64a1.748 1.748 0 0 1 1.75 0Zm-1 1.298L4.251 6.34l7.75 4.474 7.75-4.474-7.625-4.402a.248.248 0 0 0-.25 0Zm.875 19.123 7.625-4.402a.25.25 0 0 0 .125-.216V7.639l-7.75 4.474ZM3.501 7.64v8.803c0 .09.048.172.125.216l7.625 4.402v-8.947Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Packages</div>
+        Host and manage packages
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;security&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;security_link_product_navbar&quot;}" href="https://github.com/features/security">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
+    <path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Security</div>
+        Find and fix vulnerabilities
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;codespaces&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;codespaces_link_product_navbar&quot;}" href="https://github.com/features/codespaces">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-codespaces color-fg-subtle mr-3">
+    <path d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 18.75 13H5.25a1.75 1.75 0 0 1-1.75-1.75Zm-2 12c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75ZM5.25 3.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Zm-2 12a.25.25 0 0 0-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25Z"></path><path d="M10 17.75a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Codespaces</div>
+        Instant dev environments
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_copilot&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_copilot_link_product_navbar&quot;}" href="https://github.com/features/copilot">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
+    <path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">GitHub Copilot</div>
+        Write better code with AI
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;code_review&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;code_review_link_product_navbar&quot;}" href="https://github.com/features/code-review">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-review color-fg-subtle mr-3">
+    <path d="M10.3 6.74a.75.75 0 0 1-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 1 1-1.02 1.1l-3.5-3.25a.75.75 0 0 1 0-1.1l3.5-3.25a.75.75 0 0 1 1.06.04Zm3.44 1.06a.75.75 0 1 1 1.02-1.1l3.5 3.25a.75.75 0 0 1 0 1.1l-3.5 3.25a.75.75 0 1 1-1.02-1.1l2.908-2.7-2.908-2.7Z"></path><path d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 0 1-1.75 1.75h-9.69l-3.573 3.573A1.458 1.458 0 0 1 5 21.043V18.5H3.25a1.75 1.75 0 0 1-1.75-1.75ZM3.25 4a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 .75.75v3.19l3.72-3.72a.749.749 0 0 1 .53-.22h10a.25.25 0 0 0 .25-.25V4.25a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Code review</div>
+        Manage code changes
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;issues&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;issues_link_product_navbar&quot;}" href="https://github.com/features/issues">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-issue-opened color-fg-subtle mr-3">
+    <path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Zm9.5 2a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 14Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Issues</div>
+        Plan and track work
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;discussions&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;discussions_link_product_navbar&quot;}" href="https://github.com/features/discussions">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
+    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Discussions</div>
+        Collaborate outside of code
+      </div>
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="px-lg-4">
+                <span class="d-block h4 color-fg-default my-1" id="product-explore-heading">Explore</span>
+            <ul class="list-style-none f5" aria-labelledby="product-explore-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;all_features&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;all_features_link_product_navbar&quot;}" href="https://github.com/features">
+      All features
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;documentation&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;documentation_link_product_navbar&quot;}" href="https://docs.github.com">
+      Documentation
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_skills&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_skills_link_product_navbar&quot;}" href="https://skills.github.com">
+      GitHub Skills
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;blog&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;blog_link_product_navbar&quot;}" href="https://github.blog">
+      Blog
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+            </ul>
+          </div>
+      </div>
+</li>
+
+                  <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
+        Solutions
+        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+      </button>
+      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 px-lg-4">
+          <div class="border-bottom pb-3 mb-3">
+                <span class="d-block h4 color-fg-default my-1" id="solutions-by-size-heading">By size</span>
+            <ul class="list-style-none f5" aria-labelledby="solutions-by-size-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;enterprise&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;enterprise_link_solutions_navbar&quot;}" href="https://github.com/enterprise">
+      Enterprise
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;teams&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;teams_link_solutions_navbar&quot;}" href="https://github.com/team">
+      Teams
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;startups&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;startups_link_solutions_navbar&quot;}" href="https://github.com/enterprise/startups">
+      Startups
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="border-bottom pb-3 mb-3">
+                <span class="d-block h4 color-fg-default my-1" id="solutions-by-industry-heading">By industry</span>
+            <ul class="list-style-none f5" aria-labelledby="solutions-by-industry-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;healthcare&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;healthcare_link_solutions_navbar&quot;}" href="https://github.com/solutions/industries/healthcare">
+      Healthcare
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;financial_services&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;financial_services_link_solutions_navbar&quot;}" href="https://github.com/solutions/industries/financial-services">
+      Financial services
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;manufacturing&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;manufacturing_link_solutions_navbar&quot;}" href="https://github.com/solutions/industries/manufacturing">
+      Manufacturing
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="">
+                <span class="d-block h4 color-fg-default my-1" id="solutions-by-use-case-heading">By use case</span>
+            <ul class="list-style-none f5" aria-labelledby="solutions-by-use-case-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;ci_cd_amp_automation&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;ci_cd_amp_automation_link_solutions_navbar&quot;}" href="https://github.com/solutions/ci-cd">
+      CI/CD &amp; Automation
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devops&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devops_link_solutions_navbar&quot;}" href="https://github.com/solutions/devops">
+      DevOps
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devsecops&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devsecops_link_solutions_navbar&quot;}" href="https://github.com/solutions/devsecops">
+      DevSecOps
+
+    
+</a></li>
+
+            </ul>
+          </div>
+      </div>
+</li>
+
+                  <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
+        Resources
+        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+      </button>
+      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 d-lg-flex dropdown-menu-wide">
+          <div class="px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
+                <span class="d-block h4 color-fg-default my-1" id="resources-topics-heading">Topics</span>
+            <ul class="list-style-none f5" aria-labelledby="resources-topics-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;ai&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;ai_link_resources_navbar&quot;}" href="/resources/articles/ai">
+      AI
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devops&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devops_link_resources_navbar&quot;}" href="/resources/articles/devops">
+      DevOps
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;security&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;security_link_resources_navbar&quot;}" href="/resources/articles/security">
+      Security
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;software_development&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;software_development_link_resources_navbar&quot;}" href="/resources/articles/software-development">
+      Software Development
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;view_all&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;view_all_link_resources_navbar&quot;}" href="/resources/articles">
+      View all
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="px-lg-4">
+                <span class="d-block h4 color-fg-default my-1" id="resources-explore-heading">Explore</span>
+            <ul class="list-style-none f5" aria-labelledby="resources-explore-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;learning_pathways&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;learning_pathways_link_resources_navbar&quot;}" href="https://resources.github.com/learn/pathways">
+      Learning Pathways
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;white_papers_ebooks_webinars&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;white_papers_ebooks_webinars_link_resources_navbar&quot;}" href="https://resources.github.com">
+      White papers, Ebooks, Webinars
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;customer_stories&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;customer_stories_link_resources_navbar&quot;}" href="https://github.com/customer-stories">
+      Customer Stories
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;partners&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;partners_link_resources_navbar&quot;}" href="https://partner.github.com">
+      Partners
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+            </ul>
+          </div>
+      </div>
+</li>
+
+
+                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
+        Open Source
+        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+      </button>
+      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 px-lg-4">
+          <div class="border-bottom pb-3 mb-3">
+            <ul class="list-style-none f5" >
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_sponsors&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_sponsors_link_open_source_navbar&quot;}" href="/sponsors">
+      
+      <div>
+        <div class="color-fg-default h4">GitHub Sponsors</div>
+        Fund open source developers
+      </div>
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="border-bottom pb-3 mb-3">
+            <ul class="list-style-none f5" >
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;the_readme_project&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;the_readme_project_link_open_source_navbar&quot;}" href="https://github.com/readme">
+      
+      <div>
+        <div class="color-fg-default h4">The ReadME Project</div>
+        GitHub community articles
+      </div>
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="">
+                <span class="d-block h4 color-fg-default my-1" id="open-source-repositories-heading">Repositories</span>
+            <ul class="list-style-none f5" aria-labelledby="open-source-repositories-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;topics&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;topics_link_open_source_navbar&quot;}" href="https://github.com/topics">
+      Topics
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;trending&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;trending_link_open_source_navbar&quot;}" href="https://github.com/trending">
+      Trending
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;collections&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;collections_link_open_source_navbar&quot;}" href="https://github.com/collections">
+      Collections
+
+    
+</a></li>
+
+            </ul>
+          </div>
+      </div>
+</li>
+
+
+                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
+        Enterprise
+        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+      </button>
+      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 px-lg-4">
+          <div class="border-bottom pb-3 mb-3">
+            <ul class="list-style-none f5" >
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;enterprise_platform&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;enterprise_platform_link_enterprise_navbar&quot;}" href="/enterprise">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-stack color-fg-subtle mr-3">
+    <path d="M11.063 1.456a1.749 1.749 0 0 1 1.874 0l8.383 5.316a1.751 1.751 0 0 1 0 2.956l-8.383 5.316a1.749 1.749 0 0 1-1.874 0L2.68 9.728a1.751 1.751 0 0 1 0-2.956Zm1.071 1.267a.25.25 0 0 0-.268 0L3.483 8.039a.25.25 0 0 0 0 .422l8.383 5.316a.25.25 0 0 0 .268 0l8.383-5.316a.25.25 0 0 0 0-.422Z"></path><path d="M1.867 12.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path><path d="M1.867 16.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Enterprise platform</div>
+        AI-powered developer platform
+      </div>
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="">
+                <span class="d-block h4 color-fg-default my-1" id="enterprise-available-add-ons-heading">Available add-ons</span>
+            <ul class="list-style-none f5" aria-labelledby="enterprise-available-add-ons-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;advanced_security&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;advanced_security_link_enterprise_navbar&quot;}" href="https://github.com/enterprise/advanced-security">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
+    <path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Advanced Security</div>
+        Enterprise-grade security features
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_copilot&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_copilot_link_enterprise_navbar&quot;}" href="/features/copilot#enterprise">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
+    <path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">GitHub Copilot</div>
+        Enterprise-grade AI features
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;premium_support&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;premium_support_link_enterprise_navbar&quot;}" href="/premium-support">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
+    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Premium Support</div>
+        Enterprise-grade 24/7 support
+      </div>
+
+    
+</a></li>
+
+            </ul>
+          </div>
+      </div>
+</li>
+
+
+                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;pricing&quot;,&quot;context&quot;:&quot;global&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;pricing_link_global_navbar&quot;}" href="https://github.com/pricing">Pricing</a>
+</li>
+
+            </ul>
+          </nav>
+
+        <div class="d-flex flex-column flex-lg-row width-full flex-justify-end flex-lg-items-center text-center mt-3 mt-lg-0 text-lg-left ml-lg-3">
+                
+
+
+<qbsearch-input class="search-input" data-scope="repo:alcavalcanteofc/zeroestrias" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="NfmvpTUF2SFpqkHHCA8peNhARA2DLFhWTPXC-d2ObBtIRibLPX0HkrIirii2bTCPF_Y8IIy-l6jxVhLUaTd-xQ" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="alcavalcanteofc/zeroestrias" data-current-org="" data-current-owner="alcavalcanteofc" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+  <div
+    class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
+    data-action="click:qbsearch-input#searchInputContainerClicked"
+  >
+      <button
+        type="button"
+        class="header-search-button placeholder  input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none"
+        data-target="qbsearch-input.inputButton"
+        aria-label="Search or jump to…"
+        aria-haspopup="dialog"
+        placeholder="Search or jump to..."
+        data-hotkey=s,/
+        autocapitalize="off"
+        data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;searchbar&quot;,&quot;context&quot;:&quot;global&quot;,&quot;tag&quot;:&quot;input&quot;,&quot;label&quot;:&quot;searchbar_input_global_navbar&quot;}"
+        data-action="click:qbsearch-input#handleExpand"
+      >
+        <div class="mr-2 color-fg-muted">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search">
+    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
+</svg>
+        </div>
+        <span class="flex-1" data-target="qbsearch-input.inputButtonText">Search or jump to...</span>
+          <div class="d-flex" data-target="qbsearch-input.hotkeyIndicator">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
+
+          </div>
+      </button>
+
+    <input type="hidden" name="type" class="js-site-search-type-field">
+
+    
+<div class="Overlay--hidden " data-modal-dialog-overlay>
+  <modal-dialog data-action="close:qbsearch-input#handleClose cancel:qbsearch-input#handleClose" data-target="qbsearch-input.searchSuggestionsDialog" role="dialog" id="search-suggestions-dialog" aria-modal="true" aria-labelledby="search-suggestions-dialog-header" data-view-component="true" class="Overlay Overlay--width-large Overlay--height-auto">
+      <h1 id="search-suggestions-dialog-header" class="sr-only">Search code, repositories, users, issues, pull requests...</h1>
+    <div class="Overlay-body Overlay-body--paddingNone">
+      
+          <div data-view-component="true">        <div class="search-suggestions position-fixed width-full color-shadow-large border color-fg-default color-bg-default overflow-hidden d-flex flex-column query-builder-container"
+          style="border-radius: 12px;"
+          data-target="qbsearch-input.queryBuilderContainer"
+          hidden
+        >
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="query-builder-test-form" action="" accept-charset="UTF-8" method="get">
+  <query-builder data-target="qbsearch-input.queryBuilder" id="query-builder-query-builder-test" data-filter-key=":" data-view-component="true" class="QueryBuilder search-query-builder">
+    <div class="FormControl FormControl--fullWidth">
+      <label id="query-builder-test-label" for="query-builder-test" class="FormControl-label sr-only">
+        Search
+      </label>
+      <div
+        class="QueryBuilder-StyledInput width-fit "
+        data-target="query-builder.styledInput"
+      >
+          <span id="query-builder-test-leadingvisual-wrap" class="FormControl-input-leadingVisualWrap QueryBuilder-leadingVisualWrap">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search FormControl-input-leadingVisual">
+    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
+</svg>
+          </span>
+        <div data-target="query-builder.styledInputContainer" class="QueryBuilder-StyledInputContainer">
+          <div
+            aria-hidden="true"
+            class="QueryBuilder-StyledInputContent"
+            data-target="query-builder.styledInputContent"
+          ></div>
+          <div class="QueryBuilder-InputWrapper">
+            <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-99128fc7-88be-4212-93b4-08c5eb5ede46" data-target="query-builder.input" data-action="
+          input:query-builder#inputChange
+          blur:query-builder#inputBlur
+          keydown:query-builder#inputKeydown
+          focus:query-builder#inputFocus
+        " data-view-component="true" class="FormControl-input QueryBuilder-Input FormControl-medium" />
+          </div>
+        </div>
+          <span class="sr-only" id="query-builder-test-clear">Clear</span>
+          <button role="button" id="query-builder-test-clear-button" aria-labelledby="query-builder-test-clear query-builder-test-label" data-target="query-builder.clearButton" data-action="
+                click:query-builder#clear
+                focus:query-builder#clearButtonFocus
+                blur:query-builder#clearButtonBlur
+              " variant="small" hidden="hidden" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium mr-1 px-2 py-0 d-flex flex-items-center rounded-1 color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill Button-visual">
+    <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
+</svg>
+</button>
+
+      </div>
+      <template id="search-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search">
+    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
+</svg>
+</template>
+
+<template id="code-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+</template>
+
+<template id="file-code-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-code">
+    <path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
+</svg>
+</template>
+
+<template id="history-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
+</svg>
+</template>
+
+<template id="repo-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+</template>
+
+<template id="bookmark-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bookmark">
+    <path d="M3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 0 1-1.227.579L8 11.722l-3.773 3.107A.751.751 0 0 1 3 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.91l3.023-2.489a.75.75 0 0 1 .954 0l3.023 2.49V2.75a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+</template>
+
+<template id="plus-circle-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus-circle">
+    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7.25-3.25v2.5h2.5a.75.75 0 0 1 0 1.5h-2.5v2.5a.75.75 0 0 1-1.5 0v-2.5h-2.5a.75.75 0 0 1 0-1.5h2.5v-2.5a.75.75 0 0 1 1.5 0Z"></path>
+</svg>
+</template>
+
+<template id="circle-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+</template>
+
+<template id="trash-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
+    <path d="M11 1.75V3h2.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75ZM4.496 6.675l.66 6.6a.25.25 0 0 0 .249.225h5.19a.25.25 0 0 0 .249-.225l.66-6.6a.75.75 0 0 1 1.492.149l-.66 6.6A1.748 1.748 0 0 1 10.595 15h-5.19a1.75 1.75 0 0 1-1.741-1.575l-.66-6.6a.75.75 0 1 1 1.492-.15ZM6.5 1.75V3h3V1.75a.25.25 0 0 0-.25-.25h-2.5a.25.25 0 0 0-.25.25Z"></path>
+</svg>
+</template>
+
+<template id="team-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
+</svg>
+</template>
+
+<template id="project-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
+    <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
+</svg>
+</template>
+
+<template id="pencil-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+    <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
+</svg>
+</template>
+
+<template id="copilot-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copilot">
+    <path d="M7.998 15.035c-4.562 0-7.873-2.914-7.998-3.749V9.338c.085-.628.677-1.686 1.588-2.065.013-.07.024-.143.036-.218.029-.183.06-.384.126-.612-.201-.508-.254-1.084-.254-1.656 0-.87.128-1.769.693-2.484.579-.733 1.494-1.124 2.724-1.261 1.206-.134 2.262.034 2.944.765.05.053.096.108.139.165.044-.057.094-.112.143-.165.682-.731 1.738-.899 2.944-.765 1.23.137 2.145.528 2.724 1.261.566.715.693 1.614.693 2.484 0 .572-.053 1.148-.254 1.656.066.228.098.429.126.612.012.076.024.148.037.218.924.385 1.522 1.471 1.591 2.095v1.872c0 .766-3.351 3.795-8.002 3.795Zm0-1.485c2.28 0 4.584-1.11 5.002-1.433V7.862l-.023-.116c-.49.21-1.075.291-1.727.291-1.146 0-2.059-.327-2.71-.991A3.222 3.222 0 0 1 8 6.303a3.24 3.24 0 0 1-.544.743c-.65.664-1.563.991-2.71.991-.652 0-1.236-.081-1.727-.291l-.023.116v4.255c.419.323 2.722 1.433 5.002 1.433ZM6.762 2.83c-.193-.206-.637-.413-1.682-.297-1.019.113-1.479.404-1.713.7-.247.312-.369.789-.369 1.554 0 .793.129 1.171.308 1.371.162.181.519.379 1.442.379.853 0 1.339-.235 1.638-.54.315-.322.527-.827.617-1.553.117-.935-.037-1.395-.241-1.614Zm4.155-.297c-1.044-.116-1.488.091-1.681.297-.204.219-.359.679-.242 1.614.091.726.303 1.231.618 1.553.299.305.784.54 1.638.54.922 0 1.28-.198 1.442-.379.179-.2.308-.578.308-1.371 0-.765-.123-1.242-.37-1.554-.233-.296-.693-.587-1.713-.7Z"></path><path d="M6.25 9.037a.75.75 0 0 1 .75.75v1.501a.75.75 0 0 1-1.5 0V9.787a.75.75 0 0 1 .75-.75Zm4.25.75v1.501a.75.75 0 0 1-1.5 0V9.787a.75.75 0 0 1 1.5 0Z"></path>
+</svg>
+</template>
+
+<template id="copilot-error-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copilot-error">
+    <path d="M16 11.24c0 .112-.072.274-.21.467L13 9.688V7.862l-.023-.116c-.49.21-1.075.291-1.727.291-.198 0-.388-.009-.571-.029L6.833 5.226a4.01 4.01 0 0 0 .17-.782c.117-.935-.037-1.395-.241-1.614-.193-.206-.637-.413-1.682-.297-.683.076-1.115.231-1.395.415l-1.257-.91c.579-.564 1.413-.877 2.485-.996 1.206-.134 2.262.034 2.944.765.05.053.096.108.139.165.044-.057.094-.112.143-.165.682-.731 1.738-.899 2.944-.765 1.23.137 2.145.528 2.724 1.261.566.715.693 1.614.693 2.484 0 .572-.053 1.148-.254 1.656.066.228.098.429.126.612.012.076.024.148.037.218.924.385 1.522 1.471 1.591 2.095Zm-5.083-8.707c-1.044-.116-1.488.091-1.681.297-.204.219-.359.679-.242 1.614.091.726.303 1.231.618 1.553.299.305.784.54 1.638.54.922 0 1.28-.198 1.442-.379.179-.2.308-.578.308-1.371 0-.765-.123-1.242-.37-1.554-.233-.296-.693-.587-1.713-.7Zm2.511 11.074c-1.393.776-3.272 1.428-5.43 1.428-4.562 0-7.873-2.914-7.998-3.749V9.338c.085-.628.677-1.686 1.588-2.065.013-.07.024-.143.036-.218.029-.183.06-.384.126-.612-.18-.455-.241-.963-.252-1.475L.31 4.107A.747.747 0 0 1 0 3.509V3.49a.748.748 0 0 1 .625-.73c.156-.026.306.047.435.139l14.667 10.578a.592.592 0 0 1 .227.264.752.752 0 0 1 .046.249v.022a.75.75 0 0 1-1.19.596Zm-1.367-.991L5.635 7.964a5.128 5.128 0 0 1-.889.073c-.652 0-1.236-.081-1.727-.291l-.023.116v4.255c.419.323 2.722 1.433 5.002 1.433 1.539 0 3.089-.505 4.063-.934Z"></path>
+</svg>
+</template>
+
+<template id="workflow-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-workflow">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h3.5C6.216 0 7 .784 7 1.75v3.5A1.75 1.75 0 0 1 5.25 7H4v4a1 1 0 0 0 1 1h4v-1.25C9 9.784 9.784 9 10.75 9h3.5c.966 0 1.75.784 1.75 1.75v3.5A1.75 1.75 0 0 1 14.25 16h-3.5A1.75 1.75 0 0 1 9 14.25v-.75H5A2.5 2.5 0 0 1 2.5 11V7h-.75A1.75 1.75 0 0 1 0 5.25Zm1.75-.25a.25.25 0 0 0-.25.25v3.5c0 .138.112.25.25.25h3.5a.25.25 0 0 0 .25-.25v-3.5a.25.25 0 0 0-.25-.25Zm9 9a.25.25 0 0 0-.25.25v3.5c0 .138.112.25.25.25h3.5a.25.25 0 0 0 .25-.25v-3.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+</template>
+
+<template id="book-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
+    <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
+</svg>
+</template>
+
+<template id="code-review-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-review">
+    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 13H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25v-8.5C0 1.784.784 1 1.75 1ZM1.5 2.75v8.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Zm5.28 1.72a.75.75 0 0 1 0 1.06L5.31 7l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.75.75 0 0 1 1.06 0Zm2.44 0a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L10.69 7 9.22 5.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+</template>
+
+<template id="codespaces-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
+    <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
+</svg>
+</template>
+
+<template id="comment-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment">
+    <path d="M1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 13.25 12H9.06l-2.573 2.573A1.458 1.458 0 0 1 4 13.543V12H2.75A1.75 1.75 0 0 1 1 10.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h4.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+</template>
+
+<template id="comment-discussion-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
+    <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
+</svg>
+</template>
+
+<template id="organization-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization">
+    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
+</svg>
+</template>
+
+<template id="rocket-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-rocket">
+    <path d="M14.064 0h.186C15.216 0 16 .784 16 1.75v.186a8.752 8.752 0 0 1-2.564 6.186l-.458.459c-.314.314-.641.616-.979.904v3.207c0 .608-.315 1.172-.833 1.49l-2.774 1.707a.749.749 0 0 1-1.11-.418l-.954-3.102a1.214 1.214 0 0 1-.145-.125L3.754 9.816a1.218 1.218 0 0 1-.124-.145L.528 8.717a.749.749 0 0 1-.418-1.11l1.71-2.774A1.748 1.748 0 0 1 3.31 4h3.204c.288-.338.59-.665.904-.979l.459-.458A8.749 8.749 0 0 1 14.064 0ZM8.938 3.623h-.002l-.458.458c-.76.76-1.437 1.598-2.02 2.5l-1.5 2.317 2.143 2.143 2.317-1.5c.902-.583 1.74-1.26 2.499-2.02l.459-.458a7.25 7.25 0 0 0 2.123-5.127V1.75a.25.25 0 0 0-.25-.25h-.186a7.249 7.249 0 0 0-5.125 2.123ZM3.56 14.56c-.732.732-2.334 1.045-3.005 1.148a.234.234 0 0 1-.201-.064.234.234 0 0 1-.064-.201c.103-.671.416-2.273 1.15-3.003a1.502 1.502 0 1 1 2.12 2.12Zm6.94-3.935c-.088.06-.177.118-.266.175l-2.35 1.521.548 1.783 1.949-1.2a.25.25 0 0 0 .119-.213ZM3.678 8.116 5.2 5.766c.058-.09.117-.178.176-.266H3.309a.25.25 0 0 0-.213.119l-1.2 1.95ZM12 5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</template>
+
+<template id="shield-check-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield-check">
+    <path d="m8.533.133 5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667l5.25-1.68a1.748 1.748 0 0 1 1.066 0Zm-.61 1.429.001.001-5.25 1.68a.251.251 0 0 0-.174.237V7c0 1.36.275 2.666 1.057 3.859.784 1.194 2.121 2.342 4.366 3.298a.196.196 0 0 0 .154 0c2.245-.957 3.582-2.103 4.366-3.297C13.225 9.666 13.5 8.358 13.5 7V3.48a.25.25 0 0 0-.174-.238l-5.25-1.68a.25.25 0 0 0-.153 0ZM11.28 6.28l-3.5 3.5a.75.75 0 0 1-1.06 0l-1.5-1.5a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l.97.97 2.97-2.97a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
+</svg>
+</template>
+
+<template id="heart-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart">
+    <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
+</svg>
+</template>
+
+<template id="server-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-server">
+    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v4c0 .372-.116.717-.314 1 .198.283.314.628.314 1v4a1.75 1.75 0 0 1-1.75 1.75H1.75A1.75 1.75 0 0 1 0 12.75v-4c0-.358.109-.707.314-1a1.739 1.739 0 0 1-.314-1v-4C0 1.784.784 1 1.75 1ZM1.5 2.75v4c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Zm.25 5.75a.25.25 0 0 0-.25.25v4c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25ZM7 4.75A.75.75 0 0 1 7.75 4h4.5a.75.75 0 0 1 0 1.5h-4.5A.75.75 0 0 1 7 4.75ZM7.75 10h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM3 4.75A.75.75 0 0 1 3.75 4h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 4.75ZM3.75 10h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
+</svg>
+</template>
+
+<template id="globe-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-globe">
+    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path>
+</svg>
+</template>
+
+<template id="issue-opened-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
+</svg>
+</template>
+
+<template id="device-mobile-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-mobile">
+    <path d="M3.75 0h8.5C13.216 0 14 .784 14 1.75v12.5A1.75 1.75 0 0 1 12.25 16h-8.5A1.75 1.75 0 0 1 2 14.25V1.75C2 .784 2.784 0 3.75 0ZM3.5 1.75v12.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM8 13a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
+</svg>
+</template>
+
+<template id="package-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-package">
+    <path d="m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z"></path>
+</svg>
+</template>
+
+<template id="credit-card-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-credit-card">
+    <path d="M10.75 9a.75.75 0 0 0 0 1.5h1.5a.75.75 0 0 0 0-1.5h-1.5Z"></path><path d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25ZM14.5 6.5h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25Zm0-2.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25V5h13Z"></path>
+</svg>
+</template>
+
+<template id="play-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
+    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
+</svg>
+</template>
+
+<template id="gift-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
+    <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
+</svg>
+</template>
+
+<template id="code-square-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-square">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Zm7.47 3.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L10.69 8 9.22 6.53a.75.75 0 0 1 0-1.06ZM6.78 6.53 5.31 8l1.47 1.47a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
+</svg>
+</template>
+
+<template id="device-desktop-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
+    <path d="M14.25 1c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.752.752 0 0 1 11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5C0 1.784.784 1 1.75 1ZM1.75 2.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25ZM9.018 12H6.982a5.72 5.72 0 0 1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5Z"></path>
+</svg>
+</template>
+
+        <div class="position-relative">
+                <ul
+                  role="listbox"
+                  class="ActionListWrap QueryBuilder-ListWrap"
+                  aria-label="Suggestions"
+                  data-action="
+                    combobox-commit:query-builder#comboboxCommit
+                    mousedown:query-builder#resultsMousedown
+                  "
+                  data-target="query-builder.resultsList"
+                  data-persist-list=false
+                  id="query-builder-test-results"
+                ></ul>
+        </div>
+      <div class="FormControl-inlineValidation" id="validation-99128fc7-88be-4212-93b4-08c5eb5ede46" hidden="hidden">
+        <span class="FormControl-inlineValidation--visual">
+          <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
+    <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+</svg>
+        </span>
+        <span></span>
+</div>    </div>
+    <div data-target="query-builder.screenReaderFeedback" aria-live="polite" aria-atomic="true" class="sr-only"></div>
+</query-builder></form>
+          <div class="d-flex flex-row color-fg-muted px-3 text-small color-bg-default search-feedback-prompt">
+            <a target="_blank" href="https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax" data-view-component="true" class="Link color-fg-accent text-normal ml-2">
+              Search syntax tips
+</a>            <div class="d-flex flex-1"></div>
+          </div>
+        </div>
+</div>
+
+    </div>
+</modal-dialog></div>
+  </div>
+  <div data-action="click:qbsearch-input#retract" class="dark-backdrop position-fixed" hidden data-target="qbsearch-input.darkBackdrop"></div>
+  <div class="color-fg-default">
+    
+<dialog-helper>
+  <dialog data-target="qbsearch-input.feedbackDialog" data-action="close:qbsearch-input#handleDialogClose cancel:qbsearch-input#handleDialogClose" id="feedback-dialog" aria-modal="true" aria-labelledby="feedback-dialog-title" aria-describedby="feedback-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade">
+    <div data-view-component="true" class="Overlay-header">
+  <div class="Overlay-headerContentWrap">
+    <div class="Overlay-titleWrap">
+      <h1 class="Overlay-title " id="feedback-dialog-title">
+        Provide feedback
+      </h1>
         
+    </div>
+    <div class="Overlay-actionWrap">
+      <button data-close-dialog-id="feedback-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg></button>
+    </div>
+  </div>
+  
+</div>
+      <scrollable-region data-labelled-by="feedback-dialog-title">
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="1btoVkZ5z0BoFp6Fsmd3NpwJz91VJhkQHh2A5t0E9NdoYCW2i8XgQVBv0W4ST8Ds13tLLR7+XiicusJEs2h49g==" />
+          <p>We read every piece of feedback, and take your input very seriously.</p>
+          <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
+          <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
+          <label for="include_email" style="font-weight: normal">Include my email address so I can be contacted</label>
+</form></div>
+      </scrollable-region>
+      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd">          <button data-close-dialog-id="feedback-dialog" type="button" data-view-component="true" class="btn">    Cancel
+</button>
+          <button form="code-search-feedback-form" data-action="click:qbsearch-input#submitFeedback" type="submit" data-view-component="true" class="btn-primary btn">    Submit feedback
+</button>
+</div>
+</dialog></dialog-helper>
 
-          @font-face {
-            font-family: "Open Sans";
-            font-style: normal;
-            font-weight: 700;
-            src: url(https://d3syewzhvzylbl.cloudfront.net/fonts/google-fonts/opensans/700.woff2) format('woff2');
-          }
-        
+    <custom-scopes data-target="qbsearch-input.customScopesManager">
+    
+<dialog-helper>
+  <dialog data-target="custom-scopes.customScopesModalDialog" data-action="close:qbsearch-input#handleDialogClose cancel:qbsearch-input#handleDialogClose" id="custom-scopes-dialog" aria-modal="true" aria-labelledby="custom-scopes-dialog-title" aria-describedby="custom-scopes-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade">
+    <div data-view-component="true" class="Overlay-header Overlay-header--divided">
+  <div class="Overlay-headerContentWrap">
+    <div class="Overlay-titleWrap">
+      <h1 class="Overlay-title " id="custom-scopes-dialog-title">
+        Saved searches
+      </h1>
+        <h2 id="custom-scopes-dialog-description" class="Overlay-description">Use saved searches to filter your results more quickly</h2>
+    </div>
+    <div class="Overlay-actionWrap">
+      <button data-close-dialog-id="custom-scopes-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg></button>
+    </div>
+  </div>
+  
+</div>
+      <scrollable-region data-labelled-by="custom-scopes-dialog-title">
+        <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
-          @font-face {
-            font-family: "Anton";
-            font-style: normal;
-            font-weight: 400;
-            src: url(https://d3syewzhvzylbl.cloudfront.net/fonts/google-fonts/anton/regular.woff2) format('woff2');
-          }
-        
+        <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="z9/35EaLkTSBEmdUFStzHDtOk4lsYxjEI2iAxg6+mw2vfqJ3heif1Rjb5WefQM1Uy0UxJ/djo7DMvyZu8bccUw==" />
+          <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
-          @font-face {
-            font-family: "Nunito Sans";
-            font-style: normal;
-            font-weight: 400;
-            src: url(https://d3syewzhvzylbl.cloudfront.net/fonts/google-fonts/nunitosans/regular.woff2) format('woff2');
-          }
-        </style><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X7Q59S69P3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+          <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
 
-  gtag('config', 'G-X7Q59S69P3');
-</script><link rel="stylesheet" href="https://d3fit27i5nzkqh.cloudfront.net/assets/css/all.min.css"/><meta name="google-site-verification" content="_8H6Jr05-NeSh51RjTtrf2Tp-rmhSKQBeoETBLe0M78"/><style>
+          <div class="form-group">
+            <label for="custom_scope_name">Name</label>
+            <auto-check src="/search/custom_scopes/check_name" required>
+              <input
+                type="text"
+                name="custom_scope_name"
+                id="custom_scope_name"
+                data-target="custom-scopes.customScopesNameField"
+                class="form-control"
+                autocomplete="off"
+                placeholder="github-ruby"
+                required
+                maxlength="50">
+              <input type="hidden" data-csrf="true" value="3t0fVzof7kTn8woNCJ1JRQfPhyLb67NOBw4J8d7eXBZqOTOQWErGRgQ8lZ4amtI/sREoQeO0LDYtIpIAFV+5sg==" />
+            </auto-check>
+          </div>
+
+          <div class="form-group">
+            <label for="custom_scope_query">Query</label>
+            <input
+              type="text"
+              name="custom_scope_query"
+              id="custom_scope_query"
+              data-target="custom-scopes.customScopesQueryField"
+              class="form-control"
+              autocomplete="off"
+              placeholder="(repo:mona/a OR repo:mona/b) AND lang:python"
+              required
+              maxlength="500">
+          </div>
+
+          <p class="text-small color-fg-muted">
+            To see all available qualifiers, see our <a class="Link--inTextBlock" href="https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax">documentation</a>.
+          </p>
+</form>        </div>
+
+        <div data-target="custom-scopes.manageCustomScopesForm">
+          <div data-target="custom-scopes.list"></div>
+        </div>
+
+</div>
+      </scrollable-region>
+      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">          <button data-action="click:custom-scopes#customScopesCancel" type="button" data-view-component="true" class="btn">    Cancel
+</button>
+          <button form="custom-scopes-dialog-form" data-action="click:custom-scopes#customScopesSubmit" data-target="custom-scopes.customScopesSubmitButton" type="submit" data-view-component="true" class="btn-primary btn">    Create saved search
+</button>
+</div>
+</dialog></dialog-helper>
+    </custom-scopes>
+  </div>
+</qbsearch-input>
+
+            <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
+              <a
+                href="/login?return_to=https%3A%2F%2Fgithub.com%2Falcavalcanteofc%2Fzeroestrias%2Fwiki%2FCOMO-REMOVER-ESTRIAS"
+                class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded rounded-lg-0 px-2 py-1"
+                style="margin-left: 12px;"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e177ee160331d55cb2594d8895f0274f2fee28b4ad6e3aef7c4fec2ceafa4cc"
+                data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
+              >
+                Sign in
+              </a>
+            </div>
+
+              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fwiki%2Fshow&amp;source=header-repo&amp;source_repo=alcavalcanteofc%2Fzeroestrias"
+                class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e177ee160331d55cb2594d8895f0274f2fee28b4ad6e3aef7c4fec2ceafa4cc"
+                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/wiki/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+              >
+                Sign up
+              </a>
+          <button type="button" class="sr-only js-header-menu-focus-trap d-block d-lg-none">Reseting focus</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div hidden="hidden" data-view-component="true" class="js-stale-session-flash stale-session-flash flash flash-warn flash-full">
+  
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+        <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
+        <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
+        <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
+
+    <button id="icon-button-677c44a9-b9f2-4b99-a6c5-e82b5ddb0359" aria-labelledby="tooltip-a0cb2a1e-6240-4f6e-8a8f-ea3f912369d9" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+</button><tool-tip id="tooltip-a0cb2a1e-6240-4f6e-8a8f-ea3f912369d9" for="icon-button-677c44a9-b9f2-4b99-a6c5-e82b5ddb0359" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+
+
+  
+</div>
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+
+
+
+    <div id="js-flash-container" class="flash-container" data-turbo-replace>
+
+
+
+
+  <template class="js-flash-template">
+    
+<div class="flash flash-full   {{ className }}">
+  <div >
+    <button autofocus class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    </button>
+    <div aria-atomic="true" role="alert" class="js-flash-alert">
+      
+      <div>{{ message }}</div>
+
+    </div>
+  </div>
+</div>
+  </template>
+</div>
+
+
+    
+    <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+
+  <div
+    class="application-main "
+    data-commit-hovercards-enabled
+    data-discussion-hovercards-enabled
+    data-issue-and-pr-hovercards-enabled
+  >
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main id="js-repo-pjax-container" >
+      
+  
+    
+
+
+
+
+
+
+  
+  <div id="repository-container-header"  class="pt-3 hide-full-screen" style="background-color: var(--page-header-bgColor, var(--color-page-header-bg));" data-turbo-replace>
+
+      <div class="d-flex flex-nowrap flex-justify-end mb-3  px-3 px-lg-5" style="gap: 1rem;">
+
+        <div class="flex-auto min-width-0 width-fit">
+            
+  <div class=" d-flex flex-wrap flex-items-center wb-break-word f3 text-normal">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo color-fg-muted mr-2">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+    
+    <span class="author flex-self-stretch" itemprop="author">
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/alcavalcanteofc/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/alcavalcanteofc">
+        alcavalcanteofc
+</a>    </span>
+    <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
+    <strong itemprop="name" class="mr-2 flex-self-stretch">
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/alcavalcanteofc/zeroestrias">zeroestrias</a>
+    </strong>
+
+    <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
+  </div>
+
+
+        </div>
+
+        <div id="repository-details-container" class="flex-shrink-0" data-turbo-replace style="max-width: 70%;">
+            <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
+    
+      
+
+  <li>
+            <a href="/login?return_to=%2Falcavalcanteofc%2Fzeroestrias" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="186e35d16218c60bf064a1b8cfb2a612ba44a571f82570dae457de2f202aaf92" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+    <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
+</svg>Notifications
+</a>    <tool-tip id="tooltip-516f5103-2392-4586-82c1-473a5f561ffd" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+
+    </li>
+
+  <li>
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Falcavalcanteofc%2Fzeroestrias" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:847911105,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="377a99a98de736073a0756ff01b77b9c5d4cf6b95180c2ab6139d2c0e25002ef" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>Fork
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
+</a>
+  </li>
+
+  <li>
+        <div data-view-component="true" class="BtnGroup d-flex">
+        <a href="/login?return_to=%2Falcavalcanteofc%2Fzeroestrias" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:847911105,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f4f41221a9712c8cb91902fc55bddd92988922ee32d65dde1b9ce3375c0e1482" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+          Star
+</span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
+</a></div>
+  </li>
+
+</ul>
+
+        </div>
+      </div>
+
+        <div id="responsive-meta-container" data-turbo-replace>
+</div>
+
+
+          <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
+
+  <ul data-view-component="true" class="UnderlineNav-body list-style-none">
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="code-tab" href="/alcavalcanteofc/zeroestrias" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /alcavalcanteofc/zeroestrias" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+        <span data-content="Code">Code</span>
+          <span id="code-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="issues-tab" href="/alcavalcanteofc/zeroestrias/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /alcavalcanteofc/zeroestrias/issues /_view_fragments/issues/index/alcavalcanteofc/zeroestrias/layout" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
+</svg>
+        <span data-content="Issues">Issues</span>
+          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="pull-requests-tab" href="/alcavalcanteofc/zeroestrias/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /alcavalcanteofc/zeroestrias/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
+</svg>
+        <span data-content="Pull requests">Pull requests</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="actions-tab" href="/alcavalcanteofc/zeroestrias/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /alcavalcanteofc/zeroestrias/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
+</svg>
+        <span data-content="Actions">Actions</span>
+          <span id="actions-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="projects-tab" href="/alcavalcanteofc/zeroestrias/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /alcavalcanteofc/zeroestrias/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
+</svg>
+        <span data-content="Projects">Projects</span>
+          <span id="projects-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="wiki-tab" href="/alcavalcanteofc/zeroestrias/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /alcavalcanteofc/zeroestrias/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Wiki&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
+</svg>
+        <span data-content="Wiki">Wiki</span>
+          <span id="wiki-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="security-tab" href="/alcavalcanteofc/zeroestrias/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /alcavalcanteofc/zeroestrias/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+        <span data-content="Security">Security</span>
+          <include-fragment src="/alcavalcanteofc/zeroestrias/security/overall-count" accept="text/fragment+html"></include-fragment>
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="insights-tab" href="/alcavalcanteofc/zeroestrias/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /alcavalcanteofc/zeroestrias/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
+</svg>
+        <span data-content="Insights">Insights</span>
+          <span id="insights-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+</ul>
+    <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
+  <focus-group direction="vertical" mnemonics retain>
+    <button id="action-menu-1a8420de-5d92-4f41-8564-7e9a993c0b28-button" popovertarget="action-menu-1a8420de-5d92-4f41-8564-7e9a993c0b28-overlay" aria-controls="action-menu-1a8420de-5d92-4f41-8564-7e9a993c0b28-list" aria-haspopup="true" aria-labelledby="tooltip-b7aa6975-0da0-40f5-968d-15fe0e4fa061" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+</button><tool-tip id="tooltip-b7aa6975-0da0-40f5-968d-15fe0e4fa061" for="action-menu-1a8420de-5d92-4f41-8564-7e9a993c0b28-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+
+
+<anchored-position id="action-menu-1a8420de-5d92-4f41-8564-7e9a993c0b28-overlay" anchor="action-menu-1a8420de-5d92-4f41-8564-7e9a993c0b28-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+  <div data-view-component="true" class="Overlay Overlay--size-auto">
+    
+      <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
+  <div data-view-component="true">
+    <ul aria-labelledby="action-menu-1a8420de-5d92-4f41-8564-7e9a993c0b28-button" id="action-menu-1a8420de-5d92-4f41-8564-7e9a993c0b28-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+        <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-9065b2b9-d1f5-4af2-9448-f1771bb0104e" href="/alcavalcanteofc/zeroestrias" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Code
+</span>      
+</a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-18ca120e-0525-4874-96a0-dab36e112340" href="/alcavalcanteofc/zeroestrias/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
+    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Issues
+</span>      
+</a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-ee8b5caa-2ffc-4973-bbf7-30297bd4aad3" href="/alcavalcanteofc/zeroestrias/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
+    <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Pull requests
+</span>      
+</a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-305da8b1-e2f0-4d57-8eac-c641b9b04a6d" href="/alcavalcanteofc/zeroestrias/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
+    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Actions
+</span>      
+</a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-e420a6df-8250-4559-ba9e-2854684656e7" href="/alcavalcanteofc/zeroestrias/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Projects
+</span>      
+</a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i5wiki-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-c5830907-6865-4c5a-868e-5e330f6abeb1" href="/alcavalcanteofc/zeroestrias/wiki" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
+    <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Wiki
+</span>      
+</a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i6security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-3893a446-af32-4ee3-9b42-e89c8cb64f49" href="/alcavalcanteofc/zeroestrias/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
+    <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Security
+</span>      
+</a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i7insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-a1dc2a01-fae0-4346-a71c-7dcb0c5e6cec" href="/alcavalcanteofc/zeroestrias/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
+    <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Insights
+</span>      
+</a>
+  
+</li>
+</ul>    
+</div></action-list>
+
+
+</div>
+      
+</div></anchored-position>  </focus-group>
+</action-menu></div>
+</nav>
+
+  </div>
+
   
 
-  /* This is code for linear gradient on hero section */
+
+
+<turbo-frame id="repo-content-turbo-frame" target="_top" data-turbo-action="advance" class="">
+    <div id="repo-content-pjax-container" class="repository-content " >
+    
+
+
+
+    
+      
+  <div class="clearfix container-xl px-3 px-md-4 px-lg-5 mt-4 page" id="wiki-wrapper">
+    <div class="d-flex flex-column flex-md-row gh-header">
+      <h1 class="flex-auto min-width-0 mb-2 mb-md-0 mr-0 mr-md-2 gh-header-title">COMO REMOVER ESTRIAS</h1>
+
+        <div class="mt-0 mt-lg-1 flex-shrink-0 gh-header-actions">
+          <a href="#wiki-pages-box" class="d-md-none ">Jump to bottom</a>
+
+        </div>
+    </div>
+
+      <div class="mt-2 mt-md-1 pb-3 gh-header-meta">
+        alcavalcanteofc edited this page <relative-time datetime="2024-08-26T21:42:57Z" class="no-wrap">Aug 26, 2024</relative-time>
+        &middot;
+        <a href="/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS/_history" class="Link--muted">
+          1 revision
+        </a>
+      </div>
+
+    <div id="wiki-content" class="mt-4">
+      <div data-view-component="true" class="Layout Layout--flowRow-until-md Layout--sidebarPosition-end Layout--sidebarPosition-flowRow-end">
+  <div data-view-component="true" class="Layout-main">          <div id="wiki-body" class="gollum-markdown-content">
+              <div class="markdown-body">
+                <div class="markdown-heading"><h1 class="heading-element">Como Remover Estrias de Forma Eficaz: A Verdade por Trás do Guia Zero Estrias</h1><a id="user-content-como-remover-estrias-de-forma-eficaz-a-verdade-por-trás-do-guia-zero-estrias" class="anchor" aria-label="Permalink: Como Remover Estrias de Forma Eficaz: A Verdade por Trás do Guia Zero Estrias" href="#como-remover-estrias-de-forma-eficaz-a-verdade-por-trás-do-guia-zero-estrias"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p><img src="https://private-user-images.githubusercontent.com/179183804/361581097-5ee0e795-b1c2-4039-8ee1-a4b594a83531.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ3MTAxNDksIm5iZiI6MTcyNDcwOTg0OSwicGF0aCI6Ii8xNzkxODM4MDQvMzYxNTgxMDk3LTVlZTBlNzk1LWIxYzItNDAzOS04ZWUxLWE0YjU5NGE4MzUzMS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQyMjA0MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ODJjNjVkYjY0MGM1ZTY4NjJiOTEwNzNlMGI4YzA0ODcxNmEyZjc0MzkwZTRhYzAxZjlkYThmMmYxNzI2NTk0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EfnhnuMXamHnW0Blq6dugiyESzJrDZz0fkbtJz7t3dI" alt="NAUTILUS_blog-3" content-type-secured-asset="image/jpeg"></p>
+<p><a href="https://pay.kiwify.com.br/UO4hk6a" rel="nofollow">CLIQUE AQUI PARA COMPRAR !</a></p>
+<p>As estrias, conhecidas cientificamente como estrias de distensão, são cicatrizes que surgem quando a pele é esticada rapidamente, resultando no rompimento de fibras de colágeno e elastina. Esses fatores levam ao aparecimento de linhas que inicialmente têm uma coloração vermelha ou roxa e, com o tempo, se tornam brancas ou prateadas.</p>
+<p>Muitas pessoas procuram maneiras eficazes de como remover estrias, e entre as soluções disponíveis no mercado, o "Guia Zero Estrias" se destaca como uma abordagem confiável e natural. Este artigo abordará tudo o que você precisa saber sobre estrias e como o "Guia Zero Estrias" pode ajudar você a se livrar delas de maneira segura e eficaz.</p>
+<div class="markdown-heading"><h2 class="heading-element">O Que São Estrias e Por Que Elas Surgem?</h2><a id="user-content-o-que-são-estrias-e-por-que-elas-surgem" class="anchor" aria-label="Permalink: O Que São Estrias e Por Que Elas Surgem?" href="#o-que-são-estrias-e-por-que-elas-surgem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p>As estrias são formadas quando a pele se estica além de sua capacidade normal, rompendo as fibras da derme, a camada média da pele. As causas mais comuns incluem estrias na gravidez, estrias no bumbum, estrias nos seios, estrias nos glúteos, e estrias vermelhas ou estrias brancas, dependendo do estágio em que se encontram.</p>
+<p><strong>Estrias na Gravidez:</strong> Durante a gravidez, o corpo da mulher passa por muitas mudanças rápidas, incluindo o aumento do volume abdominal, o que pode causar estrias. As áreas mais afetadas incluem o abdômen, seios e coxas.</p>
+<p><strong>Estrias no Bumbum e Glúteos:</strong> Essas áreas são particularmente suscetíveis em pessoas que experimentam ganho de peso rápido ou estão em fase de crescimento, como na adolescência.</p>
+<p><strong>Estrias nos Seios:</strong> O crescimento rápido dos seios, seja por ganho de peso, gravidez ou até mesmo durante a puberdade, pode causar o aparecimento de estrias.</p>
+<div class="markdown-heading"><h2 class="heading-element">Método comum para Remover estrias</h2><a id="user-content-método-comum-para-remover-estrias" class="anchor" aria-label="Permalink: Método comum para Remover estrias" href="#método-comum-para-remover-estrias"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p>Existem diversas abordagens que as pessoas costumam pesquisar quando buscam como tirar estrias. Entre os métodos mais populares, encontramos:</p>
+<p><strong>Tratamentos a Laser para Estrias:</strong> O laser é uma das soluções mais buscadas para reduzir a aparência das estrias. Ele age estimulando a produção de colágeno, ajudando a suavizar as cicatrizes. No entanto, o custo pode ser um fator limitante para muitos.</p>
+<p><strong>Peelings Químicos:</strong> Utilizados para remover as camadas superiores da pele, os peelings podem promover o crescimento de uma nova pele mais lisa. Esse tratamento, entretanto, requer múltiplas sessões e pode não ser acessível a todos.</p>
+<p><strong>Cremes para Estrias:</strong> Produtos tópicos contendo ingredientes como retinol, ácido hialurônico e vitamina E são amplamente utilizados para tratar estrias. Embora algumas pessoas vejam melhorias, os resultados podem ser modestos e dependem da consistência do uso.</p>
+<p><strong>Métodos Naturais:</strong> O uso de remédios caseiros como óleo de coco para estrias, aloe vera para estrias, e manteiga de cacau para estrias são opções populares e acessíveis para quem prefere uma abordagem mais natural.</p>
+<p><a href="https://pay.kiwify.com.br/UO4hk6a" rel="nofollow">CLIQUE AQUI PARA COMPRAR !</a></p>
+<div class="markdown-heading"><h2 class="heading-element">O Que Torna o "Guia Zero Estrias" Diferente?</h2><a id="user-content-o-que-torna-o-guia-zero-estrias-diferente" class="anchor" aria-label="Permalink: O Que Torna o &quot;Guia Zero Estrias&quot; Diferente?" href="#o-que-torna-o-guia-zero-estrias-diferente"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p>Com tantas opções disponíveis para quem busca como remover estrias, o que faz o "Guia Zero Estrias" se destacar? Este guia oferece uma abordagem prática, segura e natural para a remoção de estrias, utilizando ingredientes que são facilmente encontrados em casa.</p>
+<p>Aqui estão os diferenciais do "Guia Zero Estrias":</p>
+<p><strong>Abordagem Natural e Segura:</strong> Ao focar em métodos naturais, o guia evita o uso de produtos químicos agressivos ou tratamentos invasivos, garantindo a segurança de sua pele.</p>
+<p><strong>Receitas Comprovadas:</strong> As receitas oferecidas no guia são baseadas em práticas que têm mostrado resultados positivos na redução de estrias, com ingredientes como óleo de coco, rosa mosqueta e manteiga de karité.</p>
+<p><strong>Acessibilidade:</strong> Como o guia é digital, ele está disponível imediatamente após a compra, permitindo que você comece a tratar suas estrias sem demora. Além disso, os ingredientes sugeridos são acessíveis e baratos.</p>
+<p><strong>Orientação Passo a Passo:</strong> O "Guia Zero Estrias" oferece um guia detalhado e fácil de seguir, que pode ser incorporado na sua rotina diária com facilidade.</p>
+<p>Testemunhos de Sucesso
+Diversos usuários que seguiram o "Guia Zero Estrias" relatam resultados notáveis, reforçando a eficácia das orientações contidas no guia. Abaixo, você confere alguns depoimentos reais:</p>
+<p><strong>Maria Clara, 32 anos:</strong> “Tive estrias após a gravidez e tentei de tudo, desde cremes caros até tratamentos a laser. Foi só com o ‘Guia Zero Estrias’ que vi uma melhora significativa. As receitas são fáceis e realmente funcionam.”</p>
+<p><strong>Juliana Ferreira, 26 anos:</strong>“Desde a adolescência, lidava com estrias nos quadris e glúteos. Com o ‘Guia Zero Estrias’, consegui reduzir a aparência das minhas estrias de forma visível. Recomendo a todos que querem uma solução natural e eficaz.”</p>
+<div class="markdown-heading"><h2 class="heading-element">Por Que Confiar no "Guia Zero Estrias"?</h2><a id="user-content-por-que-confiar-no-guia-zero-estrias" class="anchor" aria-label="Permalink: Por Que Confiar no &quot;Guia Zero Estrias&quot;?" href="#por-que-confiar-no-guia-zero-estrias"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p>Além dos testemunhos, o "Guia Zero Estrias" é respaldado por uma pesquisa cuidadosa e anos de experiência na aplicação de tratamentos naturais. Ele oferece uma solução realista para quem busca como tirar estrias de maneira eficaz, sem promessas milagrosas, mas com resultados comprovados.</p>
+<p>O guia também oferece uma garantia de satisfação. Se os resultados não atenderem às suas expectativas, você pode solicitar um reembolso, o que demonstra a confiança dos criadores no produto.</p>
+<p>As estrias podem ser frustrantes, mas com a abordagem correta, é possível reduzi-las significativamente e recuperar a confiança na sua pele. O "Guia Zero Estrias" se destaca como uma solução acessível, segura e eficaz, ideal para quem deseja adotar métodos naturais e sustentáveis.</p>
+<p>Se você está cansado de tentar tratamentos caros e ineficazes, ou simplesmente quer explorar soluções caseiras para como remover estrias, o "Guia Zero Estrias" é uma excelente escolha. Comece hoje mesmo a transformar sua pele e a viver com mais confiança.</p>
+<p><a href="https://pay.kiwify.com.br/UO4hk6a" rel="nofollow">PEGUE AQUI SEU GUIA DEFINITIVO ZERO ESTRIAS !</a></p>
+<p><img src="https://private-user-images.githubusercontent.com/179183804/361583560-f2d4bf52-cef9-45b4-b1b8-f19774d8af4e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ3MTAxNDksIm5iZiI6MTcyNDcwOTg0OSwicGF0aCI6Ii8xNzkxODM4MDQvMzYxNTgzNTYwLWYyZDRiZjUyLWNlZjktNDViNC1iMWI4LWYxOTc3NGQ4YWY0ZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQyMjA0MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZGVmZWYxNzM2ODEyNmNkNTczMzAwZDUyN2RhOGZmYWE2YTdjMTk1NWMwYmEzZTA5MThiZjhjYmZkMTk2MjBiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rqGhYBgSgiOgbAidscwxt2QhznmxIudvp5jDkW3G83U" alt="Estria_masculina_conhea_as_causas_e_tratamentos_-_capa" content-type-secured-asset="image/jpeg"></p>
+
+              </div>
+
+          </div>
+</div>
+  <div style="min-width: 0" data-view-component="true" class="Layout-sidebar">          <div class="wiki-rightbar">
+            <nav id="wiki-pages-box" class="mb-4 wiki-pages-box js-wiki-pages-box" aria-labelledby="wiki-pages-box-heading">
+              
+<div class="Box Box--condensed color-shadow-small">
+  <div class="Box-header px-2 py-1 js-wiki-toggle-collapse" style="cursor: pointer">
+    <h3 class="Box-title d-flex flex-items-center" id="wiki-pages-box-heading">
+      <button id="icon-button-0c77aa37-0c19-49e5-9c0b-49c874b3975b" aria-labelledby="tooltip-0053fdaf-f6f4-4dd3-bf26-1b89244a2df6" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--small js-wiki-sidebar-pages-toggle-chevron js-wiki-sidebar-pages-toggle-chevron-open">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down Button-visual">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</button><tool-tip id="tooltip-0053fdaf-f6f4-4dd3-bf26-1b89244a2df6" for="icon-button-0c77aa37-0c19-49e5-9c0b-49c874b3975b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Toggle table of contents</tool-tip>
+
+      <span>Pages <span title="1" data-view-component="true" class="Counter Counter--primary">1</span></span>
+    </h3>
+  </div>
+  <div class=" js-wiki-sidebar-toggle-display">
+    <div class="filter-bar">
+      <input type="text" id="wiki-pages-filter" class="form-control input-sm input-block js-filterable-field" placeholder="Find a page…" aria-label="Find a page…">
+    </div>
+
+    <ul class="m-0 p-0 list-style-none" data-filterable-for="wiki-pages-filter" data-filterable-type="substring" data-pjax>
+        <li class="Box-row px-2 py-2">
+          <details class="details-reset" open>
+  <summary>
+    <div class="d-flex flex-items-start">
+      <div
+        class="p-2 mt-n1 mb-n1 ml-n1 btn btn-octicon js-wiki-sidebar-toc-toggle-chevron-button ">
+        <svg hidden="hidden" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true" data-view-component="true" class="js-wiki-sidebar-toc-spinner mr-0 v-align-text-bottom anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>  <span class="spinner-screenreader-text sr-only">Loading</span>
+
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down js-wiki-sidebar-toc-toggle-chevron js-wiki-sidebar-toc-toggle-chevron-open mr-0">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+      </div>
+      <span data-view-component="true" class="Truncate">
+    <a href="/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS" data-view-component="true" class="Truncate-text text-bold py-1">COMO REMOVER ESTRIAS</a>
+</span>    </div>
+  </summary>
+
+      <ul class="list-style-none mx-4 px-1">
+      <li class="my-2" style="padding-left: 12px;">
+        <a class="Link--primary" data-analytics-event="{&quot;category&quot;:&quot;Wiki&quot;,&quot;action&quot;:&quot;toc_click&quot;,&quot;label&quot;:null}" href="/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS#como-remover-estrias-de-forma-eficaz-a-verdade-por-trás-do-guia-zero-estrias">Como Remover Estrias de Forma Eficaz: A Verdade por Trás do Guia Zero Estrias</a>
+      </li>
+      <li class="my-2" style="padding-left: 24px;">
+        <a class="Link--primary" data-analytics-event="{&quot;category&quot;:&quot;Wiki&quot;,&quot;action&quot;:&quot;toc_click&quot;,&quot;label&quot;:null}" href="/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS#o-que-são-estrias-e-por-que-elas-surgem">O Que São Estrias e Por Que Elas Surgem?</a>
+      </li>
+      <li class="my-2" style="padding-left: 24px;">
+        <a class="Link--primary" data-analytics-event="{&quot;category&quot;:&quot;Wiki&quot;,&quot;action&quot;:&quot;toc_click&quot;,&quot;label&quot;:null}" href="/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS#método-comum-para-remover-estrias">Método comum para Remover estrias</a>
+      </li>
+      <li class="my-2" style="padding-left: 24px;">
+        <a class="Link--primary" data-analytics-event="{&quot;category&quot;:&quot;Wiki&quot;,&quot;action&quot;:&quot;toc_click&quot;,&quot;label&quot;:null}" href="/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS#o-que-torna-o-guia-zero-estrias-diferente">O Que Torna o &quot;Guia Zero Estrias&quot; Diferente?</a>
+      </li>
+      <li class="my-2" style="padding-left: 24px;">
+        <a class="Link--primary" data-analytics-event="{&quot;category&quot;:&quot;Wiki&quot;,&quot;action&quot;:&quot;toc_click&quot;,&quot;label&quot;:null}" href="/alcavalcanteofc/zeroestrias/wiki/COMO-REMOVER-ESTRIAS#por-que-confiar-no-guia-zero-estrias">Por Que Confiar no &quot;Guia Zero Estrias&quot;?</a>
+      </li>
+  </ul>
+
+</details>
+
+        </li>
+    </ul>
+  </div>
+</div>
+
+            </nav>
+
+
+            <h5 class="mt-0 mb-2">Clone this wiki locally</h5>
+            <div class="width-full input-group">
+              <input
+                  id="wiki-clone-url"
+                  type="text"
+                  data-autoselect
+                  class="form-control input-sm text-small color-fg-muted input-monospace"
+                  aria-label="Clone URL for this wiki"
+                  value="https://github.com/alcavalcanteofc/zeroestrias.wiki.git"
+                  readonly>
+              <span class="input-group-button">
+                <span data-view-component="true">
+  <clipboard-copy for="wiki-clone-url" aria-label="Copy to clipboard" type="button" data-view-component="true" class="rounded-left-0 border-left-0 Button--secondary Button--small Button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg style="display: none;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+</clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback></div>
+</span>
+
+              </span>
+            </div>
+          </div>
+</div>
+  
+</div>    </div>
+  </div>
+
+
+  </div>
+
+</turbo-frame>
+
+
+
+    </main>
+  </div>
+
+  </div>
+
+          <footer class="footer pt-8 pb-6 f6 color-fg-muted p-responsive" role="contentinfo" >
+  <h2 class='sr-only'>Footer</h2>
 
   
-  #section-1cfd6959 {
-    background: linear-gradient(180deg, #f1b551 0%, #ec9607 69.13%);
-  }
-  
-  
-</style></head><body><div id="app"><div class="sc-jGFFOr kmimHd"><div class="sc-hGoxap ixauao"><div class="sc-laTMn jqPgsk"></div><div class="sc-cNQqM kFnwhL"><section id="section-1cfd6959" class="sc-iiUIRa kfEChq"><div width="wide" class="sc-eLdqWK NtIXI"><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-6c9f06b9" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-eqPNPO ifbDUV"><div font-family="Open Sans" font-style="normal" font-weight="700" id="countdown-cb80c419" class="sc-dEoRIm gEBTNe"><section class="sc-bmyXtO ctLYKs"><section color="rgba(208, 2, 27, 1)" font-size="38" class="sc-ipZHIp fKDpFJ">03</section><section color="rgba(255, 255, 255, 1)" font-size="19" class="sc-iGrrsa derSwZ">horas</section></section><section color="rgba(208, 2, 27, 1)" font-size="38" class="sc-iqzUVk lbjvgp"> : </section><section class="sc-bmyXtO ctLYKs"><section color="rgba(208, 2, 27, 1)" font-size="38" class="sc-ipZHIp fKDpFJ">13</section><section color="rgba(255, 255, 255, 1)" font-size="19" class="sc-iGrrsa derSwZ">minutos</section></section><section color="rgba(208, 2, 27, 1)" font-size="38" class="sc-iqzUVk lbjvgp"> : </section><section class="sc-bmyXtO ctLYKs"><section color="rgba(208, 2, 27, 1)" font-size="38" class="sc-ipZHIp fKDpFJ">19</section><section color="rgba(255, 255, 255, 1)" font-size="19" class="sc-iGrrsa derSwZ">segundos</section></section></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-101c4b78" class="sc-hUfwpO cMwDXE"><div size="5" class="sc-fONwsr kjTkvQ"><div class="sc-cNQqM hfZLyj"><div id="text-aa1b3eaf" font-size="51" font-family="Anton" color="rgba(25, 25, 25, 1)" font-style="normal" font-weight="400" class="sc-rBLzX eLXIQQ"><div><p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">Experimente receitas caseiras eficazes para remover estrias, desenvolvidas por especialistas.</span></p></div></div></div><div class="sc-cNQqM chFZBm"><div id="text-033524df" font-size="20" font-family="inherit" color="rgba(25, 25, 25, 1)" class="sc-rBLzX hdsKEB"><div><p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">Descubra segredos exclusivos para eliminar estrias, ganhe brindes especiais e fique por dentro das últimas novidades em cuidados com a pele! Adquira agora e aproveite!</span></p></div></div></div></div><div size="7" class="sc-fONwsr kcRulL"><div class="sc-eqPNPO hoiRck"><div class="sc-hjRWVT iDwetz"><picture class="sc-iybRtq cfhimK"><a href="https://pay.kiwify.com.br/UO4hk6a" rel="noopener noreferrer" target="_self"><img id="image-374c1201" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6663ac94e3f97_Ebookcompletodetoxemocionalrosaeazul.jpg" width="429" loading="lazy" class="sc-jrIrqw ldPZyG"/></a></picture></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-d263494c" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-cNQqM dxBVXC"><a id="button-4a376ed1" href="https://pay.kiwify.com.br/UO4hk6a" rel="" class="sc-bdVaJa hbSJNb"><div class="sc-bwzfXH eqoTOr">Quero o Meu Agora !</div><small class="sc-bxivhb fLKXnD">Clique Para Adquiri-lo</small></a></div></div></div></div></div></section></div><div class="sc-cNQqM jNMYNh"><section id="section-04b99293" class="sc-iiUIRa jhDiDI"><div width="wide" class="sc-eLdqWK NtIXI"><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-8bbd04dc" class="sc-hUfwpO lelyxy"><div size="4" class="sc-fONwsr HPvuF"><div class="sc-eqPNPO WhCSR"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-ed99ac6b" class="sc-hUfwpO cdNWxF"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-eqPNPO gRPSwB"><div class="sc-hjRWVT fsJHfl"><picture class="sc-iybRtq kAvSvN"><img id="image-3f830a41" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6663b1b98fa89_Post4passospararemoveramaquiagem.jpg" width="99" loading="lazy" class="sc-jrIrqw dhwOsS"/></picture></div></div><div class="sc-cNQqM llKvko"><div id="text-790558ba" font-size="20" font-family="inherit" color="rgba(25, 25, 25, 1)" class="sc-rBLzX cGknkE"><div><p dir="ltr"><strong>Informações Cientificamente Comprovadas</strong>:</p></div></div></div><div class="sc-cNQqM hJlSIm"><div id="text-cabaadec" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX gocWpL"><div><p dir="ltr">Conteúdo baseado em estudos científicos e práticas dermatológicas eficazes para garantir a credibilidade.</p></div></div></div></div></div></div></div><div size="4" class="sc-fONwsr hBvLGy"><div class="sc-eqPNPO WhCSR"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-453e5f01" class="sc-hUfwpO cdNWxF"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-eqPNPO gRPSwB"><div class="sc-hjRWVT fsJHfl"><picture class="sc-iybRtq kAvSvN"><img id="image-6524542d" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6663b259264d7_Post4passospararemoveramaquiagem1.jpg" width="101" loading="lazy" class="sc-jrIrqw fHcgqN"/></picture></div></div><div class="sc-cNQqM llKvko"><div id="text-5b0acea2" font-size="20" font-family="inherit" color="rgba(25, 25, 25, 1)" class="sc-rBLzX cGknkE"><div><p dir="ltr"><strong>Dicas Práticas e Acessíveis</strong>:</p></div></div></div><div class="sc-cNQqM hJlSIm"><div id="text-1e029580" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX gocWpL"><div><p dir="ltr">Sugestões e receitas que possam ser facilmente implementadas no dia a dia, utilizando ingredientes ou métodos acessíveis.</p></div></div></div></div></div></div></div><div size="4" class="sc-fONwsr ZSIFt"><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-527f2933" class="sc-hUfwpO cdNWxF"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-eqPNPO gRPSwB"><div class="sc-hjRWVT fsJHfl"><picture class="sc-iybRtq kAvSvN"><img id="image-6c491e6c" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6663b384492f9_Post4passospararemoveramaquiagem2.jpg" width="99" loading="lazy" class="sc-jrIrqw dhwOsS"/></picture></div></div><div class="sc-cNQqM llKvko"><div id="text-b836da98" font-size="20" font-family="inherit" color="rgba(25, 25, 25, 1)" class="sc-rBLzX cGknkE"><div><p dir="ltr"><strong>Guias Visuais e Passo a Passo</strong>:</p></div></div></div><div class="sc-cNQqM hJlSIm"><div id="text-0334827b" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX gocWpL"><div><p dir="ltr">Ilustrações, fotos e instruções detalhadas que ajudam os leitores a seguir corretamente os tratamentos e técnicas recomendadas.</p></div></div></div></div></div></div></div></div></div></div></section></div><div class="sc-cNQqM eGnVGa"><section id="section-aec90b1e" class="sc-iiUIRa dlghmL"><div width="wide" class="sc-eLdqWK NtIXI"><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-92c6cbb3" class="sc-hUfwpO gKdpxn"><div size="4" class="sc-fONwsr HPvuF"></div><div size="4" class="sc-fONwsr hBvLGy"></div><div size="4" class="sc-fONwsr ZSIFt"><div class="sc-eqPNPO gHvTOe"><div class="sc-hjRWVT bnNkCE"><picture class="sc-iybRtq dGDYKN"><img id="image-e171716f" src="https://d1yei2z3i6k35z.cloudfront.net/systeme-common/645cd3eac541d_image34.png" width="81" loading="lazy" class="sc-jrIrqw hTXkdt"/></picture></div></div></div></div></div><div class="sc-eqPNPO cderoV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-2db31fdd" class="sc-hUfwpO jImMFy"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-cNQqM cuZHDu"><div id="text-e934124c" font-size="46" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" font-style="normal" font-weight="700" class="sc-rBLzX eSRfus"><div><p dir="ltr">Descubra o Segredo Para uma Pele Livre de <span style="color: rgba(208, 2, 27, 1)"><u><strong>Estrias </strong></u></span>com Nosso eBook Exclusivo!</p></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-429573e3" class="sc-hUfwpO cMwDXE"><div size="2" class="sc-fONwsr ceyvgD"></div><div size="8" class="sc-fONwsr emGjhE"><div class="sc-cNQqM chFZBm"><div id="text-e8368b41" font-size="18" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX dHXssy"><div><p dir="ltr">Você está cansada de lutar contra as estrias e não encontrar soluções eficazes? Chegou a hora de transformar a aparência da sua pele com o nosso eBook "15 Receitas Caseiras que Ajudam a Eliminar Estrias". Este guia completo reúne as melhores receitas naturais, testadas e aprovadas, para ajudar você a conquistar uma pele mais lisa e uniforme.</p></div></div></div><div class="sc-cNQqM cJrFeG"><a id="button-f8968aea" href="https://pay.kiwify.com.br/UO4hk6a" rel="" class="sc-bdVaJa fcKgKL"><div class="sc-bwzfXH eqoTOr">Quero Agora !</div></a></div></div><div size="2" class="sc-fONwsr EGLwA"></div></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-601254d1" class="sc-hUfwpO lelyxy"><div size="4" class="sc-fONwsr HPvuF"><div class="sc-eqPNPO gDUcdX"><div class="sc-hjRWVT CvugY"><picture class="sc-iybRtq ehKelu"><img id="image-47705332" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/66679ca3a44e6_v4-460px-Get-Rid-of-Stretch-Marks-Fast-Step-2-Version-3.jpg.jpg" width="233" loading="lazy" class="sc-jrIrqw fBJxmj"/></picture></div></div></div><div size="4" class="sc-fONwsr hBvLGy"></div><div size="4" class="sc-fONwsr ZSIFt"></div></div></div></div></section></div><div class="sc-cNQqM cUGQcg"><section id="section-e912efbd" class="sc-iiUIRa fIhfRM"><div width="wide" class="sc-eLdqWK gIyOtq"><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-cafe98f9" class="sc-hUfwpO hEaAR"><div size="6" class="sc-fONwsr gYJwkZ"><div class="sc-eqPNPO gRPSwB"><div class="sc-hjRWVT cFCtGT"><picture class="sc-iybRtq boyEze"><img id="image-f26c8342" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6667a0a3d3b70_familia__3_-removebg-preview.png" width="399" loading="lazy" class="sc-jrIrqw gYwire"/></picture></div></div></div><div size="6" class="sc-fONwsr kqTGZD"><div class="sc-cNQqM jxkdap"><div id="text-1918479a" font-size="28" font-family="Anton" color="rgba(25, 25, 25, 1)" font-style="normal" font-weight="400" class="sc-rBLzX kvANPa"><div><p dir="ltr"><strong>Quem Pode se Beneficiar?</strong></p></div></div></div><div class="sc-cNQqM CMVX"><div id="text-ef8e5de0" font-size="18" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX jBomsV"><div><p dir="ltr">Nosso eBook é ideal para qualquer pessoa que deseja melhorar a aparência de suas estrias, seja devido a gravidez, crescimento rápido, ganho ou perda de peso, ou qualquer outro motivo. As receitas são seguras e podem ser usadas por pessoas de todas as idades.</p></div></div></div><div class="sc-cNQqM kzUqRe"><a id="button-bf4d3b2c" href="https://pay.kiwify.com.br/UO4hk6a" rel="" class="sc-bdVaJa gYoNBZ"><div class="sc-bwzfXH eqoTOr">Pegar o meu Ebook</div></a></div></div></div></div></div></section></div><div class="sc-cNQqM ksPMQi"><section id="section-13e1a2bb" class="sc-iiUIRa cVPmiU"><div width="wide" class="sc-eLdqWK NtIXI"><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-f8c7dcce" class="sc-hUfwpO hXgkFm"><div size="6" class="sc-fONwsr gYJwkZ"><div class="sc-cNQqM cwmDTe"><div id="text-5a0b11ea" font-size="32" font-family="Anton" color="rgba(25, 25, 25, 1)" font-style="normal" font-weight="400" class="sc-rBLzX gvjgri"><div><p dir="ltr"><strong>Benefícios das Receitas Caseiras:</strong></p></div></div></div><div class="sc-eqPNPO gGNKIY"><div class="sc-hjRWVT iDwetz"><picture class="sc-iybRtq dGaMNp"><img id="image-4d19090d" src="https://d1yei2z3i6k35z.cloudfront.net/systeme-common/636550ea2ba8c_delivery-concept-portrait-of-handsome-african-american-pizza-delivery-man-isolated-on-grey-studio-background-copy-spacecopie1.png" width="540" loading="lazy" class="sc-jrIrqw kVbjgA"/></picture></div></div><div class="sc-cNQqM gsJEPu"><div id="text-3fd7da07" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX bJiLCy"><div><p dir="ltr"><strong>Hidratação Profunda</strong>: Ingredientes naturais que penetram nas camadas mais profundas da pele, promovendo uma hidratação intensa.</p>
-<p dir="ltr"><strong>Regeneração da Pele</strong>: Estimula a produção de colágeno e elastina, essenciais para a regeneração da pele e redução das estrias.</p>
-<p dir="ltr"><strong>Redução de Cicatrizes</strong>: Auxilia na suavização das cicatrizes e melhora da textura geral da pele.</p>
-<p dir="ltr"><strong>Economia e Conveniência</strong>: Economize dinheiro e tempo com soluções caseiras, sem a necessidade de tratamentos caros ou consultas frequentes.</p></div></div></div></div><div size="6" class="sc-fONwsr kqTGZD"><div class="sc-eqPNPO cSOshW"><div class="sc-hjRWVT iDwetz"><picture class="sc-iybRtq ehKelu"><img id="image-12d2773d" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6667a3347af18_v4-460px-Get-Rid-of-Stretch-Marks-on-Your-Back-Step-6.jpg.jpg" width="389" loading="lazy" class="sc-jrIrqw iNFiaY"/></picture></div></div></div></div></div></div></section></div><div class="sc-cNQqM gUrCqM"><section id="section-b9d919fc" class="sc-iiUIRa jqOngq"><div width="small" class="sc-eLdqWK cwYXUY"><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-fe0a85e5" class="sc-hUfwpO jqOycx"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-cNQqM cBsQBi"><div id="text-e0f4e8ed" font-size="36" font-family="Anton" color="rgba(25, 25, 25, 1)" font-style="normal" font-weight="400" class="sc-rBLzX hiVaQk"><div><p dir="ltr">O Que Você Vai Encontrar no Nosso eBook:</p></div></div></div><div class="sc-cNQqM LfAzK"><div id="faq-8d8b1b33" class="sc-nrwXf hETMsR"><div class="sc-keFjpB lbbDDt"><div font-size="18" color="rgba(24, 24, 24, 1)" font-family="TTNormsPro-Bold" class="sc-AnqlK bsUBYZ">1- Receitas Simples e Eficazes: <i class="sc-eitiEO jopuBJ fas fa-chevron-circle-up"></i></div><div class="sc-bhlBdH ieqkiw"><div class="sc-cNQqM iapBgT"><div id="text-b5d6f6c2" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX hoVTGF"><div><p dir="ltr">Todas as receitas são fáceis de preparar, usando ingredientes que você provavelmente já tem em casa ou que são fáceis de encontrar.</p></div></div></div></div></div><div class="sc-keFjpB lbbDDt"><div font-size="18" color="rgba(24, 24, 24, 1)" font-family="TTNormsPro-Bold" class="sc-AnqlK bsUBYZ">2- Resultados Visíveis: <i class="sc-eitiEO jopuBJ fas fa-chevron-circle-up"></i></div><div class="sc-bhlBdH ieqkiw"><div class="sc-cNQqM iapBgT"><div id="text-8a6be197" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX hoVTGF"><div><p dir="ltr">Cada receita foi cuidadosamente selecionada por sua eficácia comprovada em melhorar a textura e a aparência da pele.</p></div></div></div></div></div><div class="sc-keFjpB lbbDDt"><div font-size="18" color="rgba(24, 24, 24, 1)" font-family="TTNormsPro-Bold" class="sc-AnqlK bsUBYZ">3- Soluções Naturais:<i class="sc-eitiEO jopuBJ fas fa-chevron-circle-up"></i></div><div class="sc-bhlBdH ieqkiw"><div class="sc-cNQqM iapBgT"><div id="text-17d0c633" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX hoVTGF"><div><p dir="ltr">Evite produtos químicos agressivos. Nossas receitas utilizam ingredientes naturais que são suaves para a pele e para o meio ambiente.</p></div></div></div></div></div><div class="sc-keFjpB lbbDDt"><div font-size="18" color="rgba(24, 24, 24, 1)" font-family="TTNormsPro-Bold" class="sc-AnqlK bsUBYZ">4- Passo a Passo Detalhado:<i class="sc-eitiEO jopuBJ fas fa-chevron-circle-up"></i></div><div class="sc-bhlBdH ieqkiw"><div class="sc-cNQqM iapBgT"><div id="text-8843b902" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX hoVTGF"><div><p dir="ltr">Instruções claras e detalhadas para garantir que você possa seguir cada receita com facilidade e obter os melhores resultados possíveis.</p></div></div></div></div></div><div class="sc-keFjpB lbbDDt"><div font-size="18" color="rgba(24, 24, 24, 1)" font-family="TTNormsPro-Bold" class="sc-AnqlK bsUBYZ">5- Dicas e Truques Exclusivos:<i class="sc-eitiEO jopuBJ fas fa-chevron-circle-up"></i></div><div class="sc-bhlBdH ieqkiw"><div class="sc-cNQqM iapBgT"><div id="text-47ca4625" font-size="16" font-family="Nunito Sans" color="rgba(25, 25, 25, 1)" class="sc-rBLzX hoVTGF"><div><p dir="ltr">Além das receitas, nosso eBook inclui dicas de cuidados diários e hábitos saudáveis que potencializam os efeitos das receitas caseiras.</p></div></div></div></div></div></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-73e5418e" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-eqPNPO ifbDUV"><div class="sc-jMMfwr hoOmly"><a target="_blank" href="https://twitter.com/intent/tweet?text=" class="sc-jqIZGH juNEZ"><svg width="18" height="18" viewBox="0 0 512 512" fill="#ffffff" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg><span>Tweet</span></a></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-0864c9af" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-eqPNPO gRPSwB"><div class="sc-hjRWVT fsJHfl"><picture class="sc-iybRtq kAvSvN"><img id="image-6a878434" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6667abb95e74e_avatar-gen1c2b16275c66b69a5b333906f4a63575.jpg" width="69" loading="lazy" class="sc-jrIrqw fdsCBs"/></picture></div></div><div class="sc-cNQqM kLXRjE"><div font-size="20px" id="bullet-list-b21ac68f" class="sc-jWxkHr jiPajp"><div><ul>  <li><i class="fas fa-check" style="font-size:20px; 
-  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;"></i><span>“Segui as receitas do eBook e notei uma diferença significativa na aparência das minhas estrias em apenas algumas semanas. Super recomendo!” - Juliana S.</span></li></ul></div></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-37596f94" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-eqPNPO gRPSwB"><div class="sc-hjRWVT fsJHfl"><picture class="sc-iybRtq kAvSvN"><img id="image-5c3cbd0b" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6667ac5b756f8_download1.jpg" width="69" loading="lazy" class="sc-jrIrqw fdsCBs"/></picture></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-9754fc5d" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-cNQqM kLXRjE"><div font-size="20px" id="bullet-list-9eaac096" class="sc-jWxkHr jiPajp"><div><ul>  <li><i class="fas fa-check" style="font-size:20px; 
-  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;"></i><span>“Adorei as receitas! São fáceis de fazer e realmente funcionam. Minha pele está mais macia e as estrias bem menos visíveis.” - Mariana R.</span></li></ul><p dir="ltr"><br></p></div></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-8b3f3d6e" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-eqPNPO gRPSwB"><div class="sc-hjRWVT fsJHfl"><picture class="sc-iybRtq kAvSvN"><img id="image-0be85c43" src="https://d1yei2z3i6k35z.cloudfront.net/8084894/6667ad03d7698_download2.jpg" width="72" loading="lazy" class="sc-jrIrqw waxRe"/></picture></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-2324411f" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-cNQqM kLXRjE"><div font-size="20px" id="bullet-list-0bf7ba76" class="sc-jWxkHr jiPajp"><div><ul>  <li><i class="fas fa-check" style="font-size:20px; 
-  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;"></i><span>Finalmente encontrei uma solução natural e eficaz para minhas estrias. Estou muito satisfeita com os resultados!” - Ana P.</span></li></ul></div></div></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-7a20f9a2" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-cNQqM dxBVXC"><a id="button-9813c345" href="https://pay.kiwify.com.br/UO4hk6a" rel="" class="sc-bdVaJa hbSJNb"><div class="sc-bwzfXH eqoTOr">Quero o Meu Agora!</div><small class="sc-bxivhb fLKXnD">Clique para Adquiri-lo</small></a></div></div></div></div><div class="sc-eqPNPO ifbDUV"><div style="background-size:initial;background-position:50% 50%;background-repeat:repeat;background-attachment:initial" id="row-58dd1b21" class="sc-hUfwpO eWjzbc"><div size="12" class="sc-fONwsr fqYvJU"><div class="sc-cNQqM kLXRjE"><div font-size="20px" id="bullet-list-4e105b60" class="sc-jWxkHr jiPajp"><div><ul>  <li><i class="fas fa-check" style="font-size:20px; 
-  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;"></i><span><strong>Adquira agora e ganhe mais 2 BÔNUS !</strong></span></li>  <li><i class="fas fa-check" style="font-size:20px; 
-  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;"></i><span><strong>Como Eliminar a Celulite. </strong></span></li>  <li><i class="fas fa-check" style="font-size:20px; 
-  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;"></i><span><strong>Método Bumbum dos Sonhos.</strong></span></li></ul></div></div></div></div></div></div></div></section></div></div></div></div><script data-cookieconsent="ignore" charSet="UTF-8">window.__PRELOADED_STATE__={"page":{"id":18577008,"type":"squeeze","locale":"pt","entities":{"00812114-6700-4f24-95bb-89d0efca1d62":{"id":"00812114-6700-4f24-95bb-89d0efca1d62","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["317bf39c-c5a1-4498-acaf-b043d27fe35d"],"parentId":"73a21ed2-7d34-410e-993f-6d393a5ab827","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-d263494c","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"0250a232-b273-49f5-b91b-7b08ef8847fc":{"id":"0250a232-b273-49f5-b91b-7b08ef8847fc","type":"Image","ratio":1.33,"width":389,"fileId":19152087,"margin":{"marginTop":-40,"marginLeft":0,"marginRight":0,"marginBottom":-45},"styles":[],"options":[],"parentId":"aa639468-5904-450f-9af9-f1a9a5d32140","alignSelf":"flex-end","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-12d2773d","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobileAlignSelf":"center"},"02bcb139-6eed-4423-be10-eaf2b9e08172":{"id":"02bcb139-6eed-4423-be10-eaf2b9e08172","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"childIds":["6567df4c-13b9-4752-aac5-2d1bd762c525","583d91c0-6b93-46b9-be15-910e1ed445a1"],"parentId":"73a21ed2-7d34-410e-993f-6d393a5ab827","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-101c4b78","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0}},"033ad2c6-b3fd-4bc0-bf93-7b08f3282d80":{"id":"033ad2c6-b3fd-4bc0-bf93-7b08f3282d80","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["659767f7-8af2-4242-96f1-2a2f96f4ff44"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-37596f94","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"0a5a7e91-56a8-402d-a6fc-c41194a744c0":{"id":"0a5a7e91-56a8-402d-a6fc-c41194a744c0","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["10422037-bd9a-46e1-8f0f-936730d7035c"],"parentId":"73a21ed2-7d34-410e-993f-6d393a5ab827","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-6c9f06b9","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"0c6d57cc-6a6e-42fe-b65a-c9d71f06bab2":{"id":"0c6d57cc-6a6e-42fe-b65a-c9d71f06bab2","type":"Text","margin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":10},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":20,"parentId":"43e2efaa-338b-491d-a354-4b7c836cc998","textAlign":"center","appearance":{"mobile":true,"desktop":true},"fontFamily":"inherit","htmlAttrId":"text-790558ba","mobileMargin":{"marginTop":10,"marginLeft":0,"marginRight":0,"marginBottom":10},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":20,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Informações Cientificamente Comprovadas:\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":39,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">\x3cstrong>Informações Cientificamente Comprovadas\x3c/strong>:\x3c/p>"},"10422037-bd9a-46e1-8f0f-936730d7035c":{"id":"10422037-bd9a-46e1-8f0f-936730d7035c","size":12,"type":"Column","childIds":["2f1ccc8d-5696-4207-9692-2c8685e0f456"],"parentId":"0a5a7e91-56a8-402d-a6fc-c41194a744c0","alignSelf":"flex-start","htmlAttrId":"column-d76703a0"},"1062baae-091c-4b33-af6c-5350b11241de":{"id":"1062baae-091c-4b33-af6c-5350b11241de","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["66e8dc36-17ac-4707-bf32-5f71de0bb811"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-7a20f9a2","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"11275586-e0c7-4740-bdc3-956b44969d58":{"id":"11275586-e0c7-4740-bdc3-956b44969d58","type":"Image","ratio":1,"width":69,"fileId":19152865,"margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"parentId":"659767f7-8af2-4242-96f1-2a2f96f4ff44","alignSelf":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-5c3cbd0b","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0}},"1331d0f8-fb07-4ea5-a773-03d20663e940":{"id":"1331d0f8-fb07-4ea5-a773-03d20663e940","size":6,"type":"Column","childIds":["60a461e3-105f-4c44-9db9-a005cfce3a7a","bea29624-6f43-437c-87d7-b9272114e1ba","3efc03d1-5112-4d9b-a599-9d5a30ea8b82"],"parentId":"13bfc1c5-538b-47f3-b658-0e79f376746a","alignSelf":"flex-start","htmlAttrId":"column-7e24d502"},"13962a22-a3bb-4e03-8a24-ab68028c84e0":{"id":"13962a22-a3bb-4e03-8a24-ab68028c84e0","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":30,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"463edeba-e1a6-4465-9303-834677cc013c","textAlign":"left","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-8a6be197","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Cada receita foi cuidadosamente selecionada por sua eficácia comprovada em melhorar a textura e a aparência da pele.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">Cada receita foi cuidadosamente selecionada por sua eficácia comprovada em melhorar a textura e a aparência da pele.\x3c/p>"},"13bfc1c5-538b-47f3-b658-0e79f376746a":{"id":"13bfc1c5-538b-47f3-b658-0e79f376746a","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":0},"childIds":["1331d0f8-fb07-4ea5-a773-03d20663e940","aa639468-5904-450f-9af9-f1a9a5d32140"],"parentId":"2a01222a-f196-47b0-a01b-03c2e99f82ef","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-f8c7dcce","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5},"reverseColumns":true},"1619ca76-8f2e-4dae-90d0-ffd95fb2f57e":{"id":"1619ca76-8f2e-4dae-90d0-ffd95fb2f57e","size":4,"type":"Column","childIds":["f1a33b0e-aab2-4786-b559-a0ec41d21a61"],"parentId":"cc3e8f20-9018-477c-a9ae-85073842953b","alignSelf":"flex-start","htmlAttrId":"column-f624f076"},"1788e3d1-9722-4e7d-9bbb-1980a989693d":{"id":"1788e3d1-9722-4e7d-9bbb-1980a989693d","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["e136228c-bf1b-4e90-9e78-5261b4b6033b"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-73e5418e","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"187386a2-3128-44da-9fe3-ba5e5b25916e":{"id":"187386a2-3128-44da-9fe3-ba5e5b25916e","type":"Image","ratio":0.67,"width":399,"fileId":19151894,"margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"parentId":"6b797c07-f56a-43b3-9380-6c839e47eab0","alignSelf":"flex-start","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-f26c8342","mobileWidth":200,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobileAlignSelf":"center"},"198af280-ede5-454a-b2c1-809756922fa0":{"id":"198af280-ede5-454a-b2c1-809756922fa0","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":30,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"4006b009-19f2-49b2-a657-188077a5cba7","textAlign":"left","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-47ca4625","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Além das receitas, nosso eBook inclui dicas de cuidados diários e hábitos saudáveis que potencializam os efeitos das receitas caseiras.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">Além das receitas, nosso eBook inclui dicas de cuidados diários e hábitos saudáveis que potencializam os efeitos das receitas caseiras.\x3c/p>"},"1e6dbc4c-cd34-451e-b6fd-6857d05ac061":{"id":"1e6dbc4c-cd34-451e-b6fd-6857d05ac061","type":"FaqItem","title":"1- Receitas Simples e Eficazes: ","styles":[],"options":[],"childIds":["599a3078-ed16-4bb0-9e68-b728f153f8a8"],"parentId":"536c9e68-dcf7-4b84-a748-1dfb089583d4","creationItemNumber":1},"2501a841-dbf9-48ac-851e-6a17af39e0a1":{"id":"2501a841-dbf9-48ac-851e-6a17af39e0a1","size":12,"type":"Column","childIds":["a96bb036-9d1b-4736-8560-58d5313b4386"],"parentId":"9fd667db-308d-46bd-afe6-055962cbaa23","alignSelf":"flex-start","htmlAttrId":"column-26a06b4e"},"27f000b5-0a3d-408d-a5c3-cf64fa8aaa65":{"id":"27f000b5-0a3d-408d-a5c3-cf64fa8aaa65","size":4,"type":"Column","childIds":[],"parentId":"cc3e8f20-9018-477c-a9ae-85073842953b","alignSelf":"flex-start","htmlAttrId":"column-5a283f5d"},"28cb3d1e-30b5-4ec8-bb6a-e77990b796cc":{"id":"28cb3d1e-30b5-4ec8-bb6a-e77990b796cc","type":"Image","ratio":1,"width":101,"fileId":19057278,"margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"parentId":"393f5d8b-cae4-4602-8bc8-a8808f5fcb93","alignSelf":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-6524542d","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0}},"28dba206-2d32-4cb0-9378-07828f332571":{"id":"28dba206-2d32-4cb0-9378-07828f332571","type":"SECTION","styles":{"padding":"40px 40px 80px 40px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundRepeat":"no-repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"options":{"width":"wide","attrId":"section-aec90b1e","appearance":{"mobile":true,"desktop":true}},"childIds":["d5767b3d-75b1-4397-9794-3ca2ec49f829","6d299113-8907-41f1-83c1-bb9c6b18f74e","cc3e8f20-9018-477c-a9ae-85073842953b"],"parentId":"c1712223-4284-4419-9de8-375556662d76","mobileStyles":{"padding":"40px 16px 40px 16px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundRepeat":"no-repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"mobileOptions":[]},"29e83260-371e-4008-88ff-633fffcbb1aa":{"id":"29e83260-371e-4008-88ff-633fffcbb1aa","size":12,"type":"Column","childIds":["72b0c1bf-df22-44ae-b1fd-5df0462c0025"],"parentId":"9892cd8b-f79a-4471-b87f-3b12c1951081","alignSelf":"flex-start","htmlAttrId":"column-8f348497"},"2a01222a-f196-47b0-a01b-03c2e99f82ef":{"id":"2a01222a-f196-47b0-a01b-03c2e99f82ef","type":"SECTION","styles":{"padding":"40px 40px 40px 40px","boxShadow":"0px 1px 5px 0px rgba(0, 0, 0, 0.2)","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"100%","backgroundRepeat":"no-repeat","backgroundPosition":"50% 0%","backgroundAttachment":"initial"},"options":{"width":"wide","attrId":"section-13e1a2bb","appearance":{"mobile":true,"desktop":true},"backgroundFileId":5128220},"childIds":["13bfc1c5-538b-47f3-b658-0e79f376746a"],"parentId":"c1712223-4284-4419-9de8-375556662d76","mobileStyles":{"padding":"40px 5px 40px 5px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"100%","backgroundColor":"rgba(236, 150, 7, 0.2)","backgroundRepeat":"no-repeat","backgroundPosition":"50% 0%","backgroundAttachment":"initial"},"mobileOptions":{"backgroundFileId":null}},"2a88b878-c9f0-49ad-8f89-ec4be23cb859":{"id":"2a88b878-c9f0-49ad-8f89-ec4be23cb859","size":4,"type":"Column","childIds":[],"parentId":"cc3e8f20-9018-477c-a9ae-85073842953b","alignSelf":"flex-start","htmlAttrId":"column-68a74033"},"2ae81159-49f5-4d94-bb35-024d730740ef":{"id":"2ae81159-49f5-4d94-bb35-024d730740ef","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":32,"parentId":"47f82442-9c1c-4611-b6bd-e227941a0f9c","textAlign":"center","appearance":{"mobile":true,"desktop":true},"fontFamily":"TTNormsPro-Bold","fontFileId":5132908,"htmlAttrId":"text-dd4dcaeb","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":22,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"SUBSCRIBE NOW\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":13,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">\x3cstrong>SUBSCRIBE NOW\x3c/strong>\x3c/p>"},"2bd0a9f4-2fba-479b-a18f-067c0f4718fc":{"id":"2bd0a9f4-2fba-479b-a18f-067c0f4718fc","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":26},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":46,"parentId":"a31d9124-ec49-49e3-b603-78f6765a1d64","fontStyle":"normal","textAlign":"center","appearance":{"mobile":true,"desktop":true},"fontFamily":"Nunito Sans","fontWeight":"700","htmlAttrId":"text-e934124c","lineHeight":54,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":26},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":26,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Descubra o Segredo Para uma Pele Livre de Estrias com Nosso eBook Exclusivo!\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":42,\"length\":8,\"style\":\"BOLD\"},{\"offset\":42,\"length\":8,\"style\":\"UNDERLINE\"},{\"offset\":42,\"length\":8,\"style\":\"rgba(208, 2, 27, 1)\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","mobileLineHeight":32,"html":"\x3cp dir=\"ltr\">Descubra o Segredo Para uma Pele Livre de \x3cspan style=\"color: rgba(208, 2, 27, 1)\">\x3cu>\x3cstrong>Estrias \x3c/strong>\x3c/u>\x3c/span>com Nosso eBook Exclusivo!\x3c/p>"},"2f1ccc8d-5696-4207-9692-2c8685e0f456":{"id":"2f1ccc8d-5696-4207-9692-2c8685e0f456","type":"Countdown","daily":{"hours":23,"minutes":59,"seconds":59,"createdAt":1718069541047},"delay":{"days":0,"hours":1,"minutes":0,"seconds":0,"createdAt":1718069541047},"fixed":{"date":"2024-06-11T21:30:21.047Z"},"action":"nothing","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"parentId":"10422037-bd9a-46e1-8f0f-936730d7035c","fontStyle":"normal","appearance":{"mobile":true,"desktop":true},"fontFamily":"Open Sans","fontWeight":"700","htmlAttrId":"countdown-cb80c419","timeStyles":{"color":"rgba(208, 2, 27, 1)","fontSize":38,"mobileColor":"rgba(208, 2, 27, 1)","mobileFontSize":20},"labelStyles":{"color":"rgba(255, 255, 255, 1)","fontSize":19,"mobileColor":"rgba(208, 2, 27, 1)","mobileFontSize":16},"redirectUrl":"","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"countdownType":"daily"},"3129c465-cfdc-4edc-a0fb-9ff162d6f6e4":{"id":"3129c465-cfdc-4edc-a0fb-9ff162d6f6e4","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":0,"paddingLeft":30,"paddingRight":30,"paddingBottom":0},"childIds":["43e2efaa-338b-491d-a354-4b7c836cc998"],"parentId":"3e9f6707-7a36-4452-b805-a7243f227329","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-ed99ac6b","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":40},"mobilePadding":{"paddingTop":0,"paddingLeft":20,"paddingRight":20,"paddingBottom":0}},"317bf39c-c5a1-4498-acaf-b043d27fe35d":{"id":"317bf39c-c5a1-4498-acaf-b043d27fe35d","size":12,"type":"Column","childIds":["9b121a75-3d4b-4933-9b3b-0c930d489f71"],"parentId":"00812114-6700-4f24-95bb-89d0efca1d62","alignSelf":"flex-start","htmlAttrId":"column-ec8aac1d"},"393f5d8b-cae4-4602-8bc8-a8808f5fcb93":{"id":"393f5d8b-cae4-4602-8bc8-a8808f5fcb93","size":12,"type":"Column","childIds":["28cb3d1e-30b5-4ec8-bb6a-e77990b796cc","402575c9-384a-4c14-a895-e33c6c4c1a8b","8009ee96-bb73-403c-825c-cc0e2b339252"],"parentId":"d6d48502-3167-42c9-bcbe-0e37bff8f56a","alignSelf":"flex-start","htmlAttrId":"column-f07bcf96"},"3e9f6707-7a36-4452-b805-a7243f227329":{"id":"3e9f6707-7a36-4452-b805-a7243f227329","size":4,"type":"Column","childIds":["3129c465-cfdc-4edc-a0fb-9ff162d6f6e4"],"parentId":"c9bfd2dd-1828-4c15-b965-e4c67af74333","alignSelf":"flex-start","htmlAttrId":"column-df060183"},"3efc03d1-5112-4d9b-a599-9d5a30ea8b82":{"id":"3efc03d1-5112-4d9b-a599-9d5a30ea8b82","type":"Text","margin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":20},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"1331d0f8-fb07-4ea5-a773-03d20663e940","textAlign":"left","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-3fd7da07","lineHeight":24,"mobileMargin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":20},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"mobileTextAlign":"center","rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Hidratação Profunda: Ingredientes naturais que penetram nas camadas mais profundas da pele, promovendo uma hidratação intensa.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":19,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"adrq0\",\"text\":\"Regeneração da Pele: Estimula a produção de colágeno e elastina, essenciais para a regeneração da pele e redução das estrias.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":19,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"54qot\",\"text\":\"Redução de Cicatrizes: Auxilia na suavização das cicatrizes e melhora da textura geral da pele.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":21,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"b9ml6\",\"text\":\"Economia e Conveniência: Economize dinheiro e tempo com soluções caseiras, sem a necessidade de tratamentos caros ou consultas frequentes.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":23,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">\x3cstrong>Hidratação Profunda\x3c/strong>: Ingredientes naturais que penetram nas camadas mais profundas da pele, promovendo uma hidratação intensa.\x3c/p>\n\x3cp dir=\"ltr\">\x3cstrong>Regeneração da Pele\x3c/strong>: Estimula a produção de colágeno e elastina, essenciais para a regeneração da pele e redução das estrias.\x3c/p>\n\x3cp dir=\"ltr\">\x3cstrong>Redução de Cicatrizes\x3c/strong>: Auxilia na suavização das cicatrizes e melhora da textura geral da pele.\x3c/p>\n\x3cp dir=\"ltr\">\x3cstrong>Economia e Conveniência\x3c/strong>: Economize dinheiro e tempo com soluções caseiras, sem a necessidade de tratamentos caros ou consultas frequentes.\x3c/p>"},"4006b009-19f2-49b2-a657-188077a5cba7":{"id":"4006b009-19f2-49b2-a657-188077a5cba7","type":"FaqItem","title":"5- Dicas e Truques Exclusivos:","styles":[],"options":[],"childIds":["198af280-ede5-454a-b2c1-809756922fa0"],"parentId":"536c9e68-dcf7-4b84-a748-1dfb089583d4","creationItemNumber":5},"402575c9-384a-4c14-a895-e33c6c4c1a8b":{"id":"402575c9-384a-4c14-a895-e33c6c4c1a8b","type":"Text","margin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":10},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":20,"parentId":"393f5d8b-cae4-4602-8bc8-a8808f5fcb93","textAlign":"center","appearance":{"mobile":true,"desktop":true},"fontFamily":"inherit","htmlAttrId":"text-5b0acea2","mobileMargin":{"marginTop":10,"marginLeft":0,"marginRight":0,"marginBottom":10},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":20,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Dicas Práticas e Acessíveis:\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":27,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">\x3cstrong>Dicas Práticas e Acessíveis\x3c/strong>:\x3c/p>"},"406791df-d0d5-44e1-a141-305b4548a306":{"id":"406791df-d0d5-44e1-a141-305b4548a306","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":0,"paddingRight":0,"paddingBottom":10},"childIds":["5f1f7a33-c6e1-499d-a0bd-60b003c309fc"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-fe0a85e5","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"40f57584-eb61-4468-8e4a-b87aa066b6a2":{"id":"40f57584-eb61-4468-8e4a-b87aa066b6a2","size":4,"type":"Column","childIds":[],"parentId":"d5767b3d-75b1-4397-9794-3ca2ec49f829","alignSelf":"flex-start","htmlAttrId":"column-5215d5b6"},"43e2efaa-338b-491d-a354-4b7c836cc998":{"id":"43e2efaa-338b-491d-a354-4b7c836cc998","size":12,"type":"Column","childIds":["c28d1552-0a49-468e-8805-a427e6bf9fba","0c6d57cc-6a6e-42fe-b65a-c9d71f06bab2","4da02927-1bd6-458b-840e-ad688910dbb0"],"parentId":"3129c465-cfdc-4edc-a0fb-9ff162d6f6e4","alignSelf":"flex-start","htmlAttrId":"column-676c99d3"},"44fbbcd9-b288-44f1-8d33-fbca94aff710":{"id":"44fbbcd9-b288-44f1-8d33-fbca94aff710","type":"BUTTON","styles":{"color":"rgba(255, 255, 255, 1)","width":"auto","padding":"14px 40px 14px 40px","fontSize":"16px","alignSelf":"center","fontStyle":"normal","marginTop":"0px","background":"rgba(65, 117, 5, 1)","fontFamily":"Anton","fontWeight":"400","lineHeight":"24px","marginLeft":"0px","borderColor":"rgba(1,77,130,1)","borderStyle":"none","borderWidth":"3px","marginRight":"0px","marginBottom":"0px","borderTopLeftRadius":"10px","borderTopRightRadius":"10px","borderBottomLeftRadius":"10px","borderBottomRightRadius":"10px"},"options":{"text":"Quero Agora !","popup":"","action":"openUrl","attrId":"button-f8968aea","linkUrl":"https://pay.kiwify.com.br/UO4hk6a","subText":"","appearance":{"mobile":true,"desktop":true},"borderType":"bottomOnly","urlRedirect":"#","subTextColor":"rgba(255,255,255,0.8)","redirectionType":"customUrl","subTextFontSize":"14px","iconClassNameAfter":"","iconClassNameBefore":""},"parentId":"cbf9771c-5905-4323-9fbf-c9e1e5fb273a","mobileStyles":{"width":"100%","padding":"14px 14px 14px 14px","fontSize":"18px","alignSelf":"center","boxShadow":"none","marginTop":"0px","lineHeight":"28px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","borderTopLeftRadius":"10px","borderTopRightRadius":"10px","borderBottomLeftRadius":"10px","borderBottomRightRadius":"10px"},"mobileOptions":{"subTextFontSize":"14px"}},"463edeba-e1a6-4465-9303-834677cc013c":{"id":"463edeba-e1a6-4465-9303-834677cc013c","type":"FaqItem","title":"2- Resultados Visíveis: ","styles":[],"options":[],"childIds":["13962a22-a3bb-4e03-8a24-ab68028c84e0"],"parentId":"536c9e68-dcf7-4b84-a748-1dfb089583d4","creationItemNumber":2},"47f82442-9c1c-4611-b6bd-e227941a0f9c":{"id":"47f82442-9c1c-4611-b6bd-e227941a0f9c","size":12,"type":"Column","childIds":["2ae81159-49f5-4d94-bb35-024d730740ef","bbaea2ef-aedd-4172-9506-fb0374295b03","c8cc7801-b9f1-46bc-b1f6-196aaacf0497","794dbafa-397d-454b-ac35-ba9f4ac50971","f33c429a-596b-422b-9597-cd1550f6bbf6","aaee7bd0-7274-44dd-ba53-a75d41530425"],"parentId":"6410b965-6fc6-46d5-8db5-26e1421fadad","alignSelf":"flex-start","htmlAttrId":"column-ccd2d1d0"},"4da02927-1bd6-458b-840e-ad688910dbb0":{"id":"4da02927-1bd6-458b-840e-ad688910dbb0","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"43e2efaa-338b-491d-a354-4b7c836cc998","textAlign":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-cabaadec","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Conteúdo baseado em estudos científicos e práticas dermatológicas eficazes para garantir a credibilidade.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">Conteúdo baseado em estudos científicos e práticas dermatológicas eficazes para garantir a credibilidade.\x3c/p>"},"5048381a-922d-4bfa-94ec-bff5f6c638f9":{"id":"5048381a-922d-4bfa-94ec-bff5f6c638f9","type":"BULLET_LIST","styles":{"padding":"5px 5px 5px 5px","fontSize":"20px","marginTop":"0px","textAlign":"left","lineHeight":"34px","marginLeft":"30px","marginRight":"0px","marginBottom":"0px"},"options":{"attrId":"bullet-list-b21ac68f","appearance":{"mobile":true,"desktop":true},"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"“Segui as receitas do eBook e notei uma diferença significativa na aparência das minhas estrias em apenas algumas semanas. Super recomendo!” - Juliana S.\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","listItemIconSize":"20px","listItemClassName":"fas fa-check","listItemIconColor":"rgba(20, 158, 252, 1)","html":"\x3cul>  \x3cli>\x3ci class=\"fas fa-check\" style=\"font-size:20px; \n  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;\">\x3c/i>\x3cspan>“Segui as receitas do eBook e notei uma diferença significativa na aparência das minhas estrias em apenas algumas semanas. Super recomendo!” - Juliana S.\x3c/span>\x3c/li>\x3c/ul>"},"parentId":"b05efb2e-49b6-42e8-848b-37af6209a1b3","mobileStyles":{"fontSize":"18px","marginTop":"0px","textAlign":"left","lineHeight":"28px","marginLeft":"10px","marginRight":"0px","marginBottom":"0px"},"mobileOptions":[]},"536c9e68-dcf7-4b84-a748-1dfb089583d4":{"id":"536c9e68-dcf7-4b84-a748-1dfb089583d4","type":"Faq","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"childIds":["1e6dbc4c-cd34-451e-b6fd-6857d05ac061","463edeba-e1a6-4465-9303-834677cc013c","6f0b11bb-9bfa-410c-b0a3-641680fbd622","e54eae53-801d-4af7-8254-2df928c72297","4006b009-19f2-49b2-a657-188077a5cba7"],"parentId":"5f1f7a33-c6e1-499d-a0bd-60b003c309fc","boxShadow":"0px 1px 5px 0px rgba(0, 0, 0, 0.2)","iconColor":"rgba(236, 150, 7, 1)","showIcons":true,"appearance":{"mobile":true,"desktop":true},"fontFileId":5132908,"htmlAttrId":"faq-8d8b1b33","titleColor":"rgba(24, 24, 24, 1)","itemPadding":{"paddingTop":20,"paddingLeft":20,"paddingRight":20,"paddingBottom":20},"mobileMargin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":0},"iconClassName":"fas fa-chevron-circle-up","mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"titleFontSize":18,"backgroundColor":"rgba(241, 244, 248, 0)","mobileShowIcons":true,"titleFontFamily":"TTNormsPro-Bold","itemBorderRadius":5,"mobileItemPadding":{"paddingTop":20,"paddingLeft":20,"paddingRight":20,"paddingBottom":20},"spaceBetweenItems":15,"mobileTitleFontSize":18},"57a34fc4-d841-4094-ab7a-4b5047747997":{"id":"57a34fc4-d841-4094-ab7a-4b5047747997","type":"BULLET_LIST","styles":{"padding":"5px 5px 5px 5px","fontSize":"20px","marginTop":"0px","textAlign":"left","lineHeight":"34px","marginLeft":"30px","marginRight":"0px","marginBottom":"0px"},"options":{"attrId":"bullet-list-0bf7ba76","appearance":{"mobile":true,"desktop":true},"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Finalmente encontrei uma solução natural e eficaz para minhas estrias. Estou muito satisfeita com os resultados!” - Ana P.\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","listItemIconSize":"20px","listItemClassName":"fas fa-check","listItemIconColor":"rgba(20, 158, 252, 1)","html":"\x3cul>  \x3cli>\x3ci class=\"fas fa-check\" style=\"font-size:20px; \n  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;\">\x3c/i>\x3cspan>Finalmente encontrei uma solução natural e eficaz para minhas estrias. Estou muito satisfeita com os resultados!” - Ana P.\x3c/span>\x3c/li>\x3c/ul>"},"parentId":"8166e547-abf4-458c-a548-76061cd35d8e","mobileStyles":{"fontSize":"18px","marginTop":"0px","textAlign":"left","lineHeight":"28px","marginLeft":"10px","marginRight":"0px","marginBottom":"0px"},"mobileOptions":[]},"583d91c0-6b93-46b9-be15-910e1ed445a1":{"id":"583d91c0-6b93-46b9-be15-910e1ed445a1","size":7,"type":"Column","childIds":["a3676d59-81a6-4d4a-8dd7-07fb212a4949"],"parentId":"02bcb139-6eed-4423-be10-eaf2b9e08172","alignSelf":"flex-start","htmlAttrId":"column-33291168"},"599a3078-ed16-4bb0-9e68-b728f153f8a8":{"id":"599a3078-ed16-4bb0-9e68-b728f153f8a8","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":30,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"1e6dbc4c-cd34-451e-b6fd-6857d05ac061","textAlign":"left","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-b5d6f6c2","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Todas as receitas são fáceis de preparar, usando ingredientes que você provavelmente já tem em casa ou que são fáceis de encontrar.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">Todas as receitas são fáceis de preparar, usando ingredientes que você provavelmente já tem em casa ou que são fáceis de encontrar.\x3c/p>"},"5b592df5-b0fb-4c07-a9a2-41a613118f4d":{"id":"5b592df5-b0fb-4c07-a9a2-41a613118f4d","type":"Image","ratio":1,"width":69,"fileId":19152813,"margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"parentId":"b05efb2e-49b6-42e8-848b-37af6209a1b3","alignSelf":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-6a878434","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0}},"5c170bf0-9d9e-44a2-9501-1f33d8f43770":{"id":"5c170bf0-9d9e-44a2-9501-1f33d8f43770","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"childIds":["930bd090-a80a-4f61-b304-d29e323d37e6","cbf9771c-5905-4323-9fbf-c9e1e5fb273a","680dbf85-6723-40d7-b219-bb2cebdf0a7e"],"parentId":"a31d9124-ec49-49e3-b603-78f6765a1d64","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-429573e3","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0}},"5ee3d1d7-2b1b-43fa-9a99-252540baf683":{"id":"5ee3d1d7-2b1b-43fa-9a99-252540baf683","type":"SECTION","styles":{"padding":"80px 40px 80px 40px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundRepeat":"no-repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"options":{"width":"wide","attrId":"section-04b99293","appearance":{"mobile":true,"desktop":true}},"childIds":["c9bfd2dd-1828-4c15-b965-e4c67af74333"],"parentId":"c1712223-4284-4419-9de8-375556662d76","mobileStyles":{"padding":"56px 16px 64px 16px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundRepeat":"no-repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"mobileOptions":[]},"5f1f7a33-c6e1-499d-a0bd-60b003c309fc":{"id":"5f1f7a33-c6e1-499d-a0bd-60b003c309fc","size":12,"type":"Column","childIds":["bf9cb645-83dd-40ad-b96f-a85e82260eff","536c9e68-dcf7-4b84-a748-1dfb089583d4"],"parentId":"406791df-d0d5-44e1-a141-305b4548a306","alignSelf":"flex-start","htmlAttrId":"column-2fea6e7b"},"60a461e3-105f-4c44-9db9-a005cfce3a7a":{"id":"60a461e3-105f-4c44-9db9-a005cfce3a7a","type":"Text","margin":{"marginTop":60,"marginLeft":0,"marginRight":0,"marginBottom":10},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":32,"parentId":"1331d0f8-fb07-4ea5-a773-03d20663e940","fontStyle":"normal","textAlign":"left","appearance":{"mobile":true,"desktop":true},"fontFamily":"Anton","fontWeight":"400","htmlAttrId":"text-5a0b11ea","mobileMargin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":10},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":24,"mobileTextAlign":"center","rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Benefícios das Receitas Caseiras:\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":33,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">\x3cstrong>Benefícios das Receitas Caseiras:\x3c/strong>\x3c/p>"},"6133fa27-d7dc-436d-89e9-f8f252f999a7":{"id":"6133fa27-d7dc-436d-89e9-f8f252f999a7","size":4,"type":"Column","childIds":["93f1801d-aa4f-43d1-9769-3597451cdb91"],"parentId":"c9bfd2dd-1828-4c15-b965-e4c67af74333","alignSelf":"flex-start","htmlAttrId":"column-ed1b9134"},"61db1ea9-51a0-4e0f-8dc6-9bb4578dca1c":{"id":"61db1ea9-51a0-4e0f-8dc6-9bb4578dca1c","type":"Text","margin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":10},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":18,"parentId":"a93edb2d-6422-4c94-a142-754ec15f0cdb","textAlign":"left","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-ef8e5de0","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":26},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":18,"mobileTextAlign":"center","rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Nosso eBook é ideal para qualquer pessoa que deseja melhorar a aparência de suas estrias, seja devido a gravidez, crescimento rápido, ganho ou perda de peso, ou qualquer outro motivo. As receitas são seguras e podem ser usadas por pessoas de todas as idades.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","mobileLineHeight":26,"html":"\x3cp dir=\"ltr\">Nosso eBook é ideal para qualquer pessoa que deseja melhorar a aparência de suas estrias, seja devido a gravidez, crescimento rápido, ganho ou perda de peso, ou qualquer outro motivo. As receitas são seguras e podem ser usadas por pessoas de todas as idades.\x3c/p>"},"6410b965-6fc6-46d5-8db5-26e1421fadad":{"id":"6410b965-6fc6-46d5-8db5-26e1421fadad","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["47f82442-9c1c-4611-b6bd-e227941a0f9c"],"parentId":"88f7772f-12fe-420e-a6bf-d7be284ba9dc","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-5c3425cb","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"6567df4c-13b9-4752-aac5-2d1bd762c525":{"id":"6567df4c-13b9-4752-aac5-2d1bd762c525","size":5,"type":"Column","childIds":["fc97b149-012f-41d1-9f07-c932648ebfaf","c2535607-b7a1-4ae1-81b2-37f41e9a0714"],"parentId":"02bcb139-6eed-4423-be10-eaf2b9e08172","alignSelf":"flex-start","htmlAttrId":"column-a1c2042f"},"659767f7-8af2-4242-96f1-2a2f96f4ff44":{"id":"659767f7-8af2-4242-96f1-2a2f96f4ff44","size":12,"type":"Column","childIds":["11275586-e0c7-4740-bdc3-956b44969d58"],"parentId":"033ad2c6-b3fd-4bc0-bf93-7b08f3282d80","alignSelf":"flex-start","htmlAttrId":"column-71689eb2"},"66e8dc36-17ac-4707-bf32-5f71de0bb811":{"id":"66e8dc36-17ac-4707-bf32-5f71de0bb811","size":12,"type":"Column","childIds":["da560ce1-bfb7-4cb3-8cab-86e19ef60114"],"parentId":"1062baae-091c-4b33-af6c-5350b11241de","alignSelf":"flex-start","htmlAttrId":"column-498bbaec"},"680dbf85-6723-40d7-b219-bb2cebdf0a7e":{"id":"680dbf85-6723-40d7-b219-bb2cebdf0a7e","size":2,"type":"Column","childIds":[],"parentId":"5c170bf0-9d9e-44a2-9501-1f33d8f43770","alignSelf":"flex-end","htmlAttrId":"column-f7e8db68"},"6b797c07-f56a-43b3-9380-6c839e47eab0":{"id":"6b797c07-f56a-43b3-9380-6c839e47eab0","size":6,"type":"Column","childIds":["187386a2-3128-44da-9fe3-ba5e5b25916e"],"parentId":"e7a3b1c8-097e-4627-9f62-c3ea88a5bf65","alignSelf":"flex-start","htmlAttrId":"column-1554c37f"},"6d299113-8907-41f1-83c1-bb9c6b18f74e":{"id":"6d299113-8907-41f1-83c1-bb9c6b18f74e","type":"Row","border":{"radius":{"borderTopLeftRadius":10,"borderTopRightRadius":10,"borderBottomLeftRadius":10,"borderBottomRightRadius":10}},"margin":{"marginTop":-20,"marginLeft":40,"marginRight":40,"marginBottom":0},"padding":{"paddingTop":64,"paddingLeft":64,"paddingRight":64,"paddingBottom":64},"childIds":["a31d9124-ec49-49e3-b603-78f6765a1d64"],"parentId":"28dba206-2d32-4cb0-9378-07828f332571","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-2db31fdd","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":40,"paddingLeft":40,"paddingRight":40,"paddingBottom":40},"backgroundColor":"rgba(253, 244, 230, 1)"},"6f0b11bb-9bfa-410c-b0a3-641680fbd622":{"id":"6f0b11bb-9bfa-410c-b0a3-641680fbd622","type":"FaqItem","title":"3- Soluções Naturais:","styles":[],"options":[],"childIds":["e7225cfe-4b7a-4790-8088-f7fd4603dfa6"],"parentId":"536c9e68-dcf7-4b84-a748-1dfb089583d4","creationItemNumber":3},"72b0c1bf-df22-44ae-b1fd-5df0462c0025":{"id":"72b0c1bf-df22-44ae-b1fd-5df0462c0025","type":"BULLET_LIST","styles":{"padding":"5px 5px 5px 5px","fontSize":"20px","marginTop":"0px","textAlign":"left","lineHeight":"34px","marginLeft":"30px","marginRight":"0px","marginBottom":"0px"},"options":{"attrId":"bullet-list-4e105b60","appearance":{"mobile":true,"desktop":true},"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Adquira agora e ganhe mais 2 BÔNUS !\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":36,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"a8v7j\",\"text\":\"Como Eliminar a Celulite. \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":26,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"9cjsa\",\"text\":\"Método Bumbum dos Sonhos.\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":25,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","listItemIconSize":"20px","listItemClassName":"fas fa-check","listItemIconColor":"rgba(20, 158, 252, 1)","html":"\x3cul>  \x3cli>\x3ci class=\"fas fa-check\" style=\"font-size:20px; \n  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;\">\x3c/i>\x3cspan>\x3cstrong>Adquira agora e ganhe mais 2 BÔNUS !\x3c/strong>\x3c/span>\x3c/li>  \x3cli>\x3ci class=\"fas fa-check\" style=\"font-size:20px; \n  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;\">\x3c/i>\x3cspan>\x3cstrong>Como Eliminar a Celulite. \x3c/strong>\x3c/span>\x3c/li>  \x3cli>\x3ci class=\"fas fa-check\" style=\"font-size:20px; \n  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;\">\x3c/i>\x3cspan>\x3cstrong>Método Bumbum dos Sonhos.\x3c/strong>\x3c/span>\x3c/li>\x3c/ul>"},"parentId":"29e83260-371e-4008-88ff-633fffcbb1aa","mobileStyles":{"fontSize":"18px","marginTop":"0px","textAlign":"left","lineHeight":"28px","marginLeft":"10px","marginRight":"0px","marginBottom":"0px"},"mobileOptions":[]},"73a21ed2-7d34-410e-993f-6d393a5ab827":{"id":"73a21ed2-7d34-410e-993f-6d393a5ab827","type":"SECTION","styles":{"padding":"40px 40px 0px 40px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundColor":"rgba(84, 7, 100, 1)","backgroundRepeat":"no-repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"options":{"width":"wide","attrId":"section-1cfd6959","appearance":{"mobile":true,"desktop":true}},"childIds":["0a5a7e91-56a8-402d-a6fc-c41194a744c0","02bcb139-6eed-4423-be10-eaf2b9e08172","00812114-6700-4f24-95bb-89d0efca1d62"],"parentId":"c1712223-4284-4419-9de8-375556662d76","mobileStyles":{"padding":"40px 16px 20px 16px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundRepeat":"no-repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"mobileOptions":[]},"74e97b52-3a29-45b2-a6cd-0b7b2f9af28b":{"id":"74e97b52-3a29-45b2-a6cd-0b7b2f9af28b","type":"SECTION","styles":{"padding":"40px 40px 0px 40px","boxShadow":"none","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"100%","backgroundColor":"rgba(144, 19, 254, 1)","backgroundRepeat":"no-repeat","backgroundPosition":"50% 0%","backgroundAttachment":"initial"},"options":{"width":"wide","attrId":"section-e912efbd","appearance":{"mobile":true,"desktop":true},"backgroundFileId":5128188,"containerBackgroundColor":"rgba(0, 0, 0, 0)"},"childIds":["e7a3b1c8-097e-4627-9f62-c3ea88a5bf65"],"parentId":"c1712223-4284-4419-9de8-375556662d76","mobileStyles":{"padding":"56px 16px 0px 16px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundColor":"rgba(236, 150, 7, 0.2)","backgroundRepeat":"no-repeat","backgroundPosition":"50% 0%","backgroundAttachment":"initial"},"mobileOptions":{"backgroundFileId":null}},"794dbafa-397d-454b-ac35-ba9f4ac50971":{"id":"794dbafa-397d-454b-ac35-ba9f4ac50971","type":"FORM_INPUT","styles":{"fontSize":"18px","marginTop":"25px","marginLeft":"0px","borderColor":"rgba(176, 186, 202, 1)","borderStyle":"solid","borderWidth":"1px","marginRight":"0px","marginBottom":"0px","backgroundColor":"rgba(255, 255, 255, 1)","borderTopLeftRadius":"5px","borderTopRightRadius":"5px","borderBottomLeftRadius":"5px","borderBottomRightRadius":"5px"},"options":{"slug":"email","attrId":"form-input-caed3831","inputType":"text","appearance":{"mobile":true,"desktop":true},"placeholder":"Enter Your Email"},"parentId":"47f82442-9c1c-4611-b6bd-e227941a0f9c","mobileStyles":{"marginTop":"10px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px"},"mobileOptions":[]},"7dda5586-2cdb-4cf2-bdd4-dce58f1e6030":{"id":"7dda5586-2cdb-4cf2-bdd4-dce58f1e6030","type":"Text","margin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":10},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":20,"parentId":"ed67514a-4f8f-4268-91d2-6d51cecaa71f","textAlign":"center","appearance":{"mobile":true,"desktop":true},"fontFamily":"inherit","htmlAttrId":"text-b836da98","mobileMargin":{"marginTop":10,"marginLeft":0,"marginRight":0,"marginBottom":10},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":20,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Guias Visuais e Passo a Passo:\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":29,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">\x3cstrong>Guias Visuais e Passo a Passo\x3c/strong>:\x3c/p>"},"8009ee96-bb73-403c-825c-cc0e2b339252":{"id":"8009ee96-bb73-403c-825c-cc0e2b339252","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"393f5d8b-cae4-4602-8bc8-a8808f5fcb93","textAlign":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-1e029580","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Sugestões e receitas que possam ser facilmente implementadas no dia a dia, utilizando ingredientes ou métodos acessíveis.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">Sugestões e receitas que possam ser facilmente implementadas no dia a dia, utilizando ingredientes ou métodos acessíveis.\x3c/p>"},"8166e547-abf4-458c-a548-76061cd35d8e":{"id":"8166e547-abf4-458c-a548-76061cd35d8e","size":12,"type":"Column","childIds":["57a34fc4-d841-4094-ab7a-4b5047747997"],"parentId":"cfac1b66-4146-4fd8-abff-c3b52bcb5c84","alignSelf":"flex-start","htmlAttrId":"column-9ed57cb2"},"88f7772f-12fe-420e-a6bf-d7be284ba9dc":{"id":"88f7772f-12fe-420e-a6bf-d7be284ba9dc","type":"POPUP","styles":{"padding":"30px","boxShadow":"0px 1px 5px 0px rgba(0, 0, 0, 0.2)","borderColor":"rgba(236, 150, 7, 1)","borderStyle":"solid","borderWidth":"3px","backgroundColor":"rgba(255, 255, 255, 1)","borderTopLeftRadius":"6px","borderTopRightRadius":"`6px","borderBottomLeftRadius":"6px","borderBottomRightRadius":"6px"},"options":{"delay":1,"title":"Popup №1","attrId":"popup-3d370e17","showClose":"1","mobileDelay":1,"openAutomatically":"0","openOnMobileAutomatically":"0"},"childIds":["6410b965-6fc6-46d5-8db5-26e1421fadad"],"mobileStyles":{"padding":"5px 5px 5px 5px"},"mobileOptions":[]},"8b4cadcc-ce83-4809-8a9b-9c41cda09820":{"id":"8b4cadcc-ce83-4809-8a9b-9c41cda09820","size":4,"type":"Column","childIds":["b789169d-55d3-4b8a-8615-a4e7fa946479"],"parentId":"d5767b3d-75b1-4397-9794-3ca2ec49f829","alignSelf":"flex-start","htmlAttrId":"column-1d2f1b70"},"8b7a4317-974a-42e0-9598-16f8fb9aa146":{"id":"8b7a4317-974a-42e0-9598-16f8fb9aa146","type":"BUTTON","styles":{"color":"rgba(255, 255, 255, 1)","width":"auto","padding":"14px 40px 14px 40px","fontSize":"16px","alignSelf":"flex-start","fontStyle":"normal","marginTop":"0px","background":"rgba(65, 117, 5, 1)","fontFamily":"Anton","fontWeight":"400","lineHeight":"24px","marginLeft":"0px","borderColor":"rgba(1,77,130,1)","borderStyle":"none","borderWidth":"3px","marginRight":"0px","marginBottom":"0px","borderTopLeftRadius":"10px","borderTopRightRadius":"10px","borderBottomLeftRadius":"10px","borderBottomRightRadius":"10px"},"options":{"text":"Pegar o meu Ebook","popup":"","action":"openUrl","attrId":"button-bf4d3b2c","linkUrl":"https://pay.kiwify.com.br/UO4hk6a","subText":"","appearance":{"mobile":true,"desktop":true},"borderType":"bottomOnly","urlRedirect":"#","subTextColor":"rgba(255,255,255,0.8)","redirectionType":"customUrl","subTextFontSize":"14px","iconClassNameAfter":"","iconClassNameBefore":""},"parentId":"a93edb2d-6422-4c94-a142-754ec15f0cdb","mobileStyles":{"width":"100%","padding":"14px 14px 14px 14px","fontSize":"18px","alignSelf":"center","boxShadow":"none","marginTop":"0px","lineHeight":"28px","marginLeft":"0px","marginRight":"0px","marginBottom":"40px","borderTopLeftRadius":"10px","borderTopRightRadius":"10px","borderBottomLeftRadius":"10px","borderBottomRightRadius":"10px"},"mobileOptions":{"subTextFontSize":"14px"}},"8faa1a00-2bc2-4ecc-8068-25182663e27e":{"id":"8faa1a00-2bc2-4ecc-8068-25182663e27e","type":"BULLET_LIST","styles":{"padding":"5px 5px 5px 5px","fontSize":"20px","marginTop":"0px","textAlign":"left","lineHeight":"34px","marginLeft":"30px","marginRight":"0px","marginBottom":"0px"},"options":{"attrId":"bullet-list-9eaac096","appearance":{"mobile":true,"desktop":true},"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"“Adorei as receitas! São fáceis de fazer e realmente funcionam. Minha pele está mais macia e as estrias bem menos visíveis.” - Mariana R.\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"a8v7j\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","listItemIconSize":"20px","listItemClassName":"fas fa-check","listItemIconColor":"rgba(20, 158, 252, 1)","html":"\x3cul>  \x3cli>\x3ci class=\"fas fa-check\" style=\"font-size:20px; \n  color:rgba(20, 158, 252, 1); margin-left: -25px; margin-right: 10px;\">\x3c/i>\x3cspan>“Adorei as receitas! São fáceis de fazer e realmente funcionam. Minha pele está mais macia e as estrias bem menos visíveis.” - Mariana R.\x3c/span>\x3c/li>\x3c/ul>\x3cp dir=\"ltr\">\x3cbr>\x3c/p>"},"parentId":"a2219524-aac2-499c-ab0a-814084ee6eda","mobileStyles":{"fontSize":"18px","marginTop":"0px","textAlign":"left","lineHeight":"28px","marginLeft":"10px","marginRight":"0px","marginBottom":"0px"},"mobileOptions":[]},"930bd090-a80a-4f61-b304-d29e323d37e6":{"id":"930bd090-a80a-4f61-b304-d29e323d37e6","size":2,"type":"Column","childIds":[],"parentId":"5c170bf0-9d9e-44a2-9501-1f33d8f43770","alignSelf":"flex-start","htmlAttrId":"column-3e791840"},"93f1801d-aa4f-43d1-9769-3597451cdb91":{"id":"93f1801d-aa4f-43d1-9769-3597451cdb91","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":0,"paddingLeft":30,"paddingRight":30,"paddingBottom":0},"childIds":["ed67514a-4f8f-4268-91d2-6d51cecaa71f"],"parentId":"6133fa27-d7dc-436d-89e9-f8f252f999a7","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-527f2933","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":20,"paddingRight":20,"paddingBottom":0}},"94db9d86-d751-42e1-9fec-feca48583265":{"id":"94db9d86-d751-42e1-9fec-feca48583265","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"ed67514a-4f8f-4268-91d2-6d51cecaa71f","textAlign":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-0334827b","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Ilustrações, fotos e instruções detalhadas que ajudam os leitores a seguir corretamente os tratamentos e técnicas recomendadas.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">Ilustrações, fotos e instruções detalhadas que ajudam os leitores a seguir corretamente os tratamentos e técnicas recomendadas.\x3c/p>"},"9892cd8b-f79a-4471-b87f-3b12c1951081":{"id":"9892cd8b-f79a-4471-b87f-3b12c1951081","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["29e83260-371e-4008-88ff-633fffcbb1aa"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-58dd1b21","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"9b121a75-3d4b-4933-9b3b-0c930d489f71":{"id":"9b121a75-3d4b-4933-9b3b-0c930d489f71","type":"BUTTON","styles":{"color":"rgba(255, 255, 255, 1)","width":"auto","padding":"15px 90px 15px 90px","fontSize":"20px","alignSelf":"center","fontStyle":"normal","marginTop":"25px","background":"rgba(65, 117, 5, 1)","fontFamily":"Anton","fontWeight":"400","marginLeft":"0px","borderColor":"rgba(1,77,130,1)","borderStyle":"solid","borderWidth":"3px","marginRight":"0px","marginBottom":"0px","borderTopLeftRadius":"3px","borderTopRightRadius":"3px","borderBottomLeftRadius":"3px","borderBottomRightRadius":"3px"},"options":{"text":"Quero o Meu Agora !","popup":"","action":"openUrl","attrId":"button-4a376ed1","linkUrl":"https://pay.kiwify.com.br/UO4hk6a","subText":"Clique Para Adquiri-lo","appearance":{"mobile":true,"desktop":true},"borderType":"bottomOnly","subTextColor":"rgba(255,255,255,0.8)","redirectionType":"nextStep","subTextFontSize":"14px","iconClassNameAfter":"","iconClassNameBefore":""},"parentId":"317bf39c-c5a1-4498-acaf-b043d27fe35d","mobileStyles":{"width":"100%","padding":"5px 5px 5px 5px","fontSize":"20px","alignSelf":"center","boxShadow":"none","marginTop":"5px","marginLeft":"0px","marginRight":"0px","marginBottom":"5px"},"mobileOptions":{"subTextFontSize":"14px"}},"9fd667db-308d-46bd-afe6-055962cbaa23":{"id":"9fd667db-308d-46bd-afe6-055962cbaa23","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["2501a841-dbf9-48ac-851e-6a17af39e0a1"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-8b3f3d6e","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"a2219524-aac2-499c-ab0a-814084ee6eda":{"id":"a2219524-aac2-499c-ab0a-814084ee6eda","size":12,"type":"Column","childIds":["8faa1a00-2bc2-4ecc-8068-25182663e27e"],"parentId":"e733bf52-3158-404b-9196-7b2db5679caa","alignSelf":"flex-start","htmlAttrId":"column-6c742e35"},"a31d9124-ec49-49e3-b603-78f6765a1d64":{"id":"a31d9124-ec49-49e3-b603-78f6765a1d64","size":12,"type":"Column","childIds":["2bd0a9f4-2fba-479b-a18f-067c0f4718fc","5c170bf0-9d9e-44a2-9501-1f33d8f43770"],"parentId":"6d299113-8907-41f1-83c1-bb9c6b18f74e","alignSelf":"flex-start","htmlAttrId":"column-e74c9d5d"},"a3676d59-81a6-4d4a-8dd7-07fb212a4949":{"id":"a3676d59-81a6-4d4a-8dd7-07fb212a4949","link":"https://pay.kiwify.com.br/UO4hk6a","type":"Image","ratio":0.64,"width":429,"fileId":19056939,"margin":{"marginTop":0,"marginLeft":40,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"parentId":"583d91c0-6b93-46b9-be15-910e1ed445a1","alignSelf":"flex-end","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-374c1201","mobileWidth":300,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobileAlignSelf":"center"},"a93edb2d-6422-4c94-a142-754ec15f0cdb":{"id":"a93edb2d-6422-4c94-a142-754ec15f0cdb","size":6,"type":"Column","childIds":["b7c62901-662b-4299-8068-fac381b2ce97","61db1ea9-51a0-4e0f-8dc6-9bb4578dca1c","8b7a4317-974a-42e0-9598-16f8fb9aa146"],"parentId":"e7a3b1c8-097e-4627-9f62-c3ea88a5bf65","alignSelf":"flex-start","htmlAttrId":"column-bb944527"},"a96bb036-9d1b-4736-8560-58d5313b4386":{"id":"a96bb036-9d1b-4736-8560-58d5313b4386","type":"Image","ratio":1,"width":72,"fileId":19152929,"margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"parentId":"2501a841-dbf9-48ac-851e-6a17af39e0a1","alignSelf":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-0be85c43","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0}},"aa639468-5904-450f-9af9-f1a9a5d32140":{"id":"aa639468-5904-450f-9af9-f1a9a5d32140","size":6,"type":"Column","childIds":["0250a232-b273-49f5-b91b-7b08ef8847fc"],"parentId":"13bfc1c5-538b-47f3-b658-0e79f376746a","alignSelf":"flex-start","htmlAttrId":"column-37bf6419"},"aaee7bd0-7274-44dd-ba53-a75d41530425":{"id":"aaee7bd0-7274-44dd-ba53-a75d41530425","type":"BUTTON","styles":{"color":"rgba(255, 255, 255, 1)","width":"100%","padding":"15px 90px 15px 90px","fontSize":"20px","alignSelf":"center","marginTop":"25px","background":"rgba(236, 150, 7, 1)","marginLeft":"0px","borderColor":"rgba(1,77,130,1)","borderStyle":"none","borderWidth":"3px","marginRight":"0px","marginBottom":"0px","borderTopLeftRadius":"40px","borderTopRightRadius":"40px","borderBottomLeftRadius":"40px","borderBottomRightRadius":"40px"},"options":{"text":"Click here","action":"sendForm","attrId":"button-e1f40cca","subText":"","appearance":{"mobile":true,"desktop":true},"borderType":"bottomOnly","subTextColor":"rgba(255,255,255,0.8)","redirectionType":"nextStep","subTextFontSize":"14px","iconClassNameAfter":"","iconClassNameBefore":""},"parentId":"47f82442-9c1c-4611-b6bd-e227941a0f9c","mobileStyles":{"width":"100%","padding":"15px 5px 15px 5px","fontSize":"20px","alignSelf":"center","boxShadow":"none","marginTop":"10px","marginLeft":"0px","marginRight":"0px","marginBottom":"5px"},"mobileOptions":{"subTextFontSize":"14px"}},"ab7804f5-4c90-4ebc-a349-fb930e1be980":{"id":"ab7804f5-4c90-4ebc-a349-fb930e1be980","text":"","type":"TwitterTweetButton","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"parentId":"e136228c-bf1b-4e90-9e78-5261b4b6033b","alignSelf":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"twittertweetbutton-b81f7394","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0}},"b05efb2e-49b6-42e8-848b-37af6209a1b3":{"id":"b05efb2e-49b6-42e8-848b-37af6209a1b3","size":12,"type":"Column","childIds":["5b592df5-b0fb-4c07-a9a2-41a613118f4d","5048381a-922d-4bfa-94ec-bff5f6c638f9"],"parentId":"cdfe919d-b8fb-4046-b2a0-1ec8b3c4a874","alignSelf":"flex-start","htmlAttrId":"column-f65c35ea"},"b789169d-55d3-4b8a-8615-a4e7fa946479":{"id":"b789169d-55d3-4b8a-8615-a4e7fa946479","type":"Image","ratio":1.65,"width":81,"fileId":7799343,"margin":{"marginTop":0,"marginLeft":0,"marginRight":40,"marginBottom":0},"styles":[],"options":[],"parentId":"8b4cadcc-ce83-4809-8a9b-9c41cda09820","alignSelf":"flex-end","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-e171716f","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0}},"b7c62901-662b-4299-8068-fac381b2ce97":{"id":"b7c62901-662b-4299-8068-fac381b2ce97","type":"Text","margin":{"marginTop":60,"marginLeft":0,"marginRight":0,"marginBottom":10},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":28,"parentId":"a93edb2d-6422-4c94-a142-754ec15f0cdb","fontStyle":"normal","textAlign":"left","appearance":{"mobile":true,"desktop":true},"fontFamily":"Anton","fontWeight":"400","htmlAttrId":"text-1918479a","lineHeight":34,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":26},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":34,"mobileTextAlign":"center","rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Quem Pode se Beneficiar?\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":24,\"style\":\"BOLD\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","mobileLineHeight":40,"html":"\x3cp dir=\"ltr\">\x3cstrong>Quem Pode se Beneficiar?\x3c/strong>\x3c/p>"},"bbaea2ef-aedd-4172-9506-fb0374295b03":{"id":"bbaea2ef-aedd-4172-9506-fb0374295b03","type":"Text","margin":{"marginTop":10,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"47f82442-9c1c-4611-b6bd-e227941a0f9c","textAlign":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-997e8911","mobileMargin":{"marginTop":10,"marginLeft":0,"marginRight":0,"marginBottom":10},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\" Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\"> Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate.\x3c/p>"},"bea29624-6f43-437c-87d7-b9272114e1ba":{"id":"bea29624-6f43-437c-87d7-b9272114e1ba","type":"Image","ratio":1.05,"width":540,"fileId":5134037,"margin":{"marginTop":-40,"marginLeft":0,"marginRight":0,"marginBottom":-45},"styles":[],"options":[],"parentId":"1331d0f8-fb07-4ea5-a773-03d20663e940","alignSelf":"flex-end","appearance":{"mobile":true,"desktop":false},"htmlAttrId":"image-4d19090d","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobileAlignSelf":"center"},"bf9cb645-83dd-40ad-b96f-a85e82260eff":{"id":"bf9cb645-83dd-40ad-b96f-a85e82260eff","type":"Text","margin":{"marginTop":20,"marginLeft":0,"marginRight":0,"marginBottom":30},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":36,"parentId":"5f1f7a33-c6e1-499d-a0bd-60b003c309fc","fontStyle":"normal","textAlign":"center","appearance":{"mobile":true,"desktop":true},"fontFamily":"Anton","fontWeight":"400","htmlAttrId":"text-e0f4e8ed","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":26,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"O Que Você Vai Encontrar no Nosso eBook:\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">O Que Você Vai Encontrar no Nosso eBook:\x3c/p>"},"c1712223-4284-4419-9de8-375556662d76":{"id":"c1712223-4284-4419-9de8-375556662d76","type":"BODY","styles":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"options":{"attrId":"body-2a401a53"},"childIds":["73a21ed2-7d34-410e-993f-6d393a5ab827","5ee3d1d7-2b1b-43fa-9a99-252540baf683","28dba206-2d32-4cb0-9378-07828f332571","74e97b52-3a29-45b2-a6cd-0b7b2f9af28b","2a01222a-f196-47b0-a01b-03c2e99f82ef","ec0e3929-5a07-455b-a622-0df9ed888802"],"mobileStyles":[],"mobileOptions":[]},"c2535607-b7a1-4ae1-81b2-37f41e9a0714":{"id":"c2535607-b7a1-4ae1-81b2-37f41e9a0714","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":40},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":20,"parentId":"6567df4c-13b9-4752-aac5-2d1bd762c525","textAlign":"left","appearance":{"mobile":true,"desktop":true},"fontFamily":"inherit","htmlAttrId":"text-033524df","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":32},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":18,"mobileTextAlign":"center","rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Descubra segredos exclusivos para eliminar estrias, ganhe brindes especiais e fique por dentro das últimas novidades em cuidados com a pele! Adquira agora e aproveite!\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":167,\"style\":\"rgba(255, 255, 255, 1)\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","mobileLineHeight":26,"html":"\x3cp dir=\"ltr\">\x3cspan style=\"color: rgba(255, 255, 255, 1)\">Descubra segredos exclusivos para eliminar estrias, ganhe brindes especiais e fique por dentro das últimas novidades em cuidados com a pele! Adquira agora e aproveite!\x3c/span>\x3c/p>"},"c28d1552-0a49-468e-8805-a427e6bf9fba":{"id":"c28d1552-0a49-468e-8805-a427e6bf9fba","type":"Image","ratio":1,"width":99,"fileId":19057239,"margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"parentId":"43e2efaa-338b-491d-a354-4b7c836cc998","alignSelf":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-3f830a41","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0}},"c8cc7801-b9f1-46bc-b1f6-196aaacf0497":{"id":"c8cc7801-b9f1-46bc-b1f6-196aaacf0497","type":"FORM_INPUT","styles":{"fontSize":"18px","marginTop":"25px","marginLeft":"0px","borderColor":"rgba(176, 186, 202, 1)","borderStyle":"solid","borderWidth":"1px","marginRight":"0px","marginBottom":"0px","backgroundColor":"rgba(255, 255, 255, 1)","borderTopLeftRadius":"5px","borderTopRightRadius":"5px","borderBottomLeftRadius":"5px","borderBottomRightRadius":"5px"},"options":{"slug":"first_name","attrId":"form-input-b5ed424b","inputType":"text","appearance":{"mobile":true,"desktop":true},"placeholder":"Enter Your Name"},"parentId":"47f82442-9c1c-4611-b6bd-e227941a0f9c","mobileStyles":{"marginTop":"10px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px"},"mobileOptions":[]},"c9bfd2dd-1828-4c15-b965-e4c67af74333":{"id":"c9bfd2dd-1828-4c15-b965-e4c67af74333","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["3e9f6707-7a36-4452-b805-a7243f227329","d15db87d-21b5-41af-9114-d530cd06a13a","6133fa27-d7dc-436d-89e9-f8f252f999a7"],"parentId":"5ee3d1d7-2b1b-43fa-9a99-252540baf683","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-8bbd04dc","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0}},"cbf9771c-5905-4323-9fbf-c9e1e5fb273a":{"id":"cbf9771c-5905-4323-9fbf-c9e1e5fb273a","size":8,"type":"Column","childIds":["eacd2b34-1837-4a30-b30a-0740f34a177a","44fbbcd9-b288-44f1-8d33-fbca94aff710"],"parentId":"5c170bf0-9d9e-44a2-9501-1f33d8f43770","alignSelf":"flex-start","htmlAttrId":"column-6af6c068"},"cc3e8f20-9018-477c-a9ae-85073842953b":{"id":"cc3e8f20-9018-477c-a9ae-85073842953b","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["1619ca76-8f2e-4dae-90d0-ffd95fb2f57e","2a88b878-c9f0-49ad-8f89-ec4be23cb859","27f000b5-0a3d-408d-a5c3-cf64fa8aaa65"],"parentId":"28dba206-2d32-4cb0-9378-07828f332571","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-601254d1","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0}},"cdfe919d-b8fb-4046-b2a0-1ec8b3c4a874":{"id":"cdfe919d-b8fb-4046-b2a0-1ec8b3c4a874","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["b05efb2e-49b6-42e8-848b-37af6209a1b3"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-0864c9af","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"cfac1b66-4146-4fd8-abff-c3b52bcb5c84":{"id":"cfac1b66-4146-4fd8-abff-c3b52bcb5c84","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["8166e547-abf4-458c-a548-76061cd35d8e"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-2324411f","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"d0fe86c2-c2b6-4e5f-961d-4209d7d42960":{"id":"d0fe86c2-c2b6-4e5f-961d-4209d7d42960","type":"Image","ratio":1,"width":99,"fileId":19057368,"margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"parentId":"ed67514a-4f8f-4268-91d2-6d51cecaa71f","alignSelf":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-6c491e6c","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0}},"d15db87d-21b5-41af-9114-d530cd06a13a":{"id":"d15db87d-21b5-41af-9114-d530cd06a13a","size":4,"type":"Column","childIds":["d6d48502-3167-42c9-bcbe-0e37bff8f56a"],"parentId":"c9bfd2dd-1828-4c15-b965-e4c67af74333","alignSelf":"flex-start","htmlAttrId":"column-1619b8d4"},"d218ba57-b995-4d40-9c54-12f45db5d9be":{"id":"d218ba57-b995-4d40-9c54-12f45db5d9be","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":30,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"e54eae53-801d-4af7-8254-2df928c72297","textAlign":"left","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-8843b902","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Instruções claras e detalhadas para garantir que você possa seguir cada receita com facilidade e obter os melhores resultados possíveis.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">Instruções claras e detalhadas para garantir que você possa seguir cada receita com facilidade e obter os melhores resultados possíveis.\x3c/p>"},"d5767b3d-75b1-4397-9794-3ca2ec49f829":{"id":"d5767b3d-75b1-4397-9794-3ca2ec49f829","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"childIds":["40f57584-eb61-4468-8e4a-b87aa066b6a2","dab42e4a-8c67-4040-8a16-f36f8e116a5d","8b4cadcc-ce83-4809-8a9b-9c41cda09820"],"parentId":"28dba206-2d32-4cb0-9378-07828f332571","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-92c6cbb3","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"d6d48502-3167-42c9-bcbe-0e37bff8f56a":{"id":"d6d48502-3167-42c9-bcbe-0e37bff8f56a","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":0,"paddingLeft":30,"paddingRight":30,"paddingBottom":0},"childIds":["393f5d8b-cae4-4602-8bc8-a8808f5fcb93"],"parentId":"d15db87d-21b5-41af-9114-d530cd06a13a","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-453e5f01","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":40},"mobilePadding":{"paddingTop":0,"paddingLeft":20,"paddingRight":20,"paddingBottom":0}},"da560ce1-bfb7-4cb3-8cab-86e19ef60114":{"id":"da560ce1-bfb7-4cb3-8cab-86e19ef60114","type":"BUTTON","styles":{"color":"rgba(255, 255, 255, 1)","width":"auto","padding":"15px 90px 15px 90px","fontSize":"20px","alignSelf":"center","fontStyle":"normal","marginTop":"25px","background":"rgba(65, 117, 5, 1)","fontFamily":"Anton","fontWeight":"400","marginLeft":"0px","borderColor":"rgba(1,77,130,1)","borderStyle":"solid","borderWidth":"3px","marginRight":"0px","marginBottom":"0px","borderTopLeftRadius":"3px","borderTopRightRadius":"3px","borderBottomLeftRadius":"3px","borderBottomRightRadius":"3px"},"options":{"text":"Quero o Meu Agora!","popup":"","action":"openUrl","attrId":"button-9813c345","linkUrl":"https://pay.kiwify.com.br/UO4hk6a","subText":"Clique para Adquiri-lo","appearance":{"mobile":true,"desktop":true},"borderType":"bottomOnly","subTextColor":"rgba(255,255,255,0.8)","redirectionType":"nextStep","subTextFontSize":"14px","iconClassNameAfter":"","iconClassNameBefore":""},"parentId":"66e8dc36-17ac-4707-bf32-5f71de0bb811","mobileStyles":{"width":"100%","padding":"5px 5px 5px 5px","fontSize":"20px","alignSelf":"center","boxShadow":"none","marginTop":"5px","marginLeft":"0px","marginRight":"0px","marginBottom":"5px"},"mobileOptions":{"subTextFontSize":"14px"}},"dab42e4a-8c67-4040-8a16-f36f8e116a5d":{"id":"dab42e4a-8c67-4040-8a16-f36f8e116a5d","size":4,"type":"Column","childIds":[],"parentId":"d5767b3d-75b1-4397-9794-3ca2ec49f829","alignSelf":"flex-start","htmlAttrId":"column-a09499d1"},"e136228c-bf1b-4e90-9e78-5261b4b6033b":{"id":"e136228c-bf1b-4e90-9e78-5261b4b6033b","size":12,"type":"Column","childIds":["ab7804f5-4c90-4ebc-a349-fb930e1be980"],"parentId":"1788e3d1-9722-4e7d-9bbb-1980a989693d","alignSelf":"flex-start","htmlAttrId":"column-b6363bf2"},"e54eae53-801d-4af7-8254-2df928c72297":{"id":"e54eae53-801d-4af7-8254-2df928c72297","type":"FaqItem","title":"4- Passo a Passo Detalhado:","styles":[],"options":[],"childIds":["d218ba57-b995-4d40-9c54-12f45db5d9be"],"parentId":"536c9e68-dcf7-4b84-a748-1dfb089583d4","creationItemNumber":4},"e7225cfe-4b7a-4790-8088-f7fd4603dfa6":{"id":"e7225cfe-4b7a-4790-8088-f7fd4603dfa6","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":30,"marginBottom":0},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":16,"parentId":"6f0b11bb-9bfa-410c-b0a3-641680fbd622","textAlign":"left","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-17d0c633","lineHeight":24,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":16,"rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Evite produtos químicos agressivos. Nossas receitas utilizam ingredientes naturais que são suaves para a pele e para o meio ambiente.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","html":"\x3cp dir=\"ltr\">Evite produtos químicos agressivos. Nossas receitas utilizam ingredientes naturais que são suaves para a pele e para o meio ambiente.\x3c/p>"},"e733bf52-3158-404b-9196-7b2db5679caa":{"id":"e733bf52-3158-404b-9196-7b2db5679caa","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":10,"paddingLeft":10,"paddingRight":10,"paddingBottom":10},"childIds":["a2219524-aac2-499c-ab0a-814084ee6eda"],"parentId":"ec0e3929-5a07-455b-a622-0df9ed888802","appearance":{"mobile":true,"desktop":true},"background":[],"htmlAttrId":"row-9754fc5d","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":5,"paddingLeft":5,"paddingRight":5,"paddingBottom":5}},"e7a3b1c8-097e-4627-9f62-c3ea88a5bf65":{"id":"e7a3b1c8-097e-4627-9f62-c3ea88a5bf65","type":"Row","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"childIds":["6b797c07-f56a-43b3-9380-6c839e47eab0","a93edb2d-6422-4c94-a142-754ec15f0cdb"],"parentId":"74e97b52-3a29-45b2-a6cd-0b7b2f9af28b","appearance":{"mobile":true,"desktop":true},"background":{"backgroundSize":"initial","backgroundRepeat":"repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"htmlAttrId":"row-cafe98f9","mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"reverseColumns":true,"backgroundColor":"rgba(0, 0, 0, 0)"},"eacd2b34-1837-4a30-b30a-0740f34a177a":{"id":"eacd2b34-1837-4a30-b30a-0740f34a177a","type":"Text","margin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":40},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":18,"parentId":"cbf9771c-5905-4323-9fbf-c9e1e5fb273a","textAlign":"center","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"text-e8368b41","lineHeight":26,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":32},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":18,"mobileTextAlign":"center","rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Você está cansada de lutar contra as estrias e não encontrar soluções eficazes? Chegou a hora de transformar a aparência da sua pele com o nosso eBook \\\"15 Receitas Caseiras que Ajudam a Eliminar Estrias\\\". Este guia completo reúne as melhores receitas naturais, testadas e aprovadas, para ajudar você a conquistar uma pele mais lisa e uniforme.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","mobileLineHeight":26,"html":"\x3cp dir=\"ltr\">Você está cansada de lutar contra as estrias e não encontrar soluções eficazes? Chegou a hora de transformar a aparência da sua pele com o nosso eBook \"15 Receitas Caseiras que Ajudam a Eliminar Estrias\". Este guia completo reúne as melhores receitas naturais, testadas e aprovadas, para ajudar você a conquistar uma pele mais lisa e uniforme.\x3c/p>"},"ec0e3929-5a07-455b-a622-0df9ed888802":{"id":"ec0e3929-5a07-455b-a622-0df9ed888802","type":"SECTION","styles":{"padding":"40px 40px 100px 40px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundRepeat":"no-repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"options":{"width":"small","attrId":"section-b9d919fc","appearance":{"mobile":true,"desktop":true}},"childIds":["406791df-d0d5-44e1-a141-305b4548a306","1788e3d1-9722-4e7d-9bbb-1980a989693d","cdfe919d-b8fb-4046-b2a0-1ec8b3c4a874","033ad2c6-b3fd-4bc0-bf93-7b08f3282d80","e733bf52-3158-404b-9196-7b2db5679caa","9fd667db-308d-46bd-afe6-055962cbaa23","cfac1b66-4146-4fd8-abff-c3b52bcb5c84","1062baae-091c-4b33-af6c-5350b11241de","9892cd8b-f79a-4471-b87f-3b12c1951081"],"parentId":"c1712223-4284-4419-9de8-375556662d76","mobileStyles":{"padding":"40px 5px 40px 5px","marginTop":"0px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px","backgroundSize":"initial","backgroundRepeat":"no-repeat","backgroundPosition":"50% 50%","backgroundAttachment":"initial"},"mobileOptions":[]},"ed67514a-4f8f-4268-91d2-6d51cecaa71f":{"id":"ed67514a-4f8f-4268-91d2-6d51cecaa71f","size":12,"type":"Column","childIds":["d0fe86c2-c2b6-4e5f-961d-4209d7d42960","7dda5586-2cdb-4cf2-bdd4-dce58f1e6030","94db9d86-d751-42e1-9fec-feca48583265"],"parentId":"93f1801d-aa4f-43d1-9769-3597451cdb91","alignSelf":"flex-start","htmlAttrId":"column-4ebe131c"},"f1a33b0e-aab2-4786-b559-a0ec41d21a61":{"id":"f1a33b0e-aab2-4786-b559-a0ec41d21a61","type":"Image","ratio":1.33,"width":233,"fileId":19151554,"margin":{"marginTop":-140,"marginLeft":20,"marginRight":0,"marginBottom":0},"styles":[],"options":[],"parentId":"1619ca76-8f2e-4dae-90d0-ffd95fb2f57e","alignSelf":"flex-start","appearance":{"mobile":true,"desktop":true},"htmlAttrId":"image-47705332","mobileWidth":181,"mobileMargin":{"marginTop":-40,"marginLeft":0,"marginRight":0,"marginBottom":0},"mobileAlignSelf":"flex-start"},"f33c429a-596b-422b-9597-cd1550f6bbf6":{"id":"f33c429a-596b-422b-9597-cd1550f6bbf6","type":"FORM_INPUT","styles":{"fontSize":"18px","marginTop":"25px","marginLeft":"0px","borderColor":"rgba(176, 186, 202, 1)","borderStyle":"solid","borderWidth":"1px","marginRight":"0px","marginBottom":"0px","backgroundColor":"rgba(255, 255, 255, 1)","borderTopLeftRadius":"5px","borderTopRightRadius":"5px","borderBottomLeftRadius":"5px","borderBottomRightRadius":"5px"},"options":{"slug":"phone_number","attrId":"form-input-7fb83450","inputType":"text","appearance":{"mobile":true,"desktop":true},"placeholder":"Enter Your Phone number"},"parentId":"47f82442-9c1c-4611-b6bd-e227941a0f9c","mobileStyles":{"marginTop":"10px","marginLeft":"0px","marginRight":"0px","marginBottom":"0px"},"mobileOptions":[]},"fc97b149-012f-41d1-9f07-c932648ebfaf":{"id":"fc97b149-012f-41d1-9f07-c932648ebfaf","type":"Text","margin":{"marginTop":80,"marginLeft":0,"marginRight":-56,"marginBottom":20},"styles":[],"options":[],"padding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"fontSize":51,"parentId":"6567df4c-13b9-4752-aac5-2d1bd762c525","fontStyle":"normal","textAlign":"left","appearance":{"mobile":true,"desktop":true},"fontFamily":"Anton","fontWeight":"400","htmlAttrId":"text-aa1b3eaf","lineHeight":55,"mobileMargin":{"marginTop":0,"marginLeft":0,"marginRight":0,"marginBottom":18},"mobilePadding":{"paddingTop":0,"paddingLeft":0,"paddingRight":0,"paddingBottom":0},"mobileFontSize":34,"mobileTextAlign":"center","rawContentState":"{\"blocks\":[{\"key\":\"7gjsu\",\"text\":\"Experimente receitas caseiras eficazes para remover estrias, desenvolvidas por especialistas.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":93,\"style\":\"rgba(255, 255, 255, 1)\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}","mobileLineHeight":40,"html":"\x3cp dir=\"ltr\">\x3cspan style=\"color: rgba(255, 255, 255, 1)\">Experimente receitas caseiras eficazes para remover estrias, desenvolvidas por especialistas.\x3c/span>\x3c/p>"}},"lastPopupNumber":1,"seo":{"index":true,"title":"Página Oficial! ","author":"Alan Cavalcante","keywords":"estria , tratamento estrias ,como remover estrias , eliminar estria , receita de estria","description":"Um E-book com dicas práticas de especialistas, para te ajudar a eliminar as ESTRIAS.","socialImage":19056939},"globalColor":null,"isTemplate":false,"doubleOptIn":false,"globalSettings":{"fontStyle":"normal","linkColor":"rgba(25, 25, 25, 1)","textColor":"rgba(25, 25, 25, 1)","fontFamily":"Nunito Sans","fontWeight":"400","headingColor":"rgba(25, 25, 25, 1)","textFontSize":"20px","headingFontStyle":"normal","headingFontFamily":"Nunito Sans","headingFontWeight":"700","mobileTextFontSize":"16px"}},"files":{"5128188":{"id":5128188,"path":"https://d1yei2z3i6k35z.cloudfront.net/systeme-common/6364e73e22d6b_Fondorange2copie.png","size":46863,"tags":["image"],"type":"image","filename":"6364e73e22d6b_Fondorange2copie.png","filenameWithoutHash":"Fondorange2copie.png"},"5128220":{"id":5128220,"path":"https://d1yei2z3i6k35z.cloudfront.net/systeme-common/6364e800649bc_Fondorange4.png","size":45078,"tags":["image"],"type":"image","filename":"6364e800649bc_Fondorange4.png","filenameWithoutHash":"Fondorange4.png"},"5132908":{"id":5132908,"path":"https://d1yei2z3i6k35z.cloudfront.net/systeme-common/63653c4acfc83_TTNormsPro-Bold.ttf","size":213900,"tags":["font"],"type":"font","filename":"63653c4acfc83_TTNormsPro-Bold.ttf","filenameWithoutHash":"TTNormsPro-Bold.ttf"},"5134037":{"id":5134037,"path":"https://d1yei2z3i6k35z.cloudfront.net/systeme-common/636550ea2ba8c_delivery-concept-portrait-of-handsome-african-american-pizza-delivery-man-isolated-on-grey-studio-background-copy-spacecopie1.png","size":76718,"tags":["image"],"type":"image","filename":"636550ea2ba8c_delivery-concept-portrait-of-handsome-african-american-pizza-delivery-man-isolated-on-grey-studio-background-copy-spacecopie1.png","filenameWithoutHash":"delivery-concept-portrait-of-handsome-african-american-pizza-delivery-man-isolated-on-grey-studio-background-copy-spacecopie1.png"},"7799343":{"id":7799343,"path":"https://d1yei2z3i6k35z.cloudfront.net/systeme-common/645cd3eac541d_image34.png","size":8382,"tags":["image"],"type":"image","filename":"645cd3eac541d_image34.png","filenameWithoutHash":"image34.png"},"19056939":{"id":19056939,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6663ac94e3f97_Ebookcompletodetoxemocionalrosaeazul.jpg","size":43072,"tags":["image"],"type":"image","filename":"6663ac94e3f97_Ebookcompletodetoxemocionalrosaeazul.jpg","filenameWithoutHash":"Ebookcompletodetoxemocionalrosaeazul.jpg"},"19057239":{"id":19057239,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6663b1b98fa89_Post4passospararemoveramaquiagem.jpg","size":50716,"tags":["image"],"type":"image","filename":"6663b1b98fa89_Post4passospararemoveramaquiagem.jpg","filenameWithoutHash":"Post4passospararemoveramaquiagem.jpg"},"19057278":{"id":19057278,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6663b259264d7_Post4passospararemoveramaquiagem1.jpg","size":66308,"tags":["image"],"type":"image","filename":"6663b259264d7_Post4passospararemoveramaquiagem1.jpg","filenameWithoutHash":"Post4passospararemoveramaquiagem1.jpg"},"19057368":{"id":19057368,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6663b384492f9_Post4passospararemoveramaquiagem2.jpg","size":33741,"tags":["image"],"type":"image","filename":"6663b384492f9_Post4passospararemoveramaquiagem2.jpg","filenameWithoutHash":"Post4passospararemoveramaquiagem2.jpg"},"19151554":{"id":19151554,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/66679ca3a44e6_v4-460px-Get-Rid-of-Stretch-Marks-Fast-Step-2-Version-3.jpg.jpg","size":23112,"tags":["image"],"type":"image","filename":"66679ca3a44e6_v4-460px-Get-Rid-of-Stretch-Marks-Fast-Step-2-Version-3.jpg.jpg","filenameWithoutHash":"v4-460px-Get-Rid-of-Stretch-Marks-Fast-Step-2-Version-3.jpg.jpg"},"19151894":{"id":19151894,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6667a0a3d3b70_familia__3_-removebg-preview.png","size":199911,"tags":["image"],"type":"image","filename":"6667a0a3d3b70_familia__3_-removebg-preview.png","filenameWithoutHash":"familia__3_-removebg-preview.png"},"19152087":{"id":19152087,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6667a3347af18_v4-460px-Get-Rid-of-Stretch-Marks-on-Your-Back-Step-6.jpg.jpg","size":25336,"tags":["image"],"type":"image","filename":"6667a3347af18_v4-460px-Get-Rid-of-Stretch-Marks-on-Your-Back-Step-6.jpg.jpg","filenameWithoutHash":"v4-460px-Get-Rid-of-Stretch-Marks-on-Your-Back-Step-6.jpg.jpg"},"19152813":{"id":19152813,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6667abb95e74e_avatar-gen1c2b16275c66b69a5b333906f4a63575.jpg","size":99554,"tags":["image"],"type":"image","filename":"6667abb95e74e_avatar-gen1c2b16275c66b69a5b333906f4a63575.jpg","filenameWithoutHash":"avatar-gen1c2b16275c66b69a5b333906f4a63575.jpg"},"19152865":{"id":19152865,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6667ac5b756f8_download1.jpg","size":113454,"tags":["image"],"type":"image","filename":"6667ac5b756f8_download1.jpg","filenameWithoutHash":"download1.jpg"},"19152929":{"id":19152929,"path":"https://d1yei2z3i6k35z.cloudfront.net/8084894/6667ad03d7698_download2.jpg","size":100161,"tags":["image"],"type":"image","filename":"6667ad03d7698_download2.jpg","filenameWithoutHash":"download2.jpg"}},"optIn":{"customerFields":"%CUSTOMER_FIELDS%","fields":{},"availableCountries":"%AVAILABLE_COUNTRIES%","errors":{"common":[],"fields":{}},"success":false,"submitted":false,"customerCountry":"BR","nextStepUrl":"https://topcursosoficial.systeme.io/default-funnel-step-thank-you-page/3752725","surveyResults":null,"csrfToken":"%CSRF_TOKEN%","submitedRecaptchas":[],"optInRecaptchaError":{}},"management":{"activePopupId":null,"previewMode":false,"screenshotMode":false,"funnelStepId":"12031377","url":"https://topcursosoficial.systeme.io/zeroestrias","confirmedExplicitConsents":[],"isDesktop":null,"affiliateId":"%CONTACT_AFFILIATE_ID%","isMobile":"","affiliateLink":"https://systeme.io/?sa=sa018443741902f619941ec3a0443b135b78ff48b2","agreement":"%AGREEMENT%","isFreemiumUser":"1","captcha":"%CAPTCHA_OPEN_KEY%"},"payment":{"customerType":"%CUSTOMER_TYPE%","customerEmail":"%CUSTOMER_EMAIL%","paymentMethods":"%PAYMENT_METHODS%","isOnlyPersonalAvailable":"%IS_ONLY_PERSONAL_AVAILABLE%","offer":"%OFFER%","checkedPlanId":"%OFFER_PRICE_PLAN_ACTIVE%","customerPaymentMethod":"%CUSTOMER_PAYMENT_METHOD%","vat":0,"offerOwnerCountry":"%OFFER_OWNER_COUNTRY%","offerBumps":"%OFFER_BUMPS%","offerBump":"%OFFER_BUMP%","checkedBumpsIds":[],"agreement":"%AGREEMENT%","couponCode":"","checkedCoupon":null,"pageId":"18577008","affiliateLink":"https://systeme.io/?sa=sa018443741902f619941ec3a0443b135b78ff48b2","stripeAccountId":"%STRIPE_ACCOUNT_ID%","purchaseProcessId":"%PURCHASE_PROCESS_ID%","twoStepPaymentFormStepType":"STEP_OPT_IN","deadlineTime":"%DEADLINE_TIMESTAMP%","deadlineExpirationUrl":"%DEADLINE_EXPIRATION_URL%","downsellUrl":"%DOWNSELL_URL%","mercadoPagoPublicKey":"%MERCADO_PAGO_PUBLIC_KEY%","product":"%PRODUCT%","productQuantity":1,"productActiveVariant":null,"cashOnDeliveryInstruction":"%CASH_ON_DELIVERY_INSTRUCTION%","xenditPublicKey":"%XENDIT_PUBLIC_KEY%"},"blog":{"blogPostListing":"%BLOG_POST_LISTING%","blogPostTitle":"%BLOG_POST_TITLE%","blogPostDescription":"%BLOG_POST_DESCRIPTION%","blogPostImageUrl":"%BLOG_POST_IMAGE_URL%","blogPostDateTs":"%BLOG_POST_DATE_TS%","blogPostCategories":"%BLOG_POST_CATEGORIES%","blogPath":"%BLOG_PATH%","blogLayoutPageId":"%BLOG_LAYOUT_PAGE_ID%","blogCategoryTitle":"%BLOG_CATEGORY_TITLE%","blogCategoryDescription":"%BLOG_CATEGORY_DESCRIPTION%"},"webinar":{"timeStamp":"%WEBINAR_SESSION_TIMESTAMP%","url":"%WEBINAR_SESSION_LINK%"},"webinarSession":{"timeStamp":"%WEBINAR_SESSION_TIMESTAMP%"},"lecture":{"lectureSessionId":null,"lectureSessionLoggingEnabled":"%LECTURE_SESSION_LOGGING_ENABLED%","lectureId":"%LECTURE_ID%"}}</script><script data-cookieconsent="ignore" charSet="UTF-8">window.initialI18nStore={"pt":{"common":{"customer_type":{"personal":"Pessoa física","company":"Pessoa jurídica"},"vat":"IVA","expiration":"Data de validade","card number":"Número do cartão","cvc":"CVC","month":"Mês","day":"Dia","week":"Semana","year":"ano","components":{"offer_price":{"price":"Preço","vat":"Imposto sobre a venda","total":"Total","one_shots_summary":{"total_tax":"Imposto sobre a venda","total_amount":"Total sem impostos","total_amount_with_tax":"Total (incluindo impostos)","discount":"Código do cupom","total_amount_with_coupon":"Valor total, incluindo desconto"},"price_plans":{"trial_period":"{{trialPeriodPrice}} por {{trialPeriodLength}} dias, depois","limited":"{{ amount }} a cada {{ interval }} durante {{ intervalWithLimitOfPayments }}","unlimited":"{{ amount }} {{ intervalHack }} {{ interval }}","interval_hack_one":"cada","interval_hack_many":"todos os","one_shot":"{{ amount }}","trial_period_price":"Gratuito","trial_period_new":"{{trialPeriodPrice}} por {{trialInterval}} depois","unlimited_new":"{{amount}} a cada {{interval}}","limited_with_limit_of_payments":"{{ amount }} / {{ interval }} - {{ count }} vezes"}},"order_summary":{"header":{"product":"Produto","price":"Preço"}},"countdown":{"types":{"date":"Data e hora fixas","minute":"Atraso","daily":"Diária","deadline":"Igual às configurações do funil com prazo"}},"timer":{"hours":"horas","minutes":"minutos","seconds":"segundos","days":"dias"},"webinar_registration_date_time":{"schedule_training":"Horário do treinamento"},"button":{"actions":{"next_step_redirection":"URL da próxima etapa"}},"member_access":{"resetting":{"success_header":"Email enviado com sucesso!","success_description":"Acabamos de enviar um email com um link para redefinir a sua senha."},"login":{"password_forgotten":"Esqueceu a senha?"}},"physical_product":{"quantity_label":"Quantidade"},"coupon":{"discount":"Você economiza"},"affiliate_badge":{"made_with":"Feito com"},"core":{"pagination":{"previous":"Anterior","next":"Próximo","first":"Primeiro","last":"Último"},"text_editor":{"link_menu":{"placeholder":"Digite a URL"}}},"blog_post_listing":{"read":"Ler"},"payment_methods":{"card_number":"Número do cartão","cvc":"CVC","expiration":"Data de validade","credit_cards":{"label":"Cartão de crédito ou débito"},"dlocal_document_number":"Número do CPF/CNPJ","card_holder_name":"Nome do titular","security_code":"Código de segurança","expiration_date":"Data de validade","identification_type":"Tipo de documento","identification_number":"Número do documento","installments":"Parcelas","stripe":{"invalid_card_number":"Número do cartão inválido","invalid_card_expiration_date":"Data de validade inválida","invalid_card_security_code":"Código de segurança inválido","invalid_card_details":"Os dados do seu cartão são inválidos"},"xendit":{"invalid_card_number":"Número do cartão inválido","invalid_card_expiration_date":"Data de validade inválida","invalid_cvn_number":"CVN inválido"},"cash_on_delivery":{"title":"Pagamento na entrega"}},"price_plan":{"startup":"Startup","webinar":"Webinário","enterprise":"Enterprise","custom":"Personalizado","action":{"buy_now":"Compre agora","description":"Tenha acesso a todas as ferramentas de que você precisa e comece a expandir seu negócio online agora mesmo!","label":"Comece gratuitamente"},"range_tooltip":"Até \x3c1>{{amount}}\x3c/1> contatos","question_main":"Quantos contatos você possui?","question_secondary":"Qual é o tamanho da sua lista de e-mails? Quantas pessoas estão recebendo suas newsletters?","select_plan_title":"Selecione um plano","label_in_select_option":"Até {{amount}} contatos"},"breadcrumbs":{"items":{"home":"Blog","demo_blog_post_category_name":"Categoria","demo_blog_post_name":"Post do blog"}},"contact_us":{"success_message":"Obrigado por sua solicitação. Entraremos em contato com você em breve."},"attachments":{"text_label":"Anexar arquivo"},"comments":{"responses_label_one":"Resposta","responses_label_other":"Respostas","load_more_label":"Carregar mais","send_label":"Enviar","cancel_label":"Cancelar","just_now_label":"Há pouco","reply_label":"Responder","input_placeholder_label":"Escreva um comentário…"},"custom_font_picker":{"parse_failed":"Não foi possível analisar os seguintes arquivos de fontes personalizadas: \n{{ fontFileNames }} \nCertifique-se de ter enviado os arquivos corretos","singe_file_parse_failed":"Não foi possível analisar seu arquivo de fonte personalizada. Certifique-se de fazer o upload do arquivo correto"}},"week_plural":"semanas","core":{"error":{"title":"Algo deu errado!"},"errors":{"no_connection":"Por favor, verifique sua conexão com à internet e tente novamente","something_went_wrong":"Algo deu errado. Por favor, tente novamente mais tarde"}},"validation":{"expiration_invalid":"Data de validade inválido","errors":{"form_field_should_not_be_empty":"Este valor não deve ficar em branco."}},"entities":{"blog_post_listing":{"more":{"label":"Ler"}},"offer_price":{"product":{"stub":{"name":"Exemplo de produto"}}}},"month_plural":"meses","price_plan":{"trial_period":{"week":"{{count}} semana","week_other":"{{count}} semanas","day":"{{count}} dia","day_other":"{{count}} dias","month":"{{count}} mês","month_other":"{{count}} meses","year":"{{count}} ano","year_other":"{{count}} anos"},"interval":{"day":"dia","day_other":"{{count}} dias","week":"semana","week_other":"{{count}} semanas","month":"mês","month_other":"{{count}} meses","year":"ano","year_other":"{{count}} anos"},"interval_limited_payments":{"day":"{{count}} dia","day_other":"{{count}} dias","month_other":"{{count}} meses","month":"{{count}} mês","year":"{{count}} ano","year_other":"{{count}} anos","week":"{{count}} semana","week_other":"{{count}} semanas"}},"day_plural":"{{count}} dias","entity":{"product":{"header":"Produtos","quantity_label":"Quantidade","price_label":"Preço unitário","stock_limit_label":"Disponibilidade","stock_limit_title":"{{ limit }} em estoque"}}},"publisher":{"choose time":"Escolha a hora","choose the day":"Escolha o dia","webinar registration date":"Data de registro do webinário","hours":"horas","schedule of the training":"Horário do treinamento","at":"às","countdown":{"days":"Dias","hours":"Horas","minutes":"Minutos","seconds":"Segundos"},"validation":{"not_empty":"Este valor não deve ficar em branco","vat_invalid":"Número de IVA inválido","check_data":"Por favor, verifique os seus dados de entrada","email_invalid":"Por favor, insira um endereço de email válido.","vat_does_not_suitable_for_selected_country":"Este número de IVA não é válido para o país selecionado","empty_price_plans":"Erro: por favor, adicione um preço para o plano nas configurações da página de pagamento","empty_payment_methods":"Por favor, adicione o Paypal aos métodos de pagamento, na página de configurações da etapa","check_card_data":"Seu cartão não passou na validação. Por favor, verifique o número do cartão, a data de validade e o código CVC","cvc_invalid":"Código CVC inválido","expiration_invalid":"Data de validade inválido","identification_number_invalid":"Por favor, insira um número de identificação válido","card_number_invalid":"Por favor, insira um número de cartão válido","errors":{"form_field_should_not_be_empty":"Este valor não deve ficar em branco."},"cpf_number_invalid":"Número de CPF inválido","cnpj_number_invalid":"Número de CNPJ inválido","cardholder_name_invalid":"O nome do titular do cartão é inválido","personal_identification_number_invalid":"Número de {{ identification_type }} inválido"},"entities":{"offer_upsell_price":{"stub":{"name":"Exemplo de preço"}},"field":{"country":{"placeholder":"Escolha um país"}}},"webinar_session":{"countdown":{"days":"Dias","hours":"Horas","minutes":"Minutos","seconds":"Segundos"}},"components":{"timer":{"days":"dias"},"preview":{"warning":"Este é o modo de pré-visualização. Não use a URL"},"offer_price":{"one_shots_summary":{"total_amount_with_coupon":"Valor total, incluindo desconto"},"price_plans":{"limited_with_limit_of_payments":"{{ amount }} / {{ interval }} - {{ count }} vezes"}},"entities":{"blog_content_placeholder":{"placeholder":"Conteúdo do blog"},"blog_post_content_placeholder":{"placeholder":"Espaço reservado para o conteúdo da postagem do blog"}},"core":{"text_editor":{"link_menu":{"placeholder":"Digite a URL"}}},"payment_methods":{"credit_cards":{"label":"Cartão de crédito ou débito"},"dlocal_document_number":"Número do CPF/CNPJ","expiration_month":"Mês","expiration_year":"Ano","identification_number":"Número do documento","installments":"Parcelas","stripe":{"invalid_card_number":"Número do cartão inválido","invalid_card_expiration_date":"Data de validade inválida","invalid_card_security_code":"Código de segurança inválido","invalid_card_details":"Os dados do seu cartão são inválidos"},"xendit":{"invalid_card_number":"Número do cartão inválido","invalid_card_expiration_date":"Data de validade inválida","invalid_cvn_number":"CVN inválido"},"cash_on_delivery":{"title":"Pagamento na entrega"}},"contact_us":{"success_message":"Obrigado por sua solicitação. Entraremos em contato com você em breve."},"attachments":{"text_label":"Anexar arquivo"},"comments":{"responses_label_one":"Resposta","responses_label_other":"Respostas","load_more_label":"Carregar mais","send_label":"Enviar","cancel_label":"Cancelar","just_now_label":"Há pouco","reply_label":"Responder","input_placeholder_label":"Escreva um comentário…","delete_confirmation_label":"Tem certeza de que deseja excluir este comentário? Todas as respostas também serão excluídas"}},"core":{"error":{"title":"Algo deu errado!"},"errors":{"no_connection":"Por favor, verifique sua conexão com à internet e tente novamente","something_went_wrong":"Algo deu errado. Por favor, tente novamente mais tarde"}},"payment":{"fields":{"company_vat_id":{"errors":{"not_suitable_for_selected_country":"Este número de IVA não é válido para o país selecionado"}}}},"entity":{"product":{"header":"Produtos","price_label":"Preço unitário"}},"global":{"search":"Pesquisar"}}}}</script><script data-cookieconsent="ignore" charSet="UTF-8">window.initialLanguage="pt"</script><script data-cookieconsent="ignore" src="https://d6r6gym8ueyux.cloudfront.net/runtimeSimplePage.1f5d57551aa31777b361.js" async=""></script><script data-cookieconsent="ignore" src="https://d6r6gym8ueyux.cloudfront.net/simplePage.ea9219870fb9140a69d0.js" async=""></script><script data-cookieconsent="ignore" src="https://d6r6gym8ueyux.cloudfront.net/vendors~simplePage.029d892961112e0b4b18.js" async=""></script><style>@font-face {
-    font-family: TTNormsPro-Bold;
-    src: url('https://d1yei2z3i6k35z.cloudfront.net/systeme-common/63653c4acfc83_TTNormsPro-Bold.ttf');
-  }
-</style></body></html>
+
+
+  <div class="d-flex flex-justify-center flex-items-center flex-column-reverse flex-lg-row flex-wrap flex-lg-nowrap">
+    <div class="d-flex flex-items-center flex-shrink-0 mx-2">
+      <a aria-label="Homepage" title="GitHub" class="footer-octicon mr-2" href="https://github.com">
+        <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-mark-github">
+    <path d="M12.5.75C6.146.75 1 5.896 1 12.25c0 5.089 3.292 9.387 7.863 10.91.575.101.79-.244.79-.546 0-.273-.014-1.178-.014-2.142-2.889.532-3.636-.704-3.866-1.35-.13-.331-.69-1.352-1.18-1.625-.402-.216-.977-.748-.014-.762.906-.014 1.553.834 1.769 1.179 1.035 1.74 2.688 1.25 3.349.948.1-.747.402-1.25.733-1.538-2.559-.287-5.232-1.279-5.232-5.678 0-1.25.445-2.285 1.178-3.09-.115-.288-.517-1.467.115-3.048 0 0 .963-.302 3.163 1.179.92-.259 1.897-.388 2.875-.388.977 0 1.955.13 2.875.388 2.2-1.495 3.162-1.179 3.162-1.179.633 1.581.23 2.76.115 3.048.733.805 1.179 1.825 1.179 3.09 0 4.413-2.688 5.39-5.247 5.678.417.36.776 1.05.776 2.128 0 1.538-.014 2.774-.014 3.162 0 .302.216.662.79.547C20.709 21.637 24 17.324 24 12.25 24 5.896 18.854.75 12.5.75Z"></path>
+</svg>
+</a>
+      <span>
+        &copy; 2024 GitHub,&nbsp;Inc.
+      </span>
+    </div>
+
+    <nav aria-label="Footer">
+      <h3 class="sr-only" id="sr-footer-heading">Footer navigation</h3>
+
+      <ul class="list-style-none d-flex flex-justify-center flex-wrap mb-2 mb-lg-0" aria-labelledby="sr-footer-heading">
+
+          <li class="mx-2">
+            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}" href="https://docs.github.com/site-policy/github-terms/github-terms-of-service" data-view-component="true" class="Link--secondary Link">Terms</a>
+          </li>
+
+          <li class="mx-2">
+            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}" href="https://docs.github.com/site-policy/privacy-policies/github-privacy-statement" data-view-component="true" class="Link--secondary Link">Privacy</a>
+          </li>
+
+          <li class="mx-2">
+            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security" data-view-component="true" class="Link--secondary Link">Security</a>
+          </li>
+
+          <li class="mx-2">
+            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}" href="https://www.githubstatus.com/" data-view-component="true" class="Link--secondary Link">Status</a>
+          </li>
+
+          <li class="mx-2">
+            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to docs&quot;,&quot;label&quot;:&quot;text:docs&quot;}" href="https://docs.github.com/" data-view-component="true" class="Link--secondary Link">Docs</a>
+          </li>
+
+          <li class="mx-2">
+            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}" href="https://support.github.com?tags=dotcom-footer" data-view-component="true" class="Link--secondary Link">Contact</a>
+          </li>
+
+          <li class="mr-3" >
+  <cookie-consent-link>
+    <button
+      type="button"
+      class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent"
+      data-action="click:cookie-consent-link#showConsentManagement"
+      data-analytics-event="{&quot;location&quot;:&quot;footer&quot;,&quot;action&quot;:&quot;cookies&quot;,&quot;context&quot;:&quot;subfooter&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;cookies_link_subfooter_footer&quot;}"
+    >
+      Manage cookies
+    </button>
+  </cookie-consent-link>
+</li>
+
+<li class="mr-3">
+  <cookie-consent-link>
+    <button
+      type="button"
+      class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent"
+      data-action="click:cookie-consent-link#showConsentManagement"
+      data-analytics-event="{&quot;location&quot;:&quot;footer&quot;,&quot;action&quot;:&quot;dont_share_info&quot;,&quot;context&quot;:&quot;subfooter&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;dont_share_info_link_subfooter_footer&quot;}"
+    >
+      Do not share my personal information
+    </button>
+  </cookie-consent-link>
+</li>
+
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+
+
+    <ghcc-consent id="ghcc" class="position-fixed bottom-0 left-0" style="z-index: 999999" data-initial-cookie-consent-allowed="" data-cookie-consent-required="true"></ghcc-consent>
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+    <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+    <template id="snippet-clipboard-copy-button">
+  <div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div>
+</template>
+<template id="snippet-clipboard-copy-button-unpositioned">
+  <div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div>
+</template>
+
+
+
+
+    </div>
+
+    <div id="js-global-screen-reader-notice" class="sr-only mt-n1" aria-live="polite" aria-atomic="true" ></div>
+    <div id="js-global-screen-reader-notice-assertive" class="sr-only mt-n1" aria-live="assertive" aria-atomic="true"></div>
+  </body>
+</html>
+
